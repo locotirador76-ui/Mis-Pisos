@@ -1,1 +1,9 @@
-{"anuncios": {}, "estado": {}}
+{
+ "anuncios": {},
+ "estado": {},
+ "estado_previo": {
+  "Idealista": "sin clave (opcional)",
+  "Pisos.com": "ERROR: pisos.com respondió 404"
+ },
+ "actualizado": "2026-11-01T21:42+00:00"
+}
