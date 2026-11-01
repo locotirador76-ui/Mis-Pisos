@@ -1,12 +1,50 @@
 {
-  "precio_max": 120000,
-  "m2_min": 60,
-  "hab_min": 2,
-  "banos_min": 1,
-  "max_paginas": 3,
-  "eur_m2_sospechoso": 900,
-  "palabras_riesgo": ["ocupad", "okup", "inquilin", "alquilad", "arrendad", "nuda propiedad", "usufructo", "subasta", "cesi[oó]n de remate", "embargo", "judicial", "pro ?indiviso", "sin posesi[oó]n", "inversor", "inversi[oó]n"],
-  "zonas": [
-    {"nombre": "Santa Pola", "trovimap": "santa-pola"}
-  ]
+ "precio_max": 120000,
+ "m2_min": 60,
+ "hab_min": 2,
+ "banos_min": 1,
+ "max_paginas": 3,
+ "eur_m2_sospechoso": 900,
+ "palabras_riesgo": [
+  "ocupad",
+  "okup",
+  "inquilin",
+  "alquilad",
+  "arrendad",
+  "nuda propiedad",
+  "usufructo",
+  "subasta",
+  "cesi[oó]n de remate",
+  "embargo",
+  "judicial",
+  "pro ?indiviso",
+  "sin posesi[oó]n",
+  "inversor",
+  "inversi[oó]n"
+ ],
+ "zonas": [
+  {
+   "nombre": "Santa Pola",
+   "trovimap": "santa-pola"
+  }
+ ],
+ "anuncios": {},
+ "estado_previo": {
+  "Santa Pola": "ERROR: 'max_paginas'",
+  "Guardamar del Segura": "ERROR: 'max_paginas'",
+  "Urb. La Marina": "ERROR: 'max_paginas'",
+  "San Fulgencio": "ERROR: 'max_paginas'",
+  "Almoradí": "ERROR: 'max_paginas'",
+  "Catral": "ERROR: 'max_paginas'",
+  "Dolores": "ERROR: 'max_paginas'",
+  "Crevillent": "ERROR: 'max_paginas'",
+  "Gran Alacant": "ERROR: 'max_paginas'",
+  "El Campello": "ERROR: 'max_paginas'",
+  "Mutxamel": "ERROR: 'max_paginas'",
+  "Sant Joan d'Alacant": "ERROR: 'max_paginas'",
+  "Moralet": "ERROR: 'max_paginas'",
+  "Agost": "ERROR: 'max_paginas'",
+  "Aspe": "ERROR: 'max_paginas'"
+ },
+ "actualizado": "2026-11-01T21:56+00:00"
 }
