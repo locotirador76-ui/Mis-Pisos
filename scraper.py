@@ -1,5 +1,4 @@
 import datetime as dt, html, json, os, re, time
-from urllib.parse import urljoin
 import requests
 
 cfg = json.load(open("config.json", encoding="utf-8"))
@@ -17,7 +16,7 @@ BASE = "https://www.trovimap.com/venta/vivienda/alicante-alacant/{}"
 FIN = re.compile(r"Ver más\s*Contactar")
 M2 = re.compile(r"(?<!Mín )(\d{2,4}) m²\s+(\d+)(?:\s+(\d+))?")
 PRECIO = re.compile(r"(?<!Máx )(?<!Mín )(\d{1,3}(?:\.\d{3})+) €(?!/)")
-ENLACE = re.compile(r'<h2[^>]*>\s*<a[^>]*href="([^"]*?/inmueble/([\w-]+))"[^>]*>(.*?)</a>', re.S)
+IDS = re.compile(r"(?<![\d-])(\d{5,7}-\d{7,9})(?![\d-])")
 
 
 def tg(texto):
@@ -41,23 +40,26 @@ def limpia(h):
 
 
 def leer_pagina(h, zona):
-    enlaces = ENLACE.findall(h)
-    tarjetas = FIN.split(limpia(h))[:-1]
-    if len(tarjetas) != len(enlaces):
-        raise ValueError(f"{len(tarjetas)} tarjetas pero {len(enlaces)} enlaces: hay que ajustar el lector")
+    partes = re.split(r"Ver más(?:\s|<[^>]*>)*Contactar", html.unescape(h))[:-1]
     out = []
-    for c, (href, ident, titulo) in zip(tarjetas, enlaces):
+    for p in partes:
+        ids = IDS.findall(p)
+        c = limpia(p)
         m = M2.search(c)
-        if not m:
+        if not ids or not m:
             continue
-        precios = [float(p.replace(".", "")) for p in PRECIO.findall(c[:m.start()])][-2:]
+        precios = [float(x.replace(".", "")) for x in PRECIO.findall(c[:m.start()])][-2:]
         if not precios:
             continue
         antes = precios[1] if len(precios) == 2 and precios[1] > precios[0] else None
-        out.append(dict(id="trovimap-" + ident, fuente="Trovimap", titulo=limpia(titulo), precio=precios[0],
+        resto = c[m.end():]
+        titulo = re.sub(r"^.*?Compra - (?:Agente Inmobiliario|Particular|\w+)\s*", "", resto[:200]).strip()[:90] or resto[:90]
+        out.append(dict(id="trovimap-" + ids[-1], fuente="Trovimap", titulo=titulo, precio=precios[0],
                         precio_antes=antes, m2=int(m.group(1)), hab=int(m.group(2)),
                         banos=int(m.group(3)) if m.group(3) else None, zona=zona,
-                        url=urljoin("https://www.trovimap.com", href), texto=c[:600]))
+                        url="https://www.trovimap.com/inmueble/" + ids[-1], texto=c[:600]))
+    if partes and not out:
+        raise ValueError("no pude leer precio, m² o enlace en: " + limpia(partes[0])[-300:] + " || " + partes[0][-300:])
     return out
 
 
