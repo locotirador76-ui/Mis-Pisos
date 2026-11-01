@@ -1,0 +1,25 @@
+{
+  "precio_max": 120000,
+  "m2_min": 60,
+  "hab_min": 2,
+  "banos_min": 1,
+  "radio_m": 4000,
+  "palabras_riesgo": ["ocupad", "okup", "inquilin", "alquilad", "arrendad", "nuda propiedad", "usufructo", "subasta", "cesi[oó]n de remate", "embargo", "judicial", "pro ?indiviso", "sin posesi[oó]n"],
+  "zonas": [
+    {"nombre": "Santa Pola", "lat": 38.1914, "lon": -0.5568, "pisos": "santa_pola"},
+    {"nombre": "Guardamar del Segura", "lat": 38.0897, "lon": -0.6552, "pisos": "guardamar_del_segura"},
+    {"nombre": "Urb. La Marina", "lat": 38.1240, "lon": -0.6480},
+    {"nombre": "San Fulgencio", "lat": 38.1131, "lon": -0.6350, "pisos": "san_fulgencio"},
+    {"nombre": "Almoradí", "lat": 38.1056, "lon": -0.7944, "pisos": "almoradi"},
+    {"nombre": "Catral", "lat": 38.1650, "lon": -0.8036, "pisos": "catral"},
+    {"nombre": "Dolores", "lat": 38.1411, "lon": -0.7728, "pisos": "dolores"},
+    {"nombre": "Crevillent", "lat": 38.2486, "lon": -0.8105, "pisos": "crevillente"},
+    {"nombre": "Gran Alacant", "lat": 38.2275, "lon": -0.5217},
+    {"nombre": "El Campello", "lat": 38.4281, "lon": -0.3969, "pisos": "el_campello"},
+    {"nombre": "Mutxamel", "lat": 38.4156, "lon": -0.4458, "pisos": "mutxamel"},
+    {"nombre": "Sant Joan d'Alacant", "lat": 38.4030, "lon": -0.4383, "pisos": "sant_joan_d_alacant"},
+    {"nombre": "Moralet", "lat": 38.4045, "lon": -0.4553},
+    {"nombre": "Agost", "lat": 38.4411, "lon": -0.6358, "pisos": "agost"},
+    {"nombre": "Aspe", "lat": 38.3461, "lon": -0.7664, "pisos": "aspe"}
+  ]
+}
