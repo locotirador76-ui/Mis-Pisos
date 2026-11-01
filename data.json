@@ -28,9 +28,631 @@
    "trovimap": "santa-pola"
   }
  ],
- "anuncios": {},
- "estado_previo": {
-  "Santa Pola": "ERROR: 20 tarjetas pero 0 enlaces: hay que ajustar el lector"
+ "anuncios": {
+  "trovimap-382244-40932912": {
+   "id": "trovimap-382244-40932912",
+   "fuente": "Trovimap",
+   "titulo": "Planta baja en venta en Santa Pola, Centro con Ascensor CDR032. Te presentamos esta intere",
+   "precio": 100000.0,
+   "precio_antes": 110000.0,
+   "m2": 94,
+   "hab": 3,
+   "banos": 2,
+   "zona": "Santa Pola",
+   "url": "https://www.trovimap.com/inmueble/382244-40932912",
+   "texto": "Comprar Pisos y Casas en Santa Pola, Alicante/Alacant | Trovimap --> --> Toggle navigation this.getMessages()\"> this.getMessages()\"> this.getMessages()\"> this.getMessages()\"> Precios Valora tu inmueble Blog Anúnciate gratis Entrar Máx 120.000 € Mín 60 m² Habitaciones (2+) Filtros Estadísticas Históricas Guardar búsqueda Mostrar límites : 26 Alicante/Alacant Santa Pola Alicante/Alacant Murcia Valencia/València Albacete Almería Castellón/Castelló Cuenca Granada Teruel Jaén Santa Pola Elche/Elx Alacant/Alicante Guardamar del Segura San Fulgencio Rojales Monforte del Cid Dolores Formentera del Seg",
+   "riesgo": null,
+   "incompleto": false,
+   "primera_vez": "2026-11-01",
+   "ultima_vez": "2026-11-01",
+   "historial": [
+    [
+     "2026-11-01",
+     110000.0
+    ],
+    [
+     "2026-11-01",
+     100000.0
+    ]
+   ]
+  },
+  "trovimap-382244-21659728": {
+   "id": "trovimap-382244-21659728",
+   "fuente": "Trovimap",
+   "titulo": "Piso en venta en Santa Pola, Playa Lisa con Ascensor 1633. Se vende piso en playa lisa, Sa",
+   "precio": 105000.0,
+   "precio_antes": null,
+   "m2": 90,
+   "hab": 3,
+   "banos": 1,
+   "zona": "Santa Pola",
+   "url": "https://www.trovimap.com/inmueble/382244-21659728",
+   "texto": "105.000 € 1.167 €/m² 90 m² 3 1 Piso Compra - Agente Inmobiliario Piso en venta en Santa Pola, Playa Lisa con Ascensor 1633. Se vende piso en playa lisa, Santa Pola, a menos de 50m de la playa, ideal para pasar el verano y largas temporadas, 3 habitaciones, salón, coci",
+   "riesgo": null,
+   "incompleto": false,
+   "primera_vez": "2026-11-01",
+   "ultima_vez": "2026-11-01",
+   "historial": [
+    [
+     "2026-11-01",
+     105000.0
+    ]
+   ]
+  },
+  "trovimap-386974-40914591": {
+   "id": "trovimap-386974-40914591",
+   "fuente": "Trovimap",
+   "titulo": "OPORTUNIDAD DE INVERSION - PROPIEDAD PARA INVERSORES con Ascensor Te presentamos esta inte",
+   "precio": 100000.0,
+   "precio_antes": 110000.0,
+   "m2": 94,
+   "hab": 3,
+   "banos": 2,
+   "zona": "Santa Pola",
+   "url": "https://www.trovimap.com/inmueble/386974-40914591",
+   "texto": "100.000 € 110.000 € 94 m² 3 2 Planta Baja Compra - Agente Inmobiliario OPORTUNIDAD DE INVERSION - PROPIEDAD PARA INVERSORES con Ascensor Te presentamos esta interesante propiedad situada en Santa Pola ( Alicante ), en una zona residencial consolidada, a pocos metros del Mercado Central",
+   "riesgo": "INVERSION",
+   "incompleto": false,
+   "primera_vez": "2026-11-01",
+   "ultima_vez": "2026-11-01",
+   "historial": [
+    [
+     "2026-11-01",
+     110000.0
+    ],
+    [
+     "2026-11-01",
+     100000.0
+    ]
+   ]
+  },
+  "trovimap-382244-26275923": {
+   "id": "trovimap-382244-26275923",
+   "fuente": "Trovimap",
+   "titulo": "Piso en venta en Santa Pola, Carrer del Mar, 03130 con Ascensor 58. Piso en perfecto estad",
+   "precio": 120000.0,
+   "precio_antes": 134900.0,
+   "m2": 80,
+   "hab": 2,
+   "banos": 1,
+   "zona": "Santa Pola",
+   "url": "https://www.trovimap.com/inmueble/382244-26275923",
+   "texto": "120.000 € 134.900 € 80 m² 2 1 Piso Compra - Agente Inmobiliario Piso en venta en Santa Pola, Carrer del Mar, 03130 con Ascensor 58. Piso en perfecto estado ubicado en la calle del Mar, una de las zonas más demandadas del municipio, con todos los servicios cerca, supermercados,",
+   "riesgo": null,
+   "incompleto": false,
+   "primera_vez": "2026-11-01",
+   "ultima_vez": "2026-11-01",
+   "historial": [
+    [
+     "2026-11-01",
+     134900.0
+    ],
+    [
+     "2026-11-01",
+     120000.0
+    ]
+   ]
+  },
+  "trovimap-382244-39378413": {
+   "id": "trovimap-382244-39378413",
+   "fuente": "Trovimap",
+   "titulo": "Piso en venta en Santa Pola, Avinguda Oscar Espla, 03130 con Ascensor 75. Gran oportunidad",
+   "precio": 97000.0,
+   "precio_antes": null,
+   "m2": 75,
+   "hab": 2,
+   "banos": 1,
+   "zona": "Santa Pola",
+   "url": "https://www.trovimap.com/inmueble/382244-39378413",
+   "texto": "97.000 € 1.293 €/m² 75 m² 2 1 Piso Compra - Agente Inmobiliario Piso en venta en Santa Pola, Avinguda Oscar Espla, 03130 con Ascensor 75. Gran oportunidad en la urbanización CALA V de las calas de Santa Pola del Este, este coqueto apartamento en planta baja se encuentra ubicado en un",
+   "riesgo": null,
+   "incompleto": false,
+   "primera_vez": "2026-11-01",
+   "ultima_vez": "2026-11-01",
+   "historial": [
+    [
+     "2026-11-01",
+     97000.0
+    ]
+   ]
+  },
+  "trovimap-382244-26263325": {
+   "id": "trovimap-382244-26263325",
+   "fuente": "Trovimap",
+   "titulo": "Piso en venta en Santa Pola, Calle Victoria, 03130 con Ascensor 680. Amplia vivienda en un",
+   "precio": 105000.0,
+   "precio_antes": 119000.0,
+   "m2": 90,
+   "hab": 3,
+   "banos": 1,
+   "zona": "Santa Pola",
+   "url": "https://www.trovimap.com/inmueble/382244-26263325",
+   "texto": "105.000 € 119.000 € 90 m² 3 1 Piso Compra - Agente Inmobiliario Piso en venta en Santa Pola, Calle Victoria, 03130 con Ascensor 680. Amplia vivienda en una de las zonas más céntricas de Santa Pola, a tan solo 150 metros del Puerto Deportivo. Muy luminosa debido a su orientación",
+   "riesgo": null,
+   "incompleto": false,
+   "primera_vez": "2026-11-01",
+   "ultima_vez": "2026-11-01",
+   "historial": [
+    [
+     "2026-11-01",
+     119000.0
+    ],
+    [
+     "2026-11-01",
+     105000.0
+    ]
+   ]
+  },
+  "trovimap-382244-39387179": {
+   "id": "trovimap-382244-39387179",
+   "fuente": "Trovimap",
+   "titulo": "Piso en venta en Santa Pola con Ascensor 144. Junto al Parque del Palmeral, y a escasos me",
+   "precio": 115000.0,
+   "precio_antes": null,
+   "m2": 104,
+   "hab": 3,
+   "banos": 2,
+   "zona": "Santa Pola",
+   "url": "https://www.trovimap.com/inmueble/382244-39387179",
+   "texto": "115.000 € 1.106 €/m² 104 m² 3 2 Piso Compra - Agente Inmobiliario Piso en venta en Santa Pola con Ascensor 144. Junto al Parque del Palmeral, y a escasos metros del Puerto Deportivo, disponemos de esta amplia vivienda de más de 100m2 lista para entrar a viv",
+   "riesgo": null,
+   "incompleto": false,
+   "primera_vez": "2026-11-01",
+   "ultima_vez": "2026-11-01",
+   "historial": [
+    [
+     "2026-11-01",
+     115000.0
+    ]
+   ]
+  },
+  "trovimap-382244-39377551": {
+   "id": "trovimap-382244-39377551",
+   "fuente": "Trovimap",
+   "titulo": "Piso en venta en Santa Pola, Playa Levante Santa Pola AM-05415. ref. AM-05415. Arco Medite",
+   "precio": 95000.0,
+   "precio_antes": null,
+   "m2": 73,
+   "hab": 3,
+   "banos": 1,
+   "zona": "Santa Pola",
+   "url": "https://www.trovimap.com/inmueble/382244-39377551",
+   "texto": "95.000 € 1.301 €/m² 73 m² 3 1 Piso Compra - Agente Inmobiliario Piso en venta en Santa Pola, Playa Levante Santa Pola AM-05415. ref. AM-05415. Arco Mediterránea les presenta este piso ubicado en una 4ª planta SIN ASCENSOR, a 200 mts de la Playa de Levante.~~La viviend",
+   "riesgo": null,
+   "incompleto": false,
+   "primera_vez": "2026-11-01",
+   "ultima_vez": "2026-11-01",
+   "historial": [
+    [
+     "2026-11-01",
+     95000.0
+    ]
+   ]
+  },
+  "trovimap-382244-39377467": {
+   "id": "trovimap-382244-39377467",
+   "fuente": "Trovimap",
+   "titulo": "Piso en venta en Santa Pola, Carrer Oran, 03130 con Ascensor 7006. Oportunidad a tan solo ",
+   "precio": 95000.0,
+   "precio_antes": null,
+   "m2": 80,
+   "hab": 2,
+   "banos": 1,
+   "zona": "Santa Pola",
+   "url": "https://www.trovimap.com/inmueble/382244-39377467",
+   "texto": "95.000 € 1.188 €/m² 80 m² 2 1 Piso Compra - Agente Inmobiliario Piso en venta en Santa Pola, Carrer Oran, 03130 con Ascensor 7006. Oportunidad a tan solo a 50 metros de la playa de Levante, Esta coqueta vivienda de 75m2 se encuentra en una zona tranquila, con paseos, y play",
+   "riesgo": null,
+   "incompleto": false,
+   "primera_vez": "2026-11-01",
+   "ultima_vez": "2026-11-01",
+   "historial": [
+    [
+     "2026-11-01",
+     95000.0
+    ]
+   ]
+  },
+  "trovimap-382244-39384189": {
+   "id": "trovimap-382244-39384189",
+   "fuente": "Trovimap",
+   "titulo": "Piso en venta en Santa Pola, Calle Virgen del Carmen, 03130 con Ascensor vc1. Estupenda vi",
+   "precio": 109900.0,
+   "precio_antes": null,
+   "m2": 95,
+   "hab": 3,
+   "banos": 1,
+   "zona": "Santa Pola",
+   "url": "https://www.trovimap.com/inmueble/382244-39384189",
+   "texto": "109.900 € 1.157 €/m² 95 m² 3 1 Piso Compra - Agente Inmobiliario Piso en venta en Santa Pola, Calle Virgen del Carmen, 03130 con Ascensor vc1. Estupenda vivienda ubicada a tan solo 50metros de la playa de Levante, en la Calle Virgen del Carmen, calle amplia a 5 minutos andando del centro",
+   "riesgo": null,
+   "incompleto": false,
+   "primera_vez": "2026-11-01",
+   "ultima_vez": "2026-11-01",
+   "historial": [
+    [
+     "2026-11-01",
+     109900.0
+    ]
+   ]
+  },
+  "trovimap-382244-39387191": {
+   "id": "trovimap-382244-39387191",
+   "fuente": "Trovimap",
+   "titulo": "Piso en venta en Santa Pola, Avinguda Oscar Espla, 03130 con Ascensor 7015. Gran oportunid",
+   "precio": 115000.0,
+   "precio_antes": null,
+   "m2": 65,
+   "hab": 2,
+   "banos": 1,
+   "zona": "Santa Pola",
+   "url": "https://www.trovimap.com/inmueble/382244-39387191",
+   "texto": "115.000 € 1.769 €/m² 65 m² 2 1 Piso Compra - Agente Inmobiliario Piso en venta en Santa Pola, Avinguda Oscar Espla, 03130 con Ascensor 7015. Gran oportunidad en la urbanización CALA V, en las calas de Santa Pola del Este, apartamento ubicado en una de las zonas con las vistas mas boni",
+   "riesgo": null,
+   "incompleto": false,
+   "primera_vez": "2026-11-01",
+   "ultima_vez": "2026-11-01",
+   "historial": [
+    [
+     "2026-11-01",
+     115000.0
+    ]
+   ]
+  },
+  "trovimap-382244-39377489": {
+   "id": "trovimap-382244-39377489",
+   "fuente": "Trovimap",
+   "titulo": "Piso en venta en Santa Pola, Carrer Isabel la Catolica, 03130 con Ascensor 8. Coqueta vivi",
+   "precio": 95000.0,
+   "precio_antes": null,
+   "m2": 70,
+   "hab": 2,
+   "banos": 1,
+   "zona": "Santa Pola",
+   "url": "https://www.trovimap.com/inmueble/382244-39377489",
+   "texto": "95.000 € 1.357 €/m² 70 m² 2 1 Piso Compra - Agente Inmobiliario Piso en venta en Santa Pola, Carrer Isabel la Catolica, 03130 con Ascensor 8. Coqueta vivienda en pleno corazón de Santa Pola, ubicado a un paso de una de las Calles más principales y céntricas de la Bahía, podemos encontrar",
+   "riesgo": null,
+   "incompleto": false,
+   "primera_vez": "2026-11-01",
+   "ultima_vez": "2026-11-01",
+   "historial": [
+    [
+     "2026-11-01",
+     95000.0
+    ]
+   ]
+  },
+  "trovimap-310898-41713478": {
+   "id": "trovimap-310898-41713478",
+   "fuente": "Trovimap",
+   "titulo": "Piso En venta en Casco Urbano, Santa Pola Santa Pola Mares Inmobiliaria presenta esta vivi",
+   "precio": 108000.0,
+   "precio_antes": null,
+   "m2": 88,
+   "hab": 4,
+   "banos": 1,
+   "zona": "Santa Pola",
+   "url": "https://www.trovimap.com/inmueble/310898-41713478",
+   "texto": "108.000 € 1.227 €/m² 88 m² 4 1 Nuevo Piso Compra - Agente Inmobiliario Piso En venta en Casco Urbano, Santa Pola Santa Pola Mares Inmobiliaria presenta esta vivienda situada en primera planta sin ascensor, con una distribución amplia y funcional y una característica especia",
+   "riesgo": null,
+   "incompleto": false,
+   "primera_vez": "2026-11-01",
+   "ultima_vez": "2026-11-01",
+   "historial": [
+    [
+     "2026-11-01",
+     108000.0
+    ]
+   ]
+  },
+  "trovimap-382244-26243129": {
+   "id": "trovimap-382244-26243129",
+   "fuente": "Trovimap",
+   "titulo": "Piso en venta en Santa Pola Santa Pola 38. Vivienda todo exterior de 90m2, ubicada a cien ",
+   "precio": 90000.0,
+   "precio_antes": null,
+   "m2": 97,
+   "hab": 3,
+   "banos": 2,
+   "zona": "Santa Pola",
+   "url": "https://www.trovimap.com/inmueble/382244-26243129",
+   "texto": "90.000 € 928 €/m² 97 m² 3 2 Piso Compra - Agente Inmobiliario Piso en venta en Santa Pola Santa Pola 38. Vivienda todo exterior de 90m2, ubicada a cien metros de la playa de levante. La vivienda se compone de tres dormitorios dobles,dos baños, sal",
+   "riesgo": null,
+   "incompleto": false,
+   "primera_vez": "2026-11-01",
+   "ultima_vez": "2026-11-01",
+   "historial": [
+    [
+     "2026-11-01",
+     90000.0
+    ]
+   ]
+  },
+  "trovimap-382244-39364066": {
+   "id": "trovimap-382244-39364066",
+   "fuente": "Trovimap",
+   "titulo": "Piso en venta en Santa Pola, Carrer Maestro Alfosea, 03130 Santa Pola 2005. Vivienda situa",
+   "precio": 71000.0,
+   "precio_antes": null,
+   "m2": 90,
+   "hab": 3,
+   "banos": 2,
+   "zona": "Santa Pola",
+   "url": "https://www.trovimap.com/inmueble/382244-39364066",
+   "texto": "71.000 € 789 €/m² 90 m² 3 2 Piso Compra - Agente Inmobiliario Piso en venta en Santa Pola, Carrer Maestro Alfosea, 03130 Santa Pola 2005. Vivienda situada en el Pueblo de Santa Pola, muy cercano a la zona del Parque Sorolla, con todos los servicios disponibles, como supermercados,",
+   "riesgo": null,
+   "incompleto": false,
+   "aviso": "muy barato por m² (788 €/m²): comprueba por qué",
+   "primera_vez": "2026-11-01",
+   "ultima_vez": "2026-11-01",
+   "historial": [
+    [
+     "2026-11-01",
+     71000.0
+    ]
+   ]
+  },
+  "trovimap-382244-39377365": {
+   "id": "trovimap-382244-39377365",
+   "fuente": "Trovimap",
+   "titulo": "Piso en venta en Santa Pola, Calle Apoteosis, 03130 Santa Pola 59. Bonita vivienda en buen",
+   "precio": 95000.0,
+   "precio_antes": null,
+   "m2": 70,
+   "hab": 2,
+   "banos": 1,
+   "zona": "Santa Pola",
+   "url": "https://www.trovimap.com/inmueble/382244-39377365",
+   "texto": "95.000 € 1.357 €/m² 70 m² 2 1 Piso Compra - Agente Inmobiliario Piso en venta en Santa Pola, Calle Apoteosis, 03130 Santa Pola 59. Bonita vivienda en buen estado para entrar a vivir, en la zona de Tamarit, situado a escasos metros de la playa de la zona en una urbanización pri",
+   "riesgo": null,
+   "incompleto": false,
+   "primera_vez": "2026-11-01",
+   "ultima_vez": "2026-11-01",
+   "historial": [
+    [
+     "2026-11-01",
+     95000.0
+    ]
+   ]
+  },
+  "trovimap-382244-39377367": {
+   "id": "trovimap-382244-39377367",
+   "fuente": "Trovimap",
+   "titulo": "Piso en venta en Santa Pola, Avinguda Salamanca, 03130 Santa Pola 2007. Bonito apartamento",
+   "precio": 95000.0,
+   "precio_antes": null,
+   "m2": 70,
+   "hab": 2,
+   "banos": 1,
+   "zona": "Santa Pola",
+   "url": "https://www.trovimap.com/inmueble/382244-39377367",
+   "texto": "95.000 € 1.357 €/m² 70 m² 2 1 Piso Compra - Agente Inmobiliario Piso en venta en Santa Pola, Avinguda Salamanca, 03130 Santa Pola 2007. Bonito apartamento situado en la tranquila zona de Gran Playa, en la Avenida Salamanca, amplia avenida, con una escasa afluencia de tráfico, sie",
+   "riesgo": null,
+   "incompleto": false,
+   "primera_vez": "2026-11-01",
+   "ultima_vez": "2026-11-01",
+   "historial": [
+    [
+     "2026-11-01",
+     95000.0
+    ]
+   ]
+  },
+  "trovimap-382244-39388768": {
+   "id": "trovimap-382244-39388768",
+   "fuente": "Trovimap",
+   "titulo": "Piso en venta en Santa Pola, Calle Santander, 03130 Santa Pola 179. Vivienda de 100m2 dist",
+   "precio": 119900.0,
+   "precio_antes": null,
+   "m2": 100,
+   "hab": 3,
+   "banos": 2,
+   "zona": "Santa Pola",
+   "url": "https://www.trovimap.com/inmueble/382244-39388768",
+   "texto": "119.900 € 1.199 €/m² 100 m² 3 2 Piso Compra - Agente Inmobiliario Piso en venta en Santa Pola, Calle Santander, 03130 Santa Pola 179. Vivienda de 100m2 distribuida en tres dormitorios y dos baños, cocina independiente con acceso a galería, amplio salón con balcón, trastero, terr",
+   "riesgo": null,
+   "incompleto": false,
+   "primera_vez": "2026-11-01",
+   "ultima_vez": "2026-11-01",
+   "historial": [
+    [
+     "2026-11-01",
+     119900.0
+    ]
+   ]
+  },
+  "trovimap-382244-39378025": {
+   "id": "trovimap-382244-39378025",
+   "fuente": "Trovimap",
+   "titulo": "Piso en venta en Santa Pola Santa Pola PRO1001. Piso en la zona de Playa Lisa, todo en esq",
+   "precio": 96000.0,
+   "precio_antes": null,
+   "m2": 80,
+   "hab": 3,
+   "banos": 1,
+   "zona": "Santa Pola",
+   "url": "https://www.trovimap.com/inmueble/382244-39378025",
+   "texto": "96.000 € 1.200 €/m² 80 m² 3 1 Piso Compra - Agente Inmobiliario Piso en venta en Santa Pola Santa Pola PRO1001. Piso en la zona de Playa Lisa, todo en esquina con una gran entrada de luz ya que cuenta con una gran terraza en esquina, con ventanales que",
+   "riesgo": null,
+   "incompleto": false,
+   "primera_vez": "2026-11-01",
+   "ultima_vez": "2026-11-01",
+   "historial": [
+    [
+     "2026-11-01",
+     96000.0
+    ]
+   ]
+  },
+  "trovimap-382244-39362245": {
+   "id": "trovimap-382244-39362245",
+   "fuente": "Trovimap",
+   "titulo": "Piso en venta en Santa Pola, Calle Virgen, 03130 Santa Pola 678. Vivienda en pleno centro ",
+   "precio": 69000.0,
+   "precio_antes": null,
+   "m2": 65,
+   "hab": 2,
+   "banos": 1,
+   "zona": "Santa Pola",
+   "url": "https://www.trovimap.com/inmueble/382244-39362245",
+   "texto": "69.000 € 1.062 €/m² 65 m² 2 1 Piso Compra - Agente Inmobiliario Piso en venta en Santa Pola, Calle Virgen, 03130 Santa Pola 678. Vivienda en pleno centro de Santa Pola, a tan solo 20 metros de la Calle de Elche, muy cerca de todos los servicios principales a pie de calle, d",
+   "riesgo": null,
+   "incompleto": false,
+   "primera_vez": "2026-11-01",
+   "ultima_vez": "2026-11-01",
+   "historial": [
+    [
+     "2026-11-01",
+     69000.0
+    ]
+   ]
+  },
+  "trovimap-382244-26243205": {
+   "id": "trovimap-382244-26243205",
+   "fuente": "Trovimap",
+   "titulo": "Piso en venta en Santa Pola Santa Pola 34. Bonito piso ubicado en la zona del Tamarit, con",
+   "precio": 20000.0,
+   "precio_antes": 90000.0,
+   "m2": 70,
+   "hab": 2,
+   "banos": 1,
+   "zona": "Santa Pola",
+   "url": "https://www.trovimap.com/inmueble/382244-26243205",
+   "texto": "Comprar Pisos y Casas en Santa Pola, Alicante/Alacant - página 2 | Trovimap --> --> Toggle navigation this.getMessages()\"> this.getMessages()\"> this.getMessages()\"> this.getMessages()\"> Precios Valora tu inmueble Blog Anúnciate gratis Entrar Máx 120.000 € Mín 60 m² Habitaciones (2+) Filtros Estadísticas Históricas Guardar búsqueda Mostrar límites : 26 Alicante/Alacant Santa Pola Alicante/Alacant Murcia Valencia/València Albacete Almería Castellón/Castelló Cuenca Granada Teruel Jaén Santa Pola Elche/Elx Alacant/Alicante Guardamar del Segura San Fulgencio Rojales Monforte del Cid Dolores Forment",
+   "riesgo": null,
+   "incompleto": false,
+   "aviso": "muy barato por m² (285 €/m²): comprueba por qué",
+   "primera_vez": "2026-11-01",
+   "ultima_vez": "2026-11-01",
+   "historial": [
+    [
+     "2026-11-01",
+     90000.0
+    ],
+    [
+     "2026-11-01",
+     20000.0
+    ]
+   ]
+  },
+  "trovimap-382244-39383884": {
+   "id": "trovimap-382244-39383884",
+   "fuente": "Trovimap",
+   "titulo": "Bungalow en venta en Santa Pola, Calle Ricardo Zamora, 03130 Santa Pola 7003. Bungalow/Dúp",
+   "precio": 109000.0,
+   "precio_antes": null,
+   "m2": 65,
+   "hab": 2,
+   "banos": 2,
+   "zona": "Santa Pola",
+   "url": "https://www.trovimap.com/inmueble/382244-39383884",
+   "texto": "109.000 € 1.677 €/m² 65 m² 2 2 Casa Compra - Agente Inmobiliario Bungalow en venta en Santa Pola, Calle Ricardo Zamora, 03130 Santa Pola 7003. Bungalow/Dúplex situado a tan solo 100 metros del puerto deportivo, la playa de la zona y a tan solo 5 minutos andando del centro de Santa Pola.",
+   "riesgo": null,
+   "incompleto": false,
+   "primera_vez": "2026-11-01",
+   "ultima_vez": "2026-11-01",
+   "historial": [
+    [
+     "2026-11-01",
+     109000.0
+    ]
+   ]
+  },
+  "trovimap-382244-39377450": {
+   "id": "trovimap-382244-39377450",
+   "fuente": "Trovimap",
+   "titulo": "Piso en venta en Santa Pola, Carrer Cartagena, 03130 Santa Pola 83. Apartamento a tan solo",
+   "precio": 95000.0,
+   "precio_antes": null,
+   "m2": 85,
+   "hab": 3,
+   "banos": 1,
+   "zona": "Santa Pola",
+   "url": "https://www.trovimap.com/inmueble/382244-39377450",
+   "texto": "95.000 € 1.118 €/m² 85 m² 3 1 Piso Compra - Agente Inmobiliario Piso en venta en Santa Pola, Carrer Cartagena, 03130 Santa Pola 83. Apartamento a tan solo 100 metros de la playa, con una terraza de 15m2 con vistas laterales al mar. Vecindario acogedor y donde podrá disfrutar d",
+   "riesgo": null,
+   "incompleto": false,
+   "primera_vez": "2026-11-01",
+   "ultima_vez": "2026-11-01",
+   "historial": [
+    [
+     "2026-11-01",
+     95000.0
+    ]
+   ]
+  },
+  "trovimap-382244-39356788": {
+   "id": "trovimap-382244-39356788",
+   "fuente": "Trovimap",
+   "titulo": "Piso en venta en Santa Pola, Calle Zorrilla, 03130 Santa Pola 3005. Vivienda para reformar",
+   "precio": 58000.0,
+   "precio_antes": null,
+   "m2": 80,
+   "hab": 2,
+   "banos": 1,
+   "zona": "Santa Pola",
+   "url": "https://www.trovimap.com/inmueble/382244-39356788",
+   "texto": "58.000 € 725 €/m² 80 m² 2 1 Piso Compra - Agente Inmobiliario Piso en venta en Santa Pola, Calle Zorrilla, 03130 Santa Pola 3005. Vivienda para reformar en la zona norte de Santa Pola, muy amplia, con todas sus estancias con un gran espacio. Ubicado en la zona Norte, muy ce",
+   "riesgo": null,
+   "incompleto": false,
+   "aviso": "muy barato por m² (725 €/m²): comprueba por qué",
+   "primera_vez": "2026-11-01",
+   "ultima_vez": "2026-11-01",
+   "historial": [
+    [
+     "2026-11-01",
+     58000.0
+    ]
+   ]
+  },
+  "trovimap-382244-39372853": {
+   "id": "trovimap-382244-39372853",
+   "fuente": "Trovimap",
+   "titulo": "Piso en venta en Santa Pola, Calle Ávila, 03130 Santa Pola 2013. COQUETO APARTAMENTO A TAN",
+   "precio": 88000.0,
+   "precio_antes": null,
+   "m2": 75,
+   "hab": 2,
+   "banos": 1,
+   "zona": "Santa Pola",
+   "url": "https://www.trovimap.com/inmueble/382244-39372853",
+   "texto": "88.000 € 1.173 €/m² 75 m² 2 1 Piso Compra - Agente Inmobiliario Piso en venta en Santa Pola, Calle Ávila, 03130 Santa Pola 2013. COQUETO APARTAMENTO A TAN SOLO 100 METROS DE LA PLAYA DE TAMARIT! Esta bonita vivienda se encuentra ubicada dentro de una urbanización privad",
+   "riesgo": null,
+   "incompleto": false,
+   "primera_vez": "2026-11-01",
+   "ultima_vez": "2026-11-01",
+   "historial": [
+    [
+     "2026-11-01",
+     88000.0
+    ]
+   ]
+  },
+  "trovimap-382244-39390263": {
+   "id": "trovimap-382244-39390263",
+   "fuente": "Trovimap",
+   "titulo": "Bungalow en venta en Santa Pola, Calle Castalla, 03130 Santa Pola 9. Magnífico bungalow en",
+   "precio": 120000.0,
+   "precio_antes": null,
+   "m2": 90,
+   "hab": 2,
+   "banos": 1,
+   "zona": "Santa Pola",
+   "url": "https://www.trovimap.com/inmueble/382244-39390263",
+   "texto": "120.000 € 1.333 €/m² 90 m² 2 1 Casa Compra - Agente Inmobiliario Bungalow en venta en Santa Pola, Calle Castalla, 03130 Santa Pola 9. Magnífico bungalow en la zona de Gran Playa, a tan solo 300 metros de la playa y de los paseos de la zona, ubicado en una calle peatonal de acceso",
+   "riesgo": null,
+   "incompleto": false,
+   "primera_vez": "2026-11-01",
+   "ultima_vez": "2026-11-01",
+   "historial": [
+    [
+     "2026-11-01",
+     120000.0
+    ]
+   ]
+  }
  },
- "actualizado": "2026-11-01T21:58+00:00"
+ "estado_previo": {
+  "Santa Pola": "26 leídos"
+ },
+ "actualizado": "2026-11-01T22:01+00:00"
 }
