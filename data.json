@@ -30,21 +30,7 @@
  ],
  "anuncios": {},
  "estado_previo": {
-  "Santa Pola": "ERROR: 'max_paginas'",
-  "Guardamar del Segura": "ERROR: 'max_paginas'",
-  "Urb. La Marina": "ERROR: 'max_paginas'",
-  "San Fulgencio": "ERROR: 'max_paginas'",
-  "Almoradí": "ERROR: 'max_paginas'",
-  "Catral": "ERROR: 'max_paginas'",
-  "Dolores": "ERROR: 'max_paginas'",
-  "Crevillent": "ERROR: 'max_paginas'",
-  "Gran Alacant": "ERROR: 'max_paginas'",
-  "El Campello": "ERROR: 'max_paginas'",
-  "Mutxamel": "ERROR: 'max_paginas'",
-  "Sant Joan d'Alacant": "ERROR: 'max_paginas'",
-  "Moralet": "ERROR: 'max_paginas'",
-  "Agost": "ERROR: 'max_paginas'",
-  "Aspe": "ERROR: 'max_paginas'"
+  "Santa Pola": "ERROR: 20 tarjetas pero 0 enlaces: hay que ajustar el lector"
  },
- "actualizado": "2026-11-01T21:56+00:00"
+ "actualizado": "2026-11-01T21:58+00:00"
 }
