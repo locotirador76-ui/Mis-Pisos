@@ -1,12 +1,48 @@
 {
-  "precio_max": 120000,
-  "m2_min": 60,
-  "hab_min": 2,
-  "banos_min": 1,
-  "max_paginas": 3,
-  "eur_m2_sospechoso": 900,
-  "palabras_riesgo": ["ocupad", "okup", "inquilin", "alquilad", "arrendad", "nuda propiedad", "usufructo", "subasta", "cesi[oó]n de remate", "embargo", "judicial", "pro ?indiviso", "sin posesi[oó]n", "inversor", "inversi[oó]n"],
-  "zonas": [
-    {"nombre": "Santa Pola", "trovimap": "santa-pola"}
-  ]
+ "precio_max": 120000,
+ "m2_min": 60,
+ "hab_min": 2,
+ "banos_min": 1,
+ "max_paginas": 15,
+ "eur_m2_sospechoso": 900,
+ "palabras_riesgo": [
+  "ocupad",
+  "okup",
+  "inquilin",
+  "alquilad",
+  "arrendad",
+  "nuda propiedad",
+  "usufructo",
+  "subasta",
+  "cesi[oó]n de remate",
+  "embargo",
+  "judicial",
+  "pro ?indiviso",
+  "sin posesi[oó]n",
+  "inversor",
+  "inversi[oó]n"
+ ],
+ "zonas": [
+  {
+   "nombre": "Guardamar del Segura",
+   "trovimap": "guardamar-del-segura"
+  },
+  {
+   "nombre": "San Fulgencio",
+   "trovimap": "san-fulgencio"
+  },
+  {
+   "nombre": "Almoradí",
+   "trovimap": "almoradi"
+  },
+  {
+   "nombre": "Catral",
+   "trovimap": "catral"
+  },
+  {
+   "nombre": "Dolores",
+   "trovimap": "dolores"
+  }
+ ],
+ "primera_lectura_max": 15
 }
