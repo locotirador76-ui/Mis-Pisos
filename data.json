@@ -1,9 +1,12 @@
 {
- "anuncios": {},
- "estado": {},
- "estado_previo": {
-  "Idealista": "sin clave (opcional)",
-  "Pisos.com": "ERROR: pisos.com respondió 404"
- },
- "actualizado": "2026-11-01T21:42+00:00"
+  "precio_max": 120000,
+  "m2_min": 60,
+  "hab_min": 2,
+  "banos_min": 1,
+  "max_paginas": 3,
+  "eur_m2_sospechoso": 900,
+  "palabras_riesgo": ["ocupad", "okup", "inquilin", "alquilad", "arrendad", "nuda propiedad", "usufructo", "subasta", "cesi[oó]n de remate", "embargo", "judicial", "pro ?indiviso", "sin posesi[oó]n", "inversor", "inversi[oó]n"],
+  "zonas": [
+    {"nombre": "Santa Pola", "trovimap": "santa-pola"}
+  ]
 }
