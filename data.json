@@ -1168,7 +1168,7 @@
    "id": "trovimap-381187-41785219",
    "fuente": "Trovimap",
    "titulo": "Bajo en venta en Almoradí con Ascensor Descubre este maravilloso apartamento en Almoradí. ",
-   "precio": 20000.0,
+   "precio": 114999.0,
    "precio_antes": 114999.0,
    "m2": 80,
    "hab": 2,
@@ -1178,7 +1178,7 @@
    "texto": "Comprar Pisos y Casas en Almoradí, Alicante/Alacant | Trovimap --> --> Toggle navigation this.getMessages()\"> this.getMessages()\"> this.getMessages()\"> this.getMessages()\"> Precios Valora tu inmueble Blog Anúnciate gratis Entrar Máx 120.000 € Mín 60 m² Habitaciones (2+) Filtros Estadísticas Históricas Guardar búsqueda Mostrar límites : 59 Alicante/Alacant Almoradí Alicante/Alacant Murcia Albacete Valencia/València Almería Granada Cuenca Jaén Castellón/Castelló Teruel Algorfa Almoradí Rojales Benejúzar Orihuela Daya Nueva Benijófar Formentera del Segura Jacarilla Los Montesinos Pisos y Casas a ",
    "riesgo": null,
    "incompleto": false,
-   "aviso": "muy barato por m² (250 €/m²): comprueba por qué",
+   "aviso": null,
    "primera_vez": "2026-11-01",
    "ultima_vez": "2026-11-02",
    "historial": [
@@ -1189,6 +1189,10 @@
     [
      "2026-11-01",
      20000.0
+    ],
+    [
+     "2026-11-02",
+     114999.0
     ]
    ]
   },
@@ -1244,7 +1248,7 @@
    "id": "trovimap-382244-41744819",
    "fuente": "Trovimap",
    "titulo": "Apartamento en venta en Almoradi, Centro urbano 2 con Ascensor CV02105. Te presentamos un ",
-   "precio": 120000.0,
+   "precio": 20000.0,
    "precio_antes": null,
    "m2": 108,
    "hab": 2,
@@ -1260,9 +1264,13 @@
     [
      "2026-11-01",
      120000.0
+    ],
+    [
+     "2026-11-02",
+     20000.0
     ]
    ],
-   "aviso": null
+   "aviso": "muy barato por m² (185 €/m²): comprueba por qué"
   },
   "trovimap-382244-41744757": {
    "id": "trovimap-382244-41744757",
@@ -1744,7 +1752,7 @@
    "id": "trovimap-386974-41570306",
    "fuente": "Trovimap",
    "titulo": "OPORTUNIDAD DE INVERSIÓN EN ALMORADÍ - ALICANTE con Ascensor OPORTUNIDAD DE INVERSIÓN EN A",
-   "precio": 20000.0,
+   "precio": 112000.0,
    "precio_antes": null,
    "m2": 96,
    "hab": 3,
@@ -1764,15 +1772,19 @@
     [
      "2026-11-02",
      20000.0
+    ],
+    [
+     "2026-11-02",
+     112000.0
     ]
    ],
-   "aviso": "muy barato por m² (208 €/m²): comprueba por qué"
+   "aviso": null
   },
   "trovimap-310754-39616412": {
    "id": "trovimap-310754-39616412",
    "fuente": "Trovimap",
    "titulo": "Piso acogedor en Almoradi con piscina con Ascensor Acogedor piso de 69 m2 catastrales, sit",
-   "precio": 117200.0,
+   "precio": 20000.0,
    "precio_antes": null,
    "m2": 69,
    "hab": 2,
@@ -1788,9 +1800,13 @@
     [
      "2026-11-01",
      117200.0
+    ],
+    [
+     "2026-11-02",
+     20000.0
     ]
    ],
-   "aviso": null
+   "aviso": "muy barato por m² (289 €/m²): comprueba por qué"
   },
   "trovimap-382244-41573523": {
    "id": "trovimap-382244-41573523",
@@ -2666,7 +2682,7 @@
    "id": "trovimap-382244-41780364",
    "fuente": "Trovimap",
    "titulo": "Piso en venta en Catral, CENTRO con Ascensor C140. ¡Descubre tu nuevo hogar! En Hogar Cost",
-   "precio": 82500.0,
+   "precio": 20000.0,
    "precio_antes": 82500.0,
    "m2": 124,
    "hab": 4,
@@ -2676,7 +2692,7 @@
    "texto": "Comprar Pisos y Casas en Catral, Alicante/Alacant | Trovimap --> --> Toggle navigation this.getMessages()\"> this.getMessages()\"> this.getMessages()\"> this.getMessages()\"> Precios Valora tu inmueble Blog Anúnciate gratis Entrar Máx 120.000 € Mín 60 m² Habitaciones (2+) Filtros Estadísticas Históricas Guardar búsqueda Mostrar límites : 14 Alicante/Alacant Catral Alicante/Alacant Murcia Albacete Valencia/València Almería Granada Cuenca Castellón/Castelló Jaén Teruel Catral Crevillent Dolores Almoradí San Isidro Orihuela Callosa de Segura Daya Nueva Elche/Elx Granja de Rocamora Pisos y Casas a la ",
    "riesgo": null,
    "incompleto": false,
-   "aviso": "muy barato por m² (665 €/m²): comprueba por qué",
+   "aviso": "muy barato por m² (161 €/m²): comprueba por qué",
    "primera_vez": "2026-11-01",
    "ultima_vez": "2026-11-02",
    "historial": [
@@ -2691,6 +2707,10 @@
     [
      "2026-11-02",
      82500.0
+    ],
+    [
+     "2026-11-02",
+     20000.0
     ]
    ]
   },
@@ -2722,7 +2742,7 @@
    "id": "trovimap-484095-41786206",
    "fuente": "Trovimap",
    "titulo": "Piso en Catral con Ascensor Inmueble VPO en proceso Flash. Consulta las condiciones en el ",
-   "precio": 20000.0,
+   "precio": 107500.0,
    "precio_antes": null,
    "m2": 100,
    "hab": 3,
@@ -2742,9 +2762,13 @@
     [
      "2026-11-02",
      20000.0
+    ],
+    [
+     "2026-11-02",
+     107500.0
     ]
    ],
-   "aviso": "muy barato por m² (200 €/m²): comprueba por qué"
+   "aviso": null
   },
   "trovimap-510591-41776195": {
    "id": "trovimap-510591-41776195",
@@ -3343,7 +3367,7 @@
   "Catral": "ok",
   "Dolores": "ok"
  },
- "actualizado": "2026-11-02T07:20+00:00",
+ "actualizado": "2026-11-02T10:00+00:00",
  "firmas": {
   "Guardamar del Segura|20000|90|3": "trovimap-382244-40358750",
   "Guardamar del Segura|105000|87|2": "trovimap-382244-39672895",
