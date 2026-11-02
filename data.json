@@ -666,7 +666,7 @@
    "incompleto": false,
    "aviso": "muy barato por m² (222 €/m²): comprueba por qué",
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
@@ -693,13 +693,14 @@
    "riesgo": null,
    "incompleto": false,
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
      105000.0
     ]
-   ]
+   ],
+   "aviso": null
   },
   "trovimap-382244-39670729": {
    "id": "trovimap-382244-39670729",
@@ -716,13 +717,14 @@
    "riesgo": null,
    "incompleto": false,
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
      91753.0
     ]
-   ]
+   ],
+   "aviso": null
   },
   "trovimap-382244-39672664": {
    "id": "trovimap-382244-39672664",
@@ -739,13 +741,14 @@
    "riesgo": null,
    "incompleto": false,
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
      104000.0
     ]
-   ]
+   ],
+   "aviso": null
   },
   "trovimap-339955-39905466": {
    "id": "trovimap-339955-39905466",
@@ -762,13 +765,14 @@
    "riesgo": null,
    "incompleto": false,
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
      119990.0
     ]
-   ]
+   ],
+   "aviso": null
   },
   "trovimap-311935-37844928": {
    "id": "trovimap-311935-37844928",
@@ -785,13 +789,14 @@
    "riesgo": null,
    "incompleto": false,
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
      80000.0
     ]
-   ]
+   ],
+   "aviso": null
   },
   "trovimap-310754-38060634": {
    "id": "trovimap-310754-38060634",
@@ -808,13 +813,14 @@
    "riesgo": null,
    "incompleto": false,
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
      95000.0
     ]
-   ]
+   ],
+   "aviso": null
   },
   "trovimap-382244-39674198": {
    "id": "trovimap-382244-39674198",
@@ -831,13 +837,14 @@
    "riesgo": null,
    "incompleto": false,
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
      115500.0
     ]
-   ]
+   ],
+   "aviso": null
   },
   "trovimap-311193-41598892": {
    "id": "trovimap-311193-41598892",
@@ -854,13 +861,14 @@
    "riesgo": "inversión",
    "incompleto": false,
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
      116000.0
     ]
-   ]
+   ],
+   "aviso": null
   },
   "trovimap-382244-22909890": {
    "id": "trovimap-382244-22909890",
@@ -877,13 +885,14 @@
    "riesgo": null,
    "incompleto": false,
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
      119950.0
     ]
-   ]
+   ],
+   "aviso": null
   },
   "trovimap-382244-34658220": {
    "id": "trovimap-382244-34658220",
@@ -900,13 +909,14 @@
    "riesgo": null,
    "incompleto": false,
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
      93000.0
     ]
-   ]
+   ],
+   "aviso": null
   },
   "trovimap-382244-34366489": {
    "id": "trovimap-382244-34366489",
@@ -923,13 +933,14 @@
    "riesgo": null,
    "incompleto": false,
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
      79500.0
     ]
-   ]
+   ],
+   "aviso": null
   },
   "trovimap-382244-39368921": {
    "id": "trovimap-382244-39368921",
@@ -946,14 +957,15 @@
    "riesgo": null,
    "incompleto": false,
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
      80000.0
     ]
    ],
-   "duplicado_de": "trovimap-311935-37844928"
+   "duplicado_de": "trovimap-311935-37844928",
+   "aviso": null
   },
   "trovimap-382244-33361655": {
    "id": "trovimap-382244-33361655",
@@ -970,13 +982,14 @@
    "riesgo": null,
    "incompleto": false,
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
      95000.0
     ]
-   ]
+   ],
+   "aviso": null
   },
   "trovimap-382244-41780230": {
    "id": "trovimap-382244-41780230",
@@ -994,7 +1007,7 @@
    "incompleto": false,
    "aviso": "muy barato por m² (227 €/m²): comprueba por qué",
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
@@ -1021,13 +1034,14 @@
    "riesgo": null,
    "incompleto": false,
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
      98000.0
     ]
-   ]
+   ],
+   "aviso": null
   },
   "trovimap-382244-40921390": {
    "id": "trovimap-382244-40921390",
@@ -1044,13 +1058,14 @@
    "riesgo": null,
    "incompleto": false,
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
      116000.0
     ]
-   ]
+   ],
+   "aviso": null
   },
   "trovimap-509814-40060044": {
    "id": "trovimap-509814-40060044",
@@ -1067,7 +1082,7 @@
    "riesgo": null,
    "incompleto": false,
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
@@ -1078,7 +1093,8 @@
      116000.0
     ]
    ],
-   "duplicado_de": "trovimap-382244-40921390"
+   "duplicado_de": "trovimap-382244-40921390",
+   "aviso": null
   },
   "trovimap-382244-39377366": {
    "id": "trovimap-382244-39377366",
@@ -1095,13 +1111,14 @@
    "riesgo": null,
    "incompleto": false,
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
      95000.0
     ]
-   ]
+   ],
+   "aviso": null
   },
   "trovimap-510591-38623279": {
    "id": "trovimap-510591-38623279",
@@ -1118,7 +1135,7 @@
    "riesgo": "ocupad",
    "incompleto": false,
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
@@ -1128,7 +1145,8 @@
      "2026-11-01",
      116100.0
     ]
-   ]
+   ],
+   "aviso": null
   },
   "trovimap-381187-41785219": {
    "id": "trovimap-381187-41785219",
@@ -1146,7 +1164,7 @@
    "incompleto": false,
    "aviso": "muy barato por m² (250 €/m²): comprueba por qué",
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
@@ -1174,7 +1192,7 @@
    "incompleto": false,
    "aviso": "muy barato por m² (686 €/m²): comprueba por qué",
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
@@ -1198,7 +1216,7 @@
    "incompleto": false,
    "aviso": "muy barato por m² (881 €/m²): comprueba por qué",
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
@@ -1221,13 +1239,14 @@
    "riesgo": null,
    "incompleto": false,
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
      120000.0
     ]
-   ]
+   ],
+   "aviso": null
   },
   "trovimap-382244-41744757": {
    "id": "trovimap-382244-41744757",
@@ -1244,13 +1263,14 @@
    "riesgo": null,
    "incompleto": false,
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
      111200.0
     ]
-   ]
+   ],
+   "aviso": null
   },
   "trovimap-381187-41712766": {
    "id": "trovimap-381187-41712766",
@@ -1268,7 +1288,7 @@
    "incompleto": false,
    "aviso": "muy barato por m² (873 €/m²): comprueba por qué",
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
@@ -1292,7 +1312,7 @@
    "incompleto": false,
    "aviso": "muy barato por m² (853 €/m²): comprueba por qué",
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
@@ -1315,13 +1335,14 @@
    "riesgo": null,
    "incompleto": false,
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
      117000.0
     ]
-   ]
+   ],
+   "aviso": null
   },
   "trovimap-382244-39387811": {
    "id": "trovimap-382244-39387811",
@@ -1338,14 +1359,15 @@
    "riesgo": null,
    "incompleto": false,
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
      117000.0
     ]
    ],
-   "duplicado_de": "trovimap-382244-39387805"
+   "duplicado_de": "trovimap-382244-39387805",
+   "aviso": null
   },
   "trovimap-382244-41721052": {
    "id": "trovimap-382244-41721052",
@@ -1362,13 +1384,14 @@
    "riesgo": null,
    "incompleto": false,
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
      109000.0
     ]
-   ]
+   ],
+   "aviso": null
   },
   "trovimap-382244-41721088": {
    "id": "trovimap-382244-41721088",
@@ -1385,13 +1408,14 @@
    "riesgo": null,
    "incompleto": false,
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
      114900.0
     ]
-   ]
+   ],
+   "aviso": null
   },
   "trovimap-311813-39177328": {
    "id": "trovimap-311813-39177328",
@@ -1408,14 +1432,15 @@
    "riesgo": "Alquilad",
    "incompleto": false,
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
      117000.0
     ]
    ],
-   "duplicado_de": "trovimap-382244-39387805"
+   "duplicado_de": "trovimap-382244-39387805",
+   "aviso": null
   },
   "trovimap-311813-41579215": {
    "id": "trovimap-311813-41579215",
@@ -1432,13 +1457,14 @@
    "riesgo": "inversor",
    "incompleto": false,
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
      102260.0
     ]
-   ]
+   ],
+   "aviso": null
   },
   "trovimap-382244-40817910": {
    "id": "trovimap-382244-40817910",
@@ -1455,13 +1481,14 @@
    "riesgo": "inversión",
    "incompleto": false,
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
      90000.0
     ]
-   ]
+   ],
+   "aviso": null
   },
   "trovimap-382244-40852942": {
    "id": "trovimap-382244-40852942",
@@ -1478,13 +1505,14 @@
    "riesgo": null,
    "incompleto": false,
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
      120000.0
     ]
-   ]
+   ],
+   "aviso": null
   },
   "trovimap-382244-39355005": {
    "id": "trovimap-382244-39355005",
@@ -1502,7 +1530,7 @@
    "incompleto": false,
    "aviso": "muy barato por m² (854 €/m²): comprueba por qué",
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
@@ -1526,7 +1554,7 @@
    "incompleto": false,
    "aviso": "muy barato por m² (609 €/m²): comprueba por qué",
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
@@ -1550,7 +1578,7 @@
    "incompleto": false,
    "aviso": "muy barato por m² (528 €/m²): comprueba por qué",
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
@@ -1574,7 +1602,7 @@
    "incompleto": false,
    "aviso": "muy barato por m² (853 €/m²): comprueba por qué",
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
@@ -1598,14 +1626,15 @@
    "riesgo": "Alquilad",
    "incompleto": false,
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
      117000.0
     ]
    ],
-   "duplicado_de": "trovimap-382244-39387805"
+   "duplicado_de": "trovimap-382244-39387805",
+   "aviso": null
   },
   "trovimap-382244-40852943": {
    "id": "trovimap-382244-40852943",
@@ -1623,7 +1652,7 @@
    "incompleto": false,
    "aviso": "muy barato por m² (163 €/m²): comprueba por qué",
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
@@ -1650,13 +1679,14 @@
    "riesgo": null,
    "incompleto": false,
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
      117000.0
     ]
-   ]
+   ],
+   "aviso": null
   },
   "trovimap-382244-39666453": {
    "id": "trovimap-382244-39666453",
@@ -1674,7 +1704,7 @@
    "incompleto": false,
    "aviso": "muy barato por m² (600 €/m²): comprueba por qué",
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
@@ -1697,13 +1727,14 @@
    "riesgo": "INVERSIÓN",
    "incompleto": false,
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
      112000.0
     ]
-   ]
+   ],
+   "aviso": null
   },
   "trovimap-310754-39616412": {
    "id": "trovimap-310754-39616412",
@@ -1720,13 +1751,14 @@
    "riesgo": null,
    "incompleto": false,
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
      117200.0
     ]
-   ]
+   ],
+   "aviso": null
   },
   "trovimap-382244-41573523": {
    "id": "trovimap-382244-41573523",
@@ -1743,14 +1775,15 @@
    "riesgo": "INVERSIÓN",
    "incompleto": false,
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
      112000.0
     ]
    ],
-   "duplicado_de": "trovimap-386974-41570306"
+   "duplicado_de": "trovimap-386974-41570306",
+   "aviso": null
   },
   "trovimap-382244-39353372": {
    "id": "trovimap-382244-39353372",
@@ -1768,7 +1801,7 @@
    "incompleto": false,
    "aviso": "muy barato por m² (618 €/m²): comprueba por qué",
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
@@ -1792,7 +1825,7 @@
    "incompleto": false,
    "aviso": "muy barato por m² (789 €/m²): comprueba por qué",
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
@@ -1815,14 +1848,15 @@
    "riesgo": null,
    "incompleto": false,
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
      111200.0
     ]
    ],
-   "duplicado_de": "trovimap-382244-41744757"
+   "duplicado_de": "trovimap-382244-41744757",
+   "aviso": null
   },
   "trovimap-310937-39205499": {
    "id": "trovimap-310937-39205499",
@@ -1839,14 +1873,15 @@
    "riesgo": "Alquilad",
    "incompleto": false,
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
      117000.0
     ]
    ],
-   "duplicado_de": "trovimap-382244-39387805"
+   "duplicado_de": "trovimap-382244-39387805",
+   "aviso": null
   },
   "trovimap-382244-40412733": {
    "id": "trovimap-382244-40412733",
@@ -1863,14 +1898,15 @@
    "riesgo": null,
    "incompleto": false,
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
      117000.0
     ]
    ],
-   "duplicado_de": "trovimap-382244-40412736"
+   "duplicado_de": "trovimap-382244-40412736",
+   "aviso": null
   },
   "trovimap-382244-40852944": {
    "id": "trovimap-382244-40852944",
@@ -1887,14 +1923,15 @@
    "riesgo": null,
    "incompleto": false,
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
      120000.0
     ]
    ],
-   "duplicado_de": "trovimap-382244-40852942"
+   "duplicado_de": "trovimap-382244-40852942",
+   "aviso": null
   },
   "trovimap-385506-41728630": {
    "id": "trovimap-385506-41728630",
@@ -1911,13 +1948,14 @@
    "riesgo": null,
    "incompleto": false,
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
      100000.0
     ]
-   ]
+   ],
+   "aviso": null
   },
   "trovimap-382244-41701042": {
    "id": "trovimap-382244-41701042",
@@ -1935,7 +1973,7 @@
    "incompleto": false,
    "aviso": "muy barato por m² (472 €/m²): comprueba por qué",
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
@@ -1962,13 +2000,14 @@
    "riesgo": null,
    "incompleto": false,
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
      115000.0
     ]
-   ]
+   ],
+   "aviso": null
   },
   "trovimap-382244-40683530": {
    "id": "trovimap-382244-40683530",
@@ -1985,13 +2024,14 @@
    "riesgo": null,
    "incompleto": false,
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
      97500.0
     ]
-   ]
+   ],
+   "aviso": null
   },
   "trovimap-382244-39743402": {
    "id": "trovimap-382244-39743402",
@@ -2008,13 +2048,14 @@
    "riesgo": null,
    "incompleto": false,
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
      115000.0
     ]
-   ]
+   ],
+   "aviso": null
   },
   "trovimap-382244-41720895": {
    "id": "trovimap-382244-41720895",
@@ -2032,7 +2073,7 @@
    "incompleto": false,
    "aviso": "muy barato por m² (619 €/m²): comprueba por qué",
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
@@ -2055,7 +2096,7 @@
    "riesgo": null,
    "incompleto": false,
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
@@ -2065,7 +2106,8 @@
      "2026-11-01",
      120000.0
     ]
-   ]
+   ],
+   "aviso": null
   },
   "trovimap-382244-39393924": {
    "id": "trovimap-382244-39393924",
@@ -2082,7 +2124,7 @@
    "riesgo": null,
    "incompleto": false,
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
@@ -2093,7 +2135,8 @@
      120000.0
     ]
    ],
-   "duplicado_de": "trovimap-532074-38790844"
+   "duplicado_de": "trovimap-532074-38790844",
+   "aviso": null
   },
   "trovimap-522193-41510670": {
    "id": "trovimap-522193-41510670",
@@ -2111,7 +2154,7 @@
    "incompleto": false,
    "aviso": "muy barato por m² (196 €/m²): comprueba por qué",
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
@@ -2139,7 +2182,7 @@
    "incompleto": false,
    "aviso": "muy barato por m² (619 €/m²): comprueba por qué",
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
@@ -2167,7 +2210,7 @@
    "incompleto": false,
    "aviso": "muy barato por m² (711 €/m²): comprueba por qué",
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
@@ -2191,7 +2234,7 @@
    "incompleto": false,
    "aviso": "muy barato por m² (787 €/m²): comprueba por qué",
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
@@ -2219,7 +2262,7 @@
    "incompleto": false,
    "aviso": "muy barato por m² (868 €/m²): comprueba por qué",
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
@@ -2247,7 +2290,7 @@
    "incompleto": false,
    "aviso": "muy barato por m² (857 €/m²): comprueba por qué",
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
@@ -2274,13 +2317,14 @@
    "riesgo": null,
    "incompleto": false,
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
      116000.0
     ]
-   ]
+   ],
+   "aviso": null
   },
   "trovimap-524207-41050145": {
    "id": "trovimap-524207-41050145",
@@ -2297,7 +2341,7 @@
    "riesgo": null,
    "incompleto": false,
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
@@ -2308,7 +2352,8 @@
      114900.0
     ]
    ],
-   "duplicado_de": "trovimap-382244-41721088"
+   "duplicado_de": "trovimap-382244-41721088",
+   "aviso": null
   },
   "trovimap-520331-41204143": {
    "id": "trovimap-520331-41204143",
@@ -2325,14 +2370,15 @@
    "riesgo": null,
    "incompleto": false,
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
      115000.0
     ]
    ],
-   "duplicado_de": "trovimap-382244-41412640"
+   "duplicado_de": "trovimap-382244-41412640",
+   "aviso": null
   },
   "trovimap-310051-41719977": {
    "id": "trovimap-310051-41719977",
@@ -2350,7 +2396,7 @@
    "incompleto": false,
    "aviso": "muy barato por m² (619 €/m²): comprueba por qué",
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
@@ -2374,13 +2420,14 @@
    "riesgo": "INQUILIN",
    "incompleto": false,
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
      116219.0
     ]
-   ]
+   ],
+   "aviso": null
   },
   "trovimap-377866-30190789": {
    "id": "trovimap-377866-30190789",
@@ -2397,13 +2444,14 @@
    "riesgo": null,
    "incompleto": false,
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
      99900.0
     ]
-   ]
+   ],
+   "aviso": null
   },
   "trovimap-510591-41334904": {
    "id": "trovimap-510591-41334904",
@@ -2420,13 +2468,14 @@
    "riesgo": "inversor",
    "incompleto": false,
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
      116000.0
     ]
-   ]
+   ],
+   "aviso": null
   },
   "trovimap-382244-41456239": {
    "id": "trovimap-382244-41456239",
@@ -2443,13 +2492,14 @@
    "riesgo": null,
    "incompleto": false,
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
      86000.0
     ]
-   ]
+   ],
+   "aviso": null
   },
   "trovimap-510591-40150000": {
    "id": "trovimap-510591-40150000",
@@ -2466,7 +2516,7 @@
    "riesgo": "ocupad",
    "incompleto": false,
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
@@ -2476,7 +2526,8 @@
      "2026-11-01",
      73500.0
     ]
-   ]
+   ],
+   "aviso": null
   },
   "trovimap-531841-38728827": {
    "id": "trovimap-531841-38728827",
@@ -2493,13 +2544,14 @@
    "riesgo": null,
    "incompleto": false,
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
      106000.0
     ]
-   ]
+   ],
+   "aviso": null
   },
   "trovimap-510591-41212868": {
    "id": "trovimap-510591-41212868",
@@ -2516,13 +2568,14 @@
    "riesgo": "INVERSIÓN",
    "incompleto": false,
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
      105500.0
     ]
-   ]
+   ],
+   "aviso": null
   },
   "trovimap-503762-40100129": {
    "id": "trovimap-503762-40100129",
@@ -2540,7 +2593,7 @@
    "incompleto": false,
    "aviso": "muy barato por m² (698 €/m²): comprueba por qué",
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
@@ -2563,14 +2616,15 @@
    "riesgo": null,
    "incompleto": false,
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
      86000.0
     ]
    ],
-   "duplicado_de": "trovimap-382244-41456239"
+   "duplicado_de": "trovimap-382244-41456239",
+   "aviso": null
   },
   "trovimap-382244-41780364": {
    "id": "trovimap-382244-41780364",
@@ -2588,7 +2642,7 @@
    "incompleto": false,
    "aviso": "muy barato por m² (161 €/m²): comprueba por qué",
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
@@ -2615,13 +2669,14 @@
    "riesgo": null,
    "incompleto": false,
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
      107499.0
     ]
-   ]
+   ],
+   "aviso": null
   },
   "trovimap-484095-41786206": {
    "id": "trovimap-484095-41786206",
@@ -2638,13 +2693,14 @@
    "riesgo": null,
    "incompleto": false,
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
      107500.0
     ]
-   ]
+   ],
+   "aviso": null
   },
   "trovimap-510591-41776195": {
    "id": "trovimap-510591-41776195",
@@ -2661,13 +2717,14 @@
    "riesgo": null,
    "incompleto": true,
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
      107500.0
     ]
-   ]
+   ],
+   "aviso": null
   },
   "trovimap-382244-41764425": {
    "id": "trovimap-382244-41764425",
@@ -2684,13 +2741,14 @@
    "riesgo": "inversión",
    "incompleto": false,
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
      105000.0
     ]
-   ]
+   ],
+   "aviso": null
   },
   "trovimap-382244-41749033": {
    "id": "trovimap-382244-41749033",
@@ -2707,13 +2765,14 @@
    "riesgo": null,
    "incompleto": false,
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
      98000.0
     ]
-   ]
+   ],
+   "aviso": null
   },
   "trovimap-480725-41648516": {
    "id": "trovimap-480725-41648516",
@@ -2731,7 +2790,7 @@
    "incompleto": false,
    "aviso": "muy barato por m² (884 €/m²): comprueba por qué",
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
@@ -2755,7 +2814,7 @@
    "incompleto": false,
    "aviso": "muy barato por m² (884 €/m²): comprueba por qué",
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
@@ -2780,7 +2839,7 @@
    "incompleto": false,
    "aviso": "muy barato por m² (886 €/m²): comprueba por qué",
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
@@ -2808,7 +2867,7 @@
    "incompleto": false,
    "aviso": "muy barato por m² (807 €/m²): comprueba por qué",
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
@@ -2831,13 +2890,14 @@
    "riesgo": null,
    "incompleto": false,
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
      98000.0
     ]
-   ]
+   ],
+   "aviso": null
   },
   "trovimap-382244-34229579": {
    "id": "trovimap-382244-34229579",
@@ -2855,7 +2915,7 @@
    "incompleto": false,
    "aviso": "muy barato por m² (815 €/m²): comprueba por qué",
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
@@ -2879,7 +2939,7 @@
    "incompleto": false,
    "aviso": "muy barato por m² (666 €/m²): comprueba por qué",
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
@@ -2903,7 +2963,7 @@
    "incompleto": false,
    "aviso": "muy barato por m² (666 €/m²): comprueba por qué",
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
@@ -2928,7 +2988,7 @@
    "incompleto": false,
    "aviso": "muy barato por m² (175 €/m²): comprueba por qué",
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
@@ -2955,13 +3015,14 @@
    "riesgo": null,
    "incompleto": false,
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
      105000.0
     ]
-   ]
+   ],
+   "aviso": null
   },
   "trovimap-476778-38931694": {
    "id": "trovimap-476778-38931694",
@@ -2978,13 +3039,14 @@
    "riesgo": null,
    "incompleto": false,
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
      105000.0
     ]
-   ]
+   ],
+   "aviso": null
   },
   "trovimap-496742-41151076": {
    "id": "trovimap-496742-41151076",
@@ -3001,7 +3063,7 @@
    "riesgo": null,
    "incompleto": false,
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
@@ -3012,7 +3074,8 @@
      105000.0
     ]
    ],
-   "duplicado_de": "trovimap-382244-41721048"
+   "duplicado_de": "trovimap-382244-41721048",
+   "aviso": null
   },
   "trovimap-334319-40291249": {
    "id": "trovimap-334319-40291249",
@@ -3029,7 +3092,7 @@
    "riesgo": null,
    "incompleto": false,
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
@@ -3039,7 +3102,8 @@
      "2026-11-01",
      109900.0
     ]
-   ]
+   ],
+   "aviso": null
   },
   "trovimap-310832-40614398": {
    "id": "trovimap-310832-40614398",
@@ -3056,7 +3120,7 @@
    "riesgo": null,
    "incompleto": false,
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
@@ -3066,7 +3130,8 @@
      "2026-11-01",
      84900.0
     ]
-   ]
+   ],
+   "aviso": null
   },
   "trovimap-382244-41412680": {
    "id": "trovimap-382244-41412680",
@@ -3083,7 +3148,7 @@
    "riesgo": null,
    "incompleto": false,
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
@@ -3093,7 +3158,8 @@
      "2026-11-01",
      120000.0
     ]
-   ]
+   ],
+   "aviso": null
   },
   "trovimap-382244-40948415": {
    "id": "trovimap-382244-40948415",
@@ -3110,13 +3176,14 @@
    "riesgo": null,
    "incompleto": true,
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
      110000.0
     ]
-   ]
+   ],
+   "aviso": null
   },
   "trovimap-530844-41096191": {
    "id": "trovimap-530844-41096191",
@@ -3133,13 +3200,14 @@
    "riesgo": null,
    "incompleto": false,
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
      105000.0
     ]
-   ]
+   ],
+   "aviso": null
   },
   "trovimap-510591-41589599": {
    "id": "trovimap-510591-41589599",
@@ -3156,13 +3224,14 @@
    "riesgo": "inversión",
    "incompleto": false,
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
      89000.0
     ]
-   ]
+   ],
+   "aviso": null
   },
   "trovimap-520331-41209437": {
    "id": "trovimap-520331-41209437",
@@ -3179,7 +3248,7 @@
    "riesgo": null,
    "incompleto": false,
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
@@ -3190,7 +3259,8 @@
      120000.0
     ]
    ],
-   "duplicado_de": "trovimap-382244-41412680"
+   "duplicado_de": "trovimap-382244-41412680",
+   "aviso": null
   }
  },
  "estado_previo": {
@@ -3200,7 +3270,7 @@
   "Catral": "ok",
   "Dolores": "ok"
  },
- "actualizado": "2026-11-01T22:10+00:00",
+ "actualizado": "2026-11-02T00:58+00:00",
  "firmas": {
   "Guardamar del Segura|20000|90|3": "trovimap-382244-40358750",
   "Guardamar del Segura|105000|87|2": "trovimap-382244-39672895",
