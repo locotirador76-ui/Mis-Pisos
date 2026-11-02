@@ -24,6 +24,10 @@
  ],
  "zonas": [
   {
+   "nombre": "Santa Pola",
+   "trovimap": "santa-pola"
+  },
+  {
    "nombre": "Guardamar del Segura",
    "trovimap": "guardamar-del-segura"
   },
@@ -42,7 +46,31 @@
   {
    "nombre": "Dolores",
    "trovimap": "dolores"
+  },
+  {
+   "nombre": "Crevillent",
+   "trovimap": "crevillent"
+  },
+  {
+   "nombre": "El Campello",
+   "trovimap": "el-campello"
+  },
+  {
+   "nombre": "Mutxamel",
+   "trovimap": "mutxamel"
+  },
+  {
+   "nombre": "Sant Joan d'Alacant",
+   "trovimap": "sant-joan-d-alacant"
+  },
+  {
+   "nombre": "Agost",
+   "trovimap": "agost"
+  },
+  {
+   "nombre": "Aspe",
+   "trovimap": "aspe"
   }
  ],
- "primera_lectura_max": 15
+ "primera_lectura_max": 10
 }
