@@ -654,7 +654,7 @@
    "id": "trovimap-382244-40358750",
    "fuente": "Trovimap",
    "titulo": "Apartamento en venta en Guardamar del Segura, Pueblo con Ascensor V1522. CGI Inmobiliaria ",
-   "precio": 20000.0,
+   "precio": 119990.0,
    "precio_antes": 119990.0,
    "m2": 90,
    "hab": 3,
@@ -664,7 +664,7 @@
    "texto": "Comprar Pisos y Casas en Guardamar del Segura, Alicante/Alacant | Trovimap --> --> Toggle navigation this.getMessages()\"> this.getMessages()\"> this.getMessages()\"> this.getMessages()\"> Precios Valora tu inmueble Blog Anúnciate gratis Entrar Máx 120.000 € Mín 60 m² Habitaciones (2+) Filtros Estadísticas Históricas Guardar búsqueda Mostrar límites : 14 Alicante/Alacant Guardamar del Segura Alicante/Alacant Murcia Valencia/València Albacete Almería Granada Cuenca Castellón/Castelló Jaén Teruel Guardamar del Segura Rojales San Fulgencio Torrevieja Elche/Elx Formentera del Segura Benijófar Daya Vie",
    "riesgo": null,
    "incompleto": false,
-   "aviso": "muy barato por m² (222 €/m²): comprueba por qué",
+   "aviso": null,
    "primera_vez": "2026-11-01",
    "ultima_vez": "2026-11-02",
    "historial": [
@@ -675,6 +675,10 @@
     [
      "2026-11-01",
      20000.0
+    ],
+    [
+     "2026-11-02",
+     119990.0
     ]
    ]
   },
@@ -682,7 +686,7 @@
    "id": "trovimap-382244-39672895",
    "fuente": "Trovimap",
    "titulo": "Apartamento en venta en Guardamar del Segura, SUP 7 con Ascensor 45213. Apartamento en Gua",
-   "precio": 105000.0,
+   "precio": 20000.0,
    "precio_antes": null,
    "m2": 87,
    "hab": 2,
@@ -698,9 +702,13 @@
     [
      "2026-11-01",
      105000.0
+    ],
+    [
+     "2026-11-02",
+     20000.0
     ]
    ],
-   "aviso": null
+   "aviso": "muy barato por m² (229 €/m²): comprueba por qué"
   },
   "trovimap-382244-39670729": {
    "id": "trovimap-382244-39670729",
@@ -1640,7 +1648,7 @@
    "id": "trovimap-382244-40852943",
    "fuente": "Trovimap",
    "titulo": "Piso en venta en Almoradi, Centro urbano 2 con Ascensor . PRECIOSO PISO EN PLAZA DE LA LIB",
-   "precio": 20000.0,
+   "precio": 120000.0,
    "precio_antes": 120000.0,
    "m2": 122,
    "hab": 3,
@@ -1650,7 +1658,7 @@
    "texto": "Comprar Pisos y Casas en Almoradí, Alicante/Alacant - página 2 | Trovimap --> --> Toggle navigation this.getMessages()\"> this.getMessages()\"> this.getMessages()\"> this.getMessages()\"> Precios Valora tu inmueble Blog Anúnciate gratis Entrar Máx 120.000 € Mín 60 m² Habitaciones (2+) Filtros Estadísticas Históricas Guardar búsqueda Mostrar límites : 59 Alicante/Alacant Almoradí Alicante/Alacant Murcia Albacete Valencia/València Almería Granada Cuenca Jaén Castellón/Castelló Teruel Algorfa Almoradí Rojales Benejúzar Orihuela Daya Nueva Benijófar Formentera del Segura Jacarilla Los Montesinos Pisos",
    "riesgo": null,
    "incompleto": false,
-   "aviso": "muy barato por m² (163 €/m²): comprueba por qué",
+   "aviso": null,
    "primera_vez": "2026-11-01",
    "ultima_vez": "2026-11-02",
    "historial": [
@@ -1661,6 +1669,10 @@
     [
      "2026-11-01",
      20000.0
+    ],
+    [
+     "2026-11-02",
+     120000.0
     ]
    ]
   },
@@ -1668,7 +1680,7 @@
    "id": "trovimap-382244-40412736",
    "fuente": "Trovimap",
    "titulo": "Apartamento en venta en Almoradi, Ayuntamiento con Ascensor EXP12644. Descubre este amplio",
-   "precio": 117000.0,
+   "precio": 20000.0,
    "precio_antes": null,
    "m2": 102,
    "hab": 4,
@@ -1684,9 +1696,13 @@
     [
      "2026-11-01",
      117000.0
+    ],
+    [
+     "2026-11-02",
+     20000.0
     ]
    ],
-   "aviso": null
+   "aviso": "muy barato por m² (196 €/m²): comprueba por qué"
   },
   "trovimap-382244-39666453": {
    "id": "trovimap-382244-39666453",
@@ -2142,7 +2158,7 @@
    "id": "trovimap-522193-41510670",
    "fuente": "Trovimap",
    "titulo": "Piso en Almoradí Almoradí ¿Buscas amplitud, comodidad y tenerlo todo a un paso? Descubre e",
-   "precio": 20000.0,
+   "precio": 89900.0,
    "precio_antes": 89900.0,
    "m2": 102,
    "hab": 4,
@@ -2152,7 +2168,7 @@
    "texto": "Comprar Pisos y Casas en Almoradí, Alicante/Alacant - página 3 | Trovimap --> --> Toggle navigation this.getMessages()\"> this.getMessages()\"> this.getMessages()\"> this.getMessages()\"> Precios Valora tu inmueble Blog Anúnciate gratis Entrar Máx 120.000 € Mín 60 m² Habitaciones (2+) Filtros Estadísticas Históricas Guardar búsqueda Mostrar límites : 59 Alicante/Alacant Almoradí Alicante/Alacant Murcia Albacete Valencia/València Almería Granada Cuenca Jaén Castellón/Castelló Teruel Algorfa Almoradí Rojales Benejúzar Orihuela Daya Nueva Benijófar Formentera del Segura Jacarilla Los Montesinos Pisos",
    "riesgo": null,
    "incompleto": false,
-   "aviso": "muy barato por m² (196 €/m²): comprueba por qué",
+   "aviso": "muy barato por m² (881 €/m²): comprueba por qué",
    "primera_vez": "2026-11-01",
    "ultima_vez": "2026-11-02",
    "historial": [
@@ -2163,6 +2179,10 @@
     [
      "2026-11-01",
      20000.0
+    ],
+    [
+     "2026-11-02",
+     89900.0
     ]
    ]
   },
@@ -2630,7 +2650,7 @@
    "id": "trovimap-382244-41780364",
    "fuente": "Trovimap",
    "titulo": "Piso en venta en Catral, CENTRO con Ascensor C140. ¡Descubre tu nuevo hogar! En Hogar Cost",
-   "precio": 20000.0,
+   "precio": 82500.0,
    "precio_antes": 82500.0,
    "m2": 124,
    "hab": 4,
@@ -2640,7 +2660,7 @@
    "texto": "Comprar Pisos y Casas en Catral, Alicante/Alacant | Trovimap --> --> Toggle navigation this.getMessages()\"> this.getMessages()\"> this.getMessages()\"> this.getMessages()\"> Precios Valora tu inmueble Blog Anúnciate gratis Entrar Máx 120.000 € Mín 60 m² Habitaciones (2+) Filtros Estadísticas Históricas Guardar búsqueda Mostrar límites : 14 Alicante/Alacant Catral Alicante/Alacant Murcia Albacete Valencia/València Almería Granada Cuenca Castellón/Castelló Jaén Teruel Catral Crevillent Dolores Almoradí San Isidro Orihuela Callosa de Segura Daya Nueva Elche/Elx Granja de Rocamora Pisos y Casas a la ",
    "riesgo": null,
    "incompleto": false,
-   "aviso": "muy barato por m² (161 €/m²): comprueba por qué",
+   "aviso": "muy barato por m² (665 €/m²): comprueba por qué",
    "primera_vez": "2026-11-01",
    "ultima_vez": "2026-11-02",
    "historial": [
@@ -2651,6 +2671,10 @@
     [
      "2026-11-01",
      20000.0
+    ],
+    [
+     "2026-11-02",
+     82500.0
     ]
    ]
   },
@@ -2682,7 +2706,7 @@
    "id": "trovimap-484095-41786206",
    "fuente": "Trovimap",
    "titulo": "Piso en Catral con Ascensor Inmueble VPO en proceso Flash. Consulta las condiciones en el ",
-   "precio": 107500.0,
+   "precio": 20000.0,
    "precio_antes": null,
    "m2": 100,
    "hab": 3,
@@ -2698,9 +2722,13 @@
     [
      "2026-11-01",
      107500.0
+    ],
+    [
+     "2026-11-02",
+     20000.0
     ]
    ],
-   "aviso": null
+   "aviso": "muy barato por m² (200 €/m²): comprueba por qué"
   },
   "trovimap-510591-41776195": {
    "id": "trovimap-510591-41776195",
@@ -3261,6 +3289,35 @@
    ],
    "duplicado_de": "trovimap-382244-41412680",
    "aviso": null
+  },
+  "trovimap-382244-41787181": {
+   "id": "trovimap-382244-41787181",
+   "fuente": "Trovimap",
+   "titulo": "Adosada en venta en San Fulgencio, La marina San Fulgencio AT. No se puede visitar el inte",
+   "precio": 20000.0,
+   "precio_antes": 60800.0,
+   "m2": 88,
+   "hab": 2,
+   "banos": 1,
+   "zona": "San Fulgencio",
+   "url": "https://www.trovimap.com/inmueble/382244-41787181",
+   "texto": "Comprar Pisos y Casas en San Fulgencio, Alicante/Alacant | Trovimap --> --> Toggle navigation this.getMessages()\"> this.getMessages()\"> this.getMessages()\"> this.getMessages()\"> Precios Valora tu inmueble Blog Anúnciate gratis Entrar Máx 120.000 € Mín 60 m² Habitaciones (2+) Filtros Estadísticas Históricas Guardar búsqueda Mostrar límites : 6 Alicante/Alacant San Fulgencio Alicante/Alacant Murcia Valencia/València Albacete Almería Cuenca Granada Castellón/Castelló Teruel Jaén San Fulgencio Guardamar del Segura Elche/Elx Rojales Formentera del Segura Dolores Daya Vieja Santa Pola Daya Nueva Ben",
+   "riesgo": null,
+   "incompleto": false,
+   "aviso": "muy barato por m² (227 €/m²): comprueba por qué",
+   "primera_vez": "2026-11-02",
+   "ultima_vez": "2026-11-02",
+   "historial": [
+    [
+     "2026-11-02",
+     60800.0
+    ],
+    [
+     "2026-11-02",
+     20000.0
+    ]
+   ],
+   "duplicado_de": "trovimap-382244-41780230"
   }
  },
  "estado_previo": {
@@ -3270,7 +3327,7 @@
   "Catral": "ok",
   "Dolores": "ok"
  },
- "actualizado": "2026-11-02T00:58+00:00",
+ "actualizado": "2026-11-02T03:54+00:00",
  "firmas": {
   "Guardamar del Segura|20000|90|3": "trovimap-382244-40358750",
   "Guardamar del Segura|105000|87|2": "trovimap-382244-39672895",
