@@ -44,7 +44,7 @@
    "riesgo": null,
    "incompleto": false,
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
@@ -54,7 +54,8 @@
      "2026-11-01",
      100000.0
     ]
-   ]
+   ],
+   "aviso": null
   },
   "trovimap-382244-21659728": {
    "id": "trovimap-382244-21659728",
@@ -71,13 +72,14 @@
    "riesgo": null,
    "incompleto": false,
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
      105000.0
     ]
-   ]
+   ],
+   "aviso": null
   },
   "trovimap-386974-40914591": {
    "id": "trovimap-386974-40914591",
@@ -94,7 +96,7 @@
    "riesgo": "INVERSION",
    "incompleto": false,
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
@@ -104,7 +106,8 @@
      "2026-11-01",
      100000.0
     ]
-   ]
+   ],
+   "aviso": null
   },
   "trovimap-382244-26275923": {
    "id": "trovimap-382244-26275923",
@@ -121,7 +124,7 @@
    "riesgo": null,
    "incompleto": false,
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
@@ -131,7 +134,8 @@
      "2026-11-01",
      120000.0
     ]
-   ]
+   ],
+   "aviso": null
   },
   "trovimap-382244-39378413": {
    "id": "trovimap-382244-39378413",
@@ -148,13 +152,14 @@
    "riesgo": null,
    "incompleto": false,
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
      97000.0
     ]
-   ]
+   ],
+   "aviso": null
   },
   "trovimap-382244-26263325": {
    "id": "trovimap-382244-26263325",
@@ -171,7 +176,7 @@
    "riesgo": null,
    "incompleto": false,
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
@@ -181,7 +186,8 @@
      "2026-11-01",
      105000.0
     ]
-   ]
+   ],
+   "aviso": null
   },
   "trovimap-382244-39387179": {
    "id": "trovimap-382244-39387179",
@@ -198,13 +204,14 @@
    "riesgo": null,
    "incompleto": false,
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
      115000.0
     ]
-   ]
+   ],
+   "aviso": null
   },
   "trovimap-382244-39377551": {
    "id": "trovimap-382244-39377551",
@@ -221,13 +228,14 @@
    "riesgo": null,
    "incompleto": false,
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
      95000.0
     ]
-   ]
+   ],
+   "aviso": null
   },
   "trovimap-382244-39377467": {
    "id": "trovimap-382244-39377467",
@@ -244,13 +252,14 @@
    "riesgo": null,
    "incompleto": false,
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
      95000.0
     ]
-   ]
+   ],
+   "aviso": null
   },
   "trovimap-382244-39384189": {
    "id": "trovimap-382244-39384189",
@@ -267,13 +276,14 @@
    "riesgo": null,
    "incompleto": false,
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
      109900.0
     ]
-   ]
+   ],
+   "aviso": null
   },
   "trovimap-382244-39387191": {
    "id": "trovimap-382244-39387191",
@@ -290,13 +300,14 @@
    "riesgo": null,
    "incompleto": false,
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
      115000.0
     ]
-   ]
+   ],
+   "aviso": null
   },
   "trovimap-382244-39377489": {
    "id": "trovimap-382244-39377489",
@@ -313,13 +324,14 @@
    "riesgo": null,
    "incompleto": false,
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
      95000.0
     ]
-   ]
+   ],
+   "aviso": null
   },
   "trovimap-310898-41713478": {
    "id": "trovimap-310898-41713478",
@@ -336,13 +348,14 @@
    "riesgo": null,
    "incompleto": false,
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
      108000.0
     ]
-   ]
+   ],
+   "aviso": null
   },
   "trovimap-382244-26243129": {
    "id": "trovimap-382244-26243129",
@@ -359,13 +372,14 @@
    "riesgo": null,
    "incompleto": false,
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
      90000.0
     ]
-   ]
+   ],
+   "aviso": null
   },
   "trovimap-382244-39364066": {
    "id": "trovimap-382244-39364066",
@@ -383,7 +397,7 @@
    "incompleto": false,
    "aviso": "muy barato por m² (788 €/m²): comprueba por qué",
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
@@ -406,13 +420,14 @@
    "riesgo": null,
    "incompleto": false,
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
      95000.0
     ]
-   ]
+   ],
+   "aviso": null
   },
   "trovimap-382244-39377367": {
    "id": "trovimap-382244-39377367",
@@ -429,13 +444,14 @@
    "riesgo": null,
    "incompleto": false,
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
      95000.0
     ]
-   ]
+   ],
+   "aviso": null
   },
   "trovimap-382244-39388768": {
    "id": "trovimap-382244-39388768",
@@ -452,13 +468,14 @@
    "riesgo": null,
    "incompleto": false,
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
      119900.0
     ]
-   ]
+   ],
+   "aviso": null
   },
   "trovimap-382244-39378025": {
    "id": "trovimap-382244-39378025",
@@ -475,13 +492,14 @@
    "riesgo": null,
    "incompleto": false,
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
      96000.0
     ]
-   ]
+   ],
+   "aviso": null
   },
   "trovimap-382244-39362245": {
    "id": "trovimap-382244-39362245",
@@ -498,19 +516,20 @@
    "riesgo": null,
    "incompleto": false,
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
      69000.0
     ]
-   ]
+   ],
+   "aviso": null
   },
   "trovimap-382244-26243205": {
    "id": "trovimap-382244-26243205",
    "fuente": "Trovimap",
    "titulo": "Piso en venta en Santa Pola Santa Pola 34. Bonito piso ubicado en la zona del Tamarit, con",
-   "precio": 20000.0,
+   "precio": 90000.0,
    "precio_antes": 90000.0,
    "m2": 70,
    "hab": 2,
@@ -520,17 +539,17 @@
    "texto": "Comprar Pisos y Casas en Santa Pola, Alicante/Alacant - página 2 | Trovimap --> --> Toggle navigation this.getMessages()\"> this.getMessages()\"> this.getMessages()\"> this.getMessages()\"> Precios Valora tu inmueble Blog Anúnciate gratis Entrar Máx 120.000 € Mín 60 m² Habitaciones (2+) Filtros Estadísticas Históricas Guardar búsqueda Mostrar límites : 26 Alicante/Alacant Santa Pola Alicante/Alacant Murcia Valencia/València Albacete Almería Castellón/Castelló Cuenca Granada Teruel Jaén Santa Pola Elche/Elx Alacant/Alicante Guardamar del Segura San Fulgencio Rojales Monforte del Cid Dolores Forment",
    "riesgo": null,
    "incompleto": false,
-   "aviso": "muy barato por m² (285 €/m²): comprueba por qué",
+   "aviso": null,
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
      90000.0
     ],
     [
-     "2026-11-01",
-     20000.0
+     "2026-11-02",
+     90000.0
     ]
    ]
   },
@@ -549,13 +568,14 @@
    "riesgo": null,
    "incompleto": false,
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
      109000.0
     ]
-   ]
+   ],
+   "aviso": null
   },
   "trovimap-382244-39377450": {
    "id": "trovimap-382244-39377450",
@@ -572,13 +592,14 @@
    "riesgo": null,
    "incompleto": false,
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
      95000.0
     ]
-   ]
+   ],
+   "aviso": null
   },
   "trovimap-382244-39356788": {
    "id": "trovimap-382244-39356788",
@@ -596,7 +617,7 @@
    "incompleto": false,
    "aviso": "muy barato por m² (725 €/m²): comprueba por qué",
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
@@ -619,13 +640,14 @@
    "riesgo": null,
    "incompleto": false,
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
      88000.0
     ]
-   ]
+   ],
+   "aviso": null
   },
   "trovimap-382244-39390263": {
    "id": "trovimap-382244-39390263",
@@ -642,19 +664,20 @@
    "riesgo": null,
    "incompleto": false,
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "historial": [
     [
      "2026-11-01",
      120000.0
     ]
-   ]
+   ],
+   "aviso": null
   },
   "trovimap-382244-40358750": {
    "id": "trovimap-382244-40358750",
    "fuente": "Trovimap",
    "titulo": "Apartamento en venta en Guardamar del Segura, Pueblo con Ascensor V1522. CGI Inmobiliaria ",
-   "precio": 20000.0,
+   "precio": 119990.0,
    "precio_antes": 119990.0,
    "m2": 90,
    "hab": 3,
@@ -664,7 +687,7 @@
    "texto": "Comprar Pisos y Casas en Guardamar del Segura, Alicante/Alacant | Trovimap --> --> Toggle navigation this.getMessages()\"> this.getMessages()\"> this.getMessages()\"> this.getMessages()\"> Precios Valora tu inmueble Blog Anúnciate gratis Entrar Máx 120.000 € Mín 60 m² Habitaciones (2+) Filtros Estadísticas Históricas Guardar búsqueda Mostrar límites : 14 Alicante/Alacant Guardamar del Segura Alicante/Alacant Murcia Valencia/València Albacete Almería Granada Cuenca Castellón/Castelló Jaén Teruel Guardamar del Segura Rojales San Fulgencio Torrevieja Elche/Elx Formentera del Segura Benijófar Daya Vie",
    "riesgo": null,
    "incompleto": false,
-   "aviso": "muy barato por m² (222 €/m²): comprueba por qué",
+   "aviso": null,
    "primera_vez": "2026-11-01",
    "ultima_vez": "2026-11-02",
    "historial": [
@@ -673,16 +696,12 @@
      119990.0
     ],
     [
-     "2026-11-01",
-     20000.0
-    ],
-    [
      "2026-11-02",
      119990.0
     ],
     [
      "2026-11-02",
-     20000.0
+     119990.0
     ]
    ]
   },
@@ -706,10 +725,6 @@
     [
      "2026-11-01",
      105000.0
-    ],
-    [
-     "2026-11-02",
-     20000.0
     ],
     [
      "2026-11-02",
@@ -1011,7 +1026,7 @@
    "id": "trovimap-382244-41780230",
    "fuente": "Trovimap",
    "titulo": "Adosada en venta en San Fulgencio, La marina San Fulgencio AT. No se puede visitar el inte",
-   "precio": 20000.0,
+   "precio": null,
    "precio_antes": 60800.0,
    "m2": 88,
    "hab": 2,
@@ -1028,10 +1043,6 @@
     [
      "2026-11-01",
      60800.0
-    ],
-    [
-     "2026-11-01",
-     20000.0
     ]
    ]
   },
@@ -1187,10 +1198,6 @@
      114999.0
     ],
     [
-     "2026-11-01",
-     20000.0
-    ],
-    [
      "2026-11-02",
      114999.0
     ]
@@ -1248,7 +1255,7 @@
    "id": "trovimap-382244-41744819",
    "fuente": "Trovimap",
    "titulo": "Apartamento en venta en Almoradi, Centro urbano 2 con Ascensor CV02105. Te presentamos un ",
-   "precio": 20000.0,
+   "precio": 120000.0,
    "precio_antes": null,
    "m2": 108,
    "hab": 2,
@@ -1267,10 +1274,10 @@
     ],
     [
      "2026-11-02",
-     20000.0
+     120000.0
     ]
    ],
-   "aviso": "muy barato por m² (185 €/m²): comprueba por qué"
+   "aviso": null
   },
   "trovimap-382244-41744757": {
    "id": "trovimap-382244-41744757",
@@ -1683,10 +1690,6 @@
      120000.0
     ],
     [
-     "2026-11-01",
-     20000.0
-    ],
-    [
      "2026-11-02",
      120000.0
     ]
@@ -1712,10 +1715,6 @@
     [
      "2026-11-01",
      117000.0
-    ],
-    [
-     "2026-11-02",
-     20000.0
     ],
     [
      "2026-11-02",
@@ -1771,10 +1770,6 @@
     ],
     [
      "2026-11-02",
-     20000.0
-    ],
-    [
-     "2026-11-02",
      112000.0
     ]
    ],
@@ -1784,7 +1779,7 @@
    "id": "trovimap-310754-39616412",
    "fuente": "Trovimap",
    "titulo": "Piso acogedor en Almoradi con piscina con Ascensor Acogedor piso de 69 m2 catastrales, sit",
-   "precio": 20000.0,
+   "precio": 117200.0,
    "precio_antes": null,
    "m2": 69,
    "hab": 2,
@@ -1803,10 +1798,10 @@
     ],
     [
      "2026-11-02",
-     20000.0
+     117200.0
     ]
    ],
-   "aviso": "muy barato por m² (289 €/m²): comprueba por qué"
+   "aviso": null
   },
   "trovimap-382244-41573523": {
    "id": "trovimap-382244-41573523",
@@ -2207,10 +2202,6 @@
     [
      "2026-11-01",
      89900.0
-    ],
-    [
-     "2026-11-01",
-     20000.0
     ],
     [
      "2026-11-02",
@@ -2682,7 +2673,7 @@
    "id": "trovimap-382244-41780364",
    "fuente": "Trovimap",
    "titulo": "Piso en venta en Catral, CENTRO con Ascensor C140. ¡Descubre tu nuevo hogar! En Hogar Cost",
-   "precio": 20000.0,
+   "precio": 82500.0,
    "precio_antes": 82500.0,
    "m2": 124,
    "hab": 4,
@@ -2692,7 +2683,7 @@
    "texto": "Comprar Pisos y Casas en Catral, Alicante/Alacant | Trovimap --> --> Toggle navigation this.getMessages()\"> this.getMessages()\"> this.getMessages()\"> this.getMessages()\"> Precios Valora tu inmueble Blog Anúnciate gratis Entrar Máx 120.000 € Mín 60 m² Habitaciones (2+) Filtros Estadísticas Históricas Guardar búsqueda Mostrar límites : 14 Alicante/Alacant Catral Alicante/Alacant Murcia Albacete Valencia/València Almería Granada Cuenca Castellón/Castelló Jaén Teruel Catral Crevillent Dolores Almoradí San Isidro Orihuela Callosa de Segura Daya Nueva Elche/Elx Granja de Rocamora Pisos y Casas a la ",
    "riesgo": null,
    "incompleto": false,
-   "aviso": "muy barato por m² (161 €/m²): comprueba por qué",
+   "aviso": "muy barato por m² (665 €/m²): comprueba por qué",
    "primera_vez": "2026-11-01",
    "ultima_vez": "2026-11-02",
    "historial": [
@@ -2701,16 +2692,12 @@
      82500.0
     ],
     [
-     "2026-11-01",
-     20000.0
-    ],
-    [
      "2026-11-02",
      82500.0
     ],
     [
      "2026-11-02",
-     20000.0
+     82500.0
     ]
    ]
   },
@@ -2758,10 +2745,6 @@
     [
      "2026-11-01",
      107500.0
-    ],
-    [
-     "2026-11-02",
-     20000.0
     ],
     [
      "2026-11-02",
@@ -3044,7 +3027,7 @@
    "id": "trovimap-310778-39324019",
    "fuente": "Trovimap",
    "titulo": "PISO EN DOLORES, REF-16 A con Ascensor PISO EN DOLORES, REF-16 APiso en dolores de 114 met",
-   "precio": 20000.0,
+   "precio": 120000.0,
    "precio_antes": 120000.0,
    "m2": 114,
    "hab": 3,
@@ -3054,7 +3037,7 @@
    "texto": "Comprar Pisos y Casas en Dolores, Alicante/Alacant | Trovimap --> --> Toggle navigation this.getMessages()\"> this.getMessages()\"> this.getMessages()\"> this.getMessages()\"> Precios Valora tu inmueble Blog Anúnciate gratis Entrar Máx 120.000 € Mín 60 m² Habitaciones (2+) Filtros Estadísticas Históricas Guardar búsqueda Mostrar límites : 11 Alicante/Alacant Dolores Alicante/Alacant Murcia Albacete Valencia/València Almería Granada Cuenca Castellón/Castelló Jaén Teruel Dolores San Fulgencio Daya Nueva Catral Elche/Elx Crevillent Almoradí Daya Vieja Rojales Formentera del Segura Pisos y Casas a la ",
    "riesgo": null,
    "incompleto": false,
-   "aviso": "muy barato por m² (175 €/m²): comprueba por qué",
+   "aviso": null,
    "primera_vez": "2026-11-01",
    "ultima_vez": "2026-11-02",
    "historial": [
@@ -3063,8 +3046,8 @@
      120000.0
     ],
     [
-     "2026-11-01",
-     20000.0
+     "2026-11-02",
+     120000.0
     ]
    ]
   },
@@ -3334,7 +3317,7 @@
    "id": "trovimap-382244-41787181",
    "fuente": "Trovimap",
    "titulo": "Adosada en venta en San Fulgencio, La marina San Fulgencio AT. No se puede visitar el inte",
-   "precio": 20000.0,
+   "precio": 60800.0,
    "precio_antes": 60800.0,
    "m2": 88,
    "hab": 2,
@@ -3342,9 +3325,9 @@
    "zona": "San Fulgencio",
    "url": "https://www.trovimap.com/inmueble/382244-41787181",
    "texto": "Comprar Pisos y Casas en San Fulgencio, Alicante/Alacant | Trovimap --> --> Toggle navigation this.getMessages()\"> this.getMessages()\"> this.getMessages()\"> this.getMessages()\"> Precios Valora tu inmueble Blog Anúnciate gratis Entrar Máx 120.000 € Mín 60 m² Habitaciones (2+) Filtros Estadísticas Históricas Guardar búsqueda Mostrar límites : 6 Alicante/Alacant San Fulgencio Alicante/Alacant Murcia Valencia/València Albacete Almería Cuenca Granada Castellón/Castelló Teruel Jaén San Fulgencio Guardamar del Segura Elche/Elx Rojales Formentera del Segura Dolores Daya Vieja Santa Pola Daya Nueva Ben",
-   "riesgo": null,
+   "riesgo": "SIN POSESION",
    "incompleto": false,
-   "aviso": "muy barato por m² (227 €/m²): comprueba por qué",
+   "aviso": "muy barato por m² (690 €/m²): comprueba por qué",
    "primera_vez": "2026-11-02",
    "ultima_vez": "2026-11-02",
    "historial": [
@@ -3354,22 +3337,2442 @@
     ],
     [
      "2026-11-02",
-     20000.0
+     60800.0
     ]
    ],
    "duplicado_de": "trovimap-382244-41780230"
+  },
+  "trovimap-382244-41700805": {
+   "id": "trovimap-382244-41700805",
+   "fuente": "Trovimap",
+   "titulo": "Piso en venta en Crevillent, Zona consum con Ascensor 9951. Se vende excelente piso para e",
+   "precio": 105000.0,
+   "precio_antes": null,
+   "m2": 94,
+   "hab": 3,
+   "banos": 2,
+   "zona": "Crevillent",
+   "url": "https://www.trovimap.com/inmueble/382244-41700805",
+   "texto": "1.117 €/m² 94 m² 3 2 Nuevo Piso Compra - Agente Inmobiliario Piso en venta en Crevillent, Zona consum con Ascensor 9951. Se vende excelente piso para entrar a vivir en Crevillent. 94 m2 construidos. Distribución ; 3 habitaciones,2 baños,salón y cocina con galería.",
+   "riesgo": null,
+   "incompleto": false,
+   "primera_vez": "2026-11-02",
+   "ultima_vez": "2026-11-02",
+   "historial": [
+    [
+     "2026-11-02",
+     105000.0
+    ]
+   ]
+  },
+  "trovimap-311695-41735605": {
+   "id": "trovimap-311695-41735605",
+   "fuente": "Trovimap",
+   "titulo": "Entresuelo en CREVILLENTE con Ascensor Entresuelo con ascensor, se encuentra de origen y c",
+   "precio": 89000.0,
+   "precio_antes": null,
+   "m2": 95,
+   "hab": 3,
+   "banos": 2,
+   "zona": "Crevillent",
+   "url": "https://www.trovimap.com/inmueble/311695-41735605",
+   "texto": "937 €/m² 95 m² 3 2 Nuevo Piso Compra - Agente Inmobiliario Entresuelo en CREVILLENTE con Ascensor Entresuelo con ascensor, se encuentra de origen y con muchas posibilidades, luminosa, ya que es todo exterior, distribuida en salón comedor , cocina a",
+   "riesgo": null,
+   "incompleto": false,
+   "primera_vez": "2026-11-02",
+   "ultima_vez": "2026-11-02",
+   "historial": [
+    [
+     "2026-11-02",
+     89000.0
+    ]
+   ]
+  },
+  "trovimap-382244-41749579": {
+   "id": "trovimap-382244-41749579",
+   "fuente": "Trovimap",
+   "titulo": "Piso en venta en Crevillent, FONTENAY con Ascensor 9934. Se vende piso con vistas al Paseo",
+   "precio": 120000.0,
+   "precio_antes": null,
+   "m2": 124,
+   "hab": 2,
+   "banos": 2,
+   "zona": "Crevillent",
+   "url": "https://www.trovimap.com/inmueble/382244-41749579",
+   "texto": "968 €/m² 124 m² 2 2 Nuevo Piso Compra - Agente Inmobiliario Piso en venta en Crevillent, FONTENAY con Ascensor 9934. Se vende piso con vistas al Paseo Fontenay; el piso tiene 90 m2, Salón de 30 m2, cocina amplia, 2 baños y 2 habitaciones.~~́ :~1/ El precio publ",
+   "riesgo": null,
+   "incompleto": false,
+   "primera_vez": "2026-11-02",
+   "ultima_vez": "2026-11-02",
+   "historial": [
+    [
+     "2026-11-02",
+     120000.0
+    ]
+   ]
+  },
+  "trovimap-384948-40488187": {
+   "id": "trovimap-384948-40488187",
+   "fuente": "Trovimap",
+   "titulo": "4 HABITACIONES. con Ascensor Presentamos esta vivienda en la zona del Calvario, ideal para",
+   "precio": 99000.0,
+   "precio_antes": 110000.0,
+   "m2": 105,
+   "hab": 4,
+   "banos": 2,
+   "zona": "Crevillent",
+   "url": "https://www.trovimap.com/inmueble/384948-40488187",
+   "texto": "110.000 € 105 m² 4 2 Piso Compra - Agente Inmobiliario 4 HABITACIONES. con Ascensor Presentamos esta vivienda en la zona del Calvario, ideal para quienes buscan un proyecto de reforma a su medida. 🛠️ Con una distribución que incluye",
+   "riesgo": null,
+   "incompleto": false,
+   "primera_vez": "2026-11-02",
+   "ultima_vez": "2026-11-02",
+   "historial": [
+    [
+     "2026-11-02",
+     110000.0
+    ],
+    [
+     "2026-11-02",
+     99000.0
+    ]
+   ]
+  },
+  "trovimap-489324-37294301": {
+   "id": "trovimap-489324-37294301",
+   "fuente": "Trovimap",
+   "titulo": "Crevillente, oportunidad. Zona en desarrollo con Ascensor Presentamos una excelente oportu",
+   "precio": 80000.0,
+   "precio_antes": 83500.0,
+   "m2": 116,
+   "hab": 3,
+   "banos": 1,
+   "zona": "Crevillent",
+   "url": "https://www.trovimap.com/inmueble/489324-37294301",
+   "texto": "83.500 € 116 m² 3 1 Piso Compra - Agente Inmobiliario Crevillente, oportunidad. Zona en desarrollo con Ascensor Presentamos una excelente oportunidad de inversión en Crevillente: un amplio y luminoso piso situado en una finca tranquila con ascensor. Esta viviend",
+   "riesgo": "inversión",
+   "incompleto": false,
+   "aviso": "muy barato por m² (689 €/m²): comprueba por qué",
+   "primera_vez": "2026-11-02",
+   "ultima_vez": "2026-11-02",
+   "historial": [
+    [
+     "2026-11-02",
+     83500.0
+    ],
+    [
+     "2026-11-02",
+     80000.0
+    ]
+   ]
+  },
+  "trovimap-489324-37638001": {
+   "id": "trovimap-489324-37638001",
+   "fuente": "Trovimap",
+   "titulo": "Gran vivienda en el centro, finca con ascensor con Ascensor Esta vivienda de grandes estan",
+   "precio": 80000.0,
+   "precio_antes": null,
+   "m2": 120,
+   "hab": 3,
+   "banos": 1,
+   "zona": "Crevillent",
+   "url": "https://www.trovimap.com/inmueble/489324-37638001",
+   "texto": "667 €/m² 120 m² 3 1 Piso Compra - Agente Inmobiliario Gran vivienda en el centro, finca con ascensor con Ascensor Esta vivienda de grandes estancias en pleno centro de la ciudad y el casco histórico, ofrece todas las comodidades de una vivienda en esquina. Salón a",
+   "riesgo": null,
+   "incompleto": false,
+   "aviso": "muy barato por m² (666 €/m²): comprueba por qué",
+   "primera_vez": "2026-11-02",
+   "ultima_vez": "2026-11-02",
+   "historial": [
+    [
+     "2026-11-02",
+     80000.0
+    ]
+   ]
+  },
+  "trovimap-382244-41573833": {
+   "id": "trovimap-382244-41573833",
+   "fuente": "Trovimap",
+   "titulo": "Piso en venta en Crevillent, FONTENAY con Ascensor 3920. Presentamos esta espectacular viv",
+   "precio": 120000.0,
+   "precio_antes": 130000.0,
+   "m2": 124,
+   "hab": 2,
+   "banos": 2,
+   "zona": "Crevillent",
+   "url": "https://www.trovimap.com/inmueble/382244-41573833",
+   "texto": "130.000 € 124 m² 2 2 Piso Compra - Agente Inmobiliario Piso en venta en Crevillent, FONTENAY con Ascensor 3920. Presentamos esta espectacular vivienda centrica, ideal para quienes buscan comodidad y calidad de vida. Ubicada en el paseo Fontenay, disfrutar",
+   "riesgo": null,
+   "incompleto": false,
+   "primera_vez": "2026-11-02",
+   "ultima_vez": "2026-11-02",
+   "historial": [
+    [
+     "2026-11-02",
+     130000.0
+    ],
+    [
+     "2026-11-02",
+     120000.0
+    ]
+   ],
+   "duplicado_de": "trovimap-382244-41749579"
+  },
+  "trovimap-384948-41581411": {
+   "id": "trovimap-384948-41581411",
+   "fuente": "Trovimap",
+   "titulo": "MUY INTERESANTE. VIVIENDA CENTRICA CON VISTAS DESPEJADAS con Ascensor Presentamos esta esp",
+   "precio": 120000.0,
+   "precio_antes": 130000.0,
+   "m2": 124,
+   "hab": 2,
+   "banos": 2,
+   "zona": "Crevillent",
+   "url": "https://www.trovimap.com/inmueble/384948-41581411",
+   "texto": "130.000 € 124 m² 2 2 Piso Compra - Agente Inmobiliario MUY INTERESANTE. VIVIENDA CENTRICA CON VISTAS DESPEJADAS con Ascensor Presentamos esta espectacular vivienda centrica, ideal para quienes buscan comodidad y calidad de vida. 🌞 Ubicada en el paseo Fontenay, disfrutarás d",
+   "riesgo": null,
+   "incompleto": false,
+   "primera_vez": "2026-11-02",
+   "ultima_vez": "2026-11-02",
+   "historial": [
+    [
+     "2026-11-02",
+     130000.0
+    ],
+    [
+     "2026-11-02",
+     120000.0
+    ]
+   ],
+   "duplicado_de": "trovimap-382244-41749579"
+  },
+  "trovimap-382244-41573594": {
+   "id": "trovimap-382244-41573594",
+   "fuente": "Trovimap",
+   "titulo": "Piso en venta en Crevillent, Comunidad valenciana con Ascensor . Piso en Venta en Fontenay",
+   "precio": 117000.0,
+   "precio_antes": 119000.0,
+   "m2": 84,
+   "hab": 2,
+   "banos": 1,
+   "zona": "Crevillent",
+   "url": "https://www.trovimap.com/inmueble/382244-41573594",
+   "texto": "119.000 € 84 m² 2 1 Piso Compra - Agente Inmobiliario Piso en venta en Crevillent, Comunidad valenciana con Ascensor . Piso en Venta en Fontenay, Crevillente - ¡Oportunidad Perfecta!~~Descubre este magnífico piso de 84 m2 construidos (58 m2 útiles) ubicado en la dese",
+   "riesgo": null,
+   "incompleto": false,
+   "primera_vez": "2026-11-02",
+   "ultima_vez": "2026-11-02",
+   "historial": [
+    [
+     "2026-11-02",
+     119000.0
+    ],
+    [
+     "2026-11-02",
+     117000.0
+    ]
+   ]
+  },
+  "trovimap-411412-41050614": {
+   "id": "trovimap-411412-41050614",
+   "fuente": "Trovimap",
+   "titulo": "Se vende piso con Ascensor Se vende excelente piso para entrar a vivir en Crevillent. 94 m",
+   "precio": 105000.0,
+   "precio_antes": null,
+   "m2": 94,
+   "hab": 3,
+   "banos": 2,
+   "zona": "Crevillent",
+   "url": "https://www.trovimap.com/inmueble/411412-41050614",
+   "texto": "1.117 €/m² 94 m² 3 2 Piso Compra - Agente Inmobiliario Se vende piso con Ascensor Se vende excelente piso para entrar a vivir en Crevillent. 94 m2 construidos. Distribución ; 3 habitaciones,2 baños,salón y cocina con galería. 4ª pl",
+   "riesgo": null,
+   "incompleto": false,
+   "primera_vez": "2026-11-02",
+   "ultima_vez": "2026-11-02",
+   "historial": [
+    [
+     "2026-11-02",
+     105000.0
+    ]
+   ],
+   "duplicado_de": "trovimap-382244-41700805"
+  },
+  "trovimap-382244-39804680": {
+   "id": "trovimap-382244-39804680",
+   "fuente": "Trovimap",
+   "titulo": "Piso en venta en Crevillent, Zona consum con Ascensor 3856. Esta vivienda totalmente exter",
+   "precio": 120000.0,
+   "precio_antes": null,
+   "m2": 112,
+   "hab": 3,
+   "banos": 2,
+   "zona": "Crevillent",
+   "url": "https://www.trovimap.com/inmueble/382244-39804680",
+   "texto": "1.071 €/m² 112 m² 3 2 Piso Compra - Agente Inmobiliario Piso en venta en Crevillent, Zona consum con Ascensor 3856. Esta vivienda totalmente exterior destaca por su privilegiada ubicación en esquina y su orientación sureste, lo que garantiza una excelente entr",
+   "riesgo": null,
+   "incompleto": false,
+   "primera_vez": "2026-11-02",
+   "ultima_vez": "2026-11-02",
+   "historial": [
+    [
+     "2026-11-02",
+     120000.0
+    ]
+   ]
+  },
+  "trovimap-384948-39782259": {
+   "id": "trovimap-384948-39782259",
+   "fuente": "Trovimap",
+   "titulo": "VIVIENDA ESQUINA. VISTAS DESPEJADAS con Ascensor Esta vivienda totalmente exterior destaca",
+   "precio": 120000.0,
+   "precio_antes": null,
+   "m2": 112,
+   "hab": 3,
+   "banos": 2,
+   "zona": "Crevillent",
+   "url": "https://www.trovimap.com/inmueble/384948-39782259",
+   "texto": "1.071 €/m² 112 m² 3 2 Piso Compra - Agente Inmobiliario VIVIENDA ESQUINA. VISTAS DESPEJADAS con Ascensor Esta vivienda totalmente exterior destaca por su privilegiada ubicación en esquina y su orientación sureste, lo que garantiza una excelente entrada de",
+   "riesgo": null,
+   "incompleto": false,
+   "primera_vez": "2026-11-02",
+   "ultima_vez": "2026-11-02",
+   "historial": [
+    [
+     "2026-11-02",
+     120000.0
+    ]
+   ],
+   "duplicado_de": "trovimap-382244-39804680"
+  },
+  "trovimap-382244-40515840": {
+   "id": "trovimap-382244-40515840",
+   "fuente": "Trovimap",
+   "titulo": "Piso en venta en Crevillent, CALVARIO con Ascensor 3877. Presentamos esta vivienda en la z",
+   "precio": 99000.0,
+   "precio_antes": 110000.0,
+   "m2": 105,
+   "hab": 4,
+   "banos": 2,
+   "zona": "Crevillent",
+   "url": "https://www.trovimap.com/inmueble/382244-40515840",
+   "texto": "110.000 € 105 m² 4 2 Piso Compra - Agente Inmobiliario Piso en venta en Crevillent, CALVARIO con Ascensor 3877. Presentamos esta vivienda en la zona del Calvario, ideal para quienes buscan un proyecto de reforma a su medida. ️ Con una distribución que incl",
+   "riesgo": null,
+   "incompleto": false,
+   "primera_vez": "2026-11-02",
+   "ultima_vez": "2026-11-02",
+   "historial": [
+    [
+     "2026-11-02",
+     110000.0
+    ],
+    [
+     "2026-11-02",
+     99000.0
+    ]
+   ],
+   "duplicado_de": "trovimap-384948-40488187"
+  },
+  "trovimap-382244-41769738": {
+   "id": "trovimap-382244-41769738",
+   "fuente": "Trovimap",
+   "titulo": "Piso en venta en Crevillent, Avda madrid Crevillent 3924. ¡Bienvenido a tu nuevo hogar en ",
+   "precio": 99900.0,
+   "precio_antes": null,
+   "m2": 85,
+   "hab": 3,
+   "banos": 1,
+   "zona": "Crevillent",
+   "url": "https://www.trovimap.com/inmueble/382244-41769738",
+   "texto": "1.175 €/m² 85 m² 3 1 Nuevo Piso Compra - Agente Inmobiliario Piso en venta en Crevillent, Avda madrid Crevillent 3924. ¡Bienvenido a tu nuevo hogar en el corazón de la ciudad! ️ Esta vivienda centrica en Avda. de Madrid te está esperando con un balcón ideal para",
+   "riesgo": null,
+   "incompleto": false,
+   "primera_vez": "2026-11-02",
+   "ultima_vez": "2026-11-02",
+   "historial": [
+    [
+     "2026-11-02",
+     99900.0
+    ]
+   ]
+  },
+  "trovimap-382244-41787422": {
+   "id": "trovimap-382244-41787422",
+   "fuente": "Trovimap",
+   "titulo": "Piso en venta en Crevillent, FONTENAY Crevillent 3927. Les presentamos esta vivienda cerca",
+   "precio": 99000.0,
+   "precio_antes": null,
+   "m2": 85,
+   "hab": 3,
+   "banos": 1,
+   "zona": "Crevillent",
+   "url": "https://www.trovimap.com/inmueble/382244-41787422",
+   "texto": "1.165 €/m² 85 m² 3 1 Piso Compra - Agente Inmobiliario Piso en venta en Crevillent, FONTENAY Crevillent 3927. Les presentamos esta vivienda cerca del Paseo Fontenay. Muy bien ubicado, esta vivienda situada en una segunda planta sin ascensor cuenta con 7",
+   "riesgo": null,
+   "incompleto": false,
+   "primera_vez": "2026-11-02",
+   "ultima_vez": "2026-11-02",
+   "historial": [
+    [
+     "2026-11-02",
+     99000.0
+    ]
+   ]
+  },
+  "trovimap-384948-41762726": {
+   "id": "trovimap-384948-41762726",
+   "fuente": "Trovimap",
+   "titulo": "VIVIENDA CENTRICA Crevillent ¡Bienvenido a tu nuevo hogar en el corazón de la ciudad! 🏙️ E",
+   "precio": 99900.0,
+   "precio_antes": null,
+   "m2": 85,
+   "hab": 3,
+   "banos": 1,
+   "zona": "Crevillent",
+   "url": "https://www.trovimap.com/inmueble/384948-41762726",
+   "texto": "1.175 €/m² 85 m² 3 1 Nuevo Piso Compra - Agente Inmobiliario VIVIENDA CENTRICA Crevillent ¡Bienvenido a tu nuevo hogar en el corazón de la ciudad! 🏙️ Esta vivienda centrica en Avda. de Madrid te está esperando con un balcón ideal para disf",
+   "riesgo": null,
+   "incompleto": false,
+   "primera_vez": "2026-11-02",
+   "ultima_vez": "2026-11-02",
+   "historial": [
+    [
+     "2026-11-02",
+     99900.0
+    ]
+   ],
+   "duplicado_de": "trovimap-382244-41769738"
+  },
+  "trovimap-524132-41767174": {
+   "id": "trovimap-524132-41767174",
+   "fuente": "Trovimap",
+   "titulo": "Casa en venta con inquilino en Crevillent Crevillent Inmueble alquilado de procedencia ban",
+   "precio": 80000.0,
+   "precio_antes": null,
+   "m2": 83,
+   "hab": 3,
+   "banos": 2,
+   "zona": "Crevillent",
+   "url": "https://www.trovimap.com/inmueble/524132-41767174",
+   "texto": "964 €/m² 83 m² 3 2 Nuevo Casa Compra - Agente Inmobiliario Casa en venta con inquilino en Crevillent Crevillent Inmueble alquilado de procedencia bancaria y sin acceso al interior. No se puede visitar. Las fotografías del interior y la información sobre su distr",
+   "riesgo": "inquilin",
+   "incompleto": false,
+   "primera_vez": "2026-11-02",
+   "ultima_vez": "2026-11-02",
+   "historial": [
+    [
+     "2026-11-02",
+     80000.0
+    ]
+   ]
+  },
+  "trovimap-519334-41766871": {
+   "id": "trovimap-519334-41766871",
+   "fuente": "Trovimap",
+   "titulo": "Piso En venta en Higueras, Crevillent Crevillent Se vende piso en Crevillente para entrar ",
+   "precio": 120000.0,
+   "precio_antes": null,
+   "m2": 128,
+   "hab": 3,
+   "banos": 2,
+   "zona": "Crevillent",
+   "url": "https://www.trovimap.com/inmueble/519334-41766871",
+   "texto": "938 €/m² 128 m² 3 2 Nuevo Piso Compra - Agente Inmobiliario Piso En venta en Higueras, Crevillent Crevillent Se vende piso en Crevillente para entrar a vivir. La vivienda está situada muy cerca del Ambulatorio. Pertenece a un edificio con muy pocos vecinos, t",
+   "riesgo": null,
+   "incompleto": false,
+   "primera_vez": "2026-11-02",
+   "ultima_vez": "2026-11-02",
+   "historial": [
+    [
+     "2026-11-02",
+     120000.0
+    ]
+   ]
+  },
+  "trovimap-382244-41627420": {
+   "id": "trovimap-382244-41627420",
+   "fuente": "Trovimap",
+   "titulo": "Planta baja en venta en Crevillent, Comunidad valenciana Crevillent NM1859RM. NM te presen",
+   "precio": 80000.0,
+   "precio_antes": null,
+   "m2": 70,
+   "hab": 2,
+   "banos": 1,
+   "zona": "Crevillent",
+   "url": "https://www.trovimap.com/inmueble/382244-41627420",
+   "texto": "1.143 €/m² 70 m² 2 1 Piso Compra - Agente Inmobiliario Planta baja en venta en Crevillent, Comunidad valenciana Crevillent NM1859RM. NM te presenta; esta gran oportunidad de adquirir una casa independiente de dos plantas.~En la plata principal encontraras cocina comedor, u",
+   "riesgo": null,
+   "incompleto": false,
+   "primera_vez": "2026-11-02",
+   "ultima_vez": "2026-11-02",
+   "historial": [
+    [
+     "2026-11-02",
+     80000.0
+    ]
+   ]
+  },
+  "trovimap-384948-41775496": {
+   "id": "trovimap-384948-41775496",
+   "fuente": "Trovimap",
+   "titulo": "VIVIENDA CENTRICA Crevillent 🏡 Les presentamos esta vivienda cerca del Paseo Fontenay. Muy",
+   "precio": 99000.0,
+   "precio_antes": null,
+   "m2": 85,
+   "hab": 3,
+   "banos": 1,
+   "zona": "Crevillent",
+   "url": "https://www.trovimap.com/inmueble/384948-41775496",
+   "texto": "1.165 €/m² 85 m² 3 1 Nuevo Piso Compra - Agente Inmobiliario VIVIENDA CENTRICA Crevillent 🏡 Les presentamos esta vivienda cerca del Paseo Fontenay. Muy bien ubicado, esta vivienda situada en una segunda planta sin ascensor cuenta con 75 m2",
+   "riesgo": null,
+   "incompleto": false,
+   "primera_vez": "2026-11-02",
+   "ultima_vez": "2026-11-02",
+   "historial": [
+    [
+     "2026-11-02",
+     99000.0
+    ]
+   ],
+   "duplicado_de": "trovimap-382244-41787422"
+  },
+  "trovimap-382244-41700748": {
+   "id": "trovimap-382244-41700748",
+   "fuente": "Trovimap",
+   "titulo": "Casa en venta en Crevillent, Zona norte Crevillent 9954. Se vende casa de dos habitaciones",
+   "precio": 74000.0,
+   "precio_antes": null,
+   "m2": 130,
+   "hab": 2,
+   "banos": 1,
+   "zona": "Crevillent",
+   "url": "https://www.trovimap.com/inmueble/382244-41700748",
+   "texto": "569 €/m² 130 m² 2 1 Nuevo Casa Compra - Agente Inmobiliario Casa en venta en Crevillent, Zona norte Crevillent 9954. Se vende casa de dos habitaciones , un baño, cocina , un gran salón y una terraza de 100 m2.~Condición de compra: La casa esta alquilada por dos",
+   "riesgo": "alquilad",
+   "incompleto": false,
+   "aviso": "muy barato por m² (569 €/m²): comprueba por qué",
+   "primera_vez": "2026-11-02",
+   "ultima_vez": "2026-11-02",
+   "historial": [
+    [
+     "2026-11-02",
+     74000.0
+    ]
+   ]
+  },
+  "trovimap-382244-41573014": {
+   "id": "trovimap-382244-41573014",
+   "fuente": "Trovimap",
+   "titulo": "Casa en venta en Crevillent, CREVILLENTE Crevillent AC00478. Se vende casa cueva para refo",
+   "precio": 65000.0,
+   "precio_antes": null,
+   "m2": 73,
+   "hab": 2,
+   "banos": 1,
+   "zona": "Crevillent",
+   "url": "https://www.trovimap.com/inmueble/382244-41573014",
+   "texto": "890 €/m² 73 m² 2 1 Casa Compra - Agente Inmobiliario Casa en venta en Crevillent, CREVILLENTE Crevillent AC00478. Se vende casa cueva para reformar en Crevillent, situada en una zona tranquila y con el encanto característico de este tipo de propiedades.~L",
+   "riesgo": null,
+   "incompleto": false,
+   "aviso": "muy barato por m² (890 €/m²): comprueba por qué",
+   "primera_vez": "2026-11-02",
+   "ultima_vez": "2026-11-02",
+   "historial": [
+    [
+     "2026-11-02",
+     65000.0
+    ]
+   ]
+  },
+  "trovimap-382244-41573276": {
+   "id": "trovimap-382244-41573276",
+   "fuente": "Trovimap",
+   "titulo": "Piso en venta en Crevillent, LA MORQUERA Crevillent 3917. PISO CENTRICO~ Situada en la zon",
+   "precio": 89000.0,
+   "precio_antes": null,
+   "m2": 65,
+   "hab": 3,
+   "banos": 1,
+   "zona": "Crevillent",
+   "url": "https://www.trovimap.com/inmueble/382244-41573276",
+   "texto": "1.369 €/m² 65 m² 3 1 Piso Compra - Agente Inmobiliario Piso en venta en Crevillent, LA MORQUERA Crevillent 3917. PISO CENTRICO~ Situada en la zona centro, esta vivienda cuenta con 55 m2 útiles, perfectamente distribuidos para aprovechar cada espacio y ofre",
+   "riesgo": null,
+   "incompleto": false,
+   "primera_vez": "2026-11-02",
+   "ultima_vez": "2026-11-02",
+   "historial": [
+    [
+     "2026-11-02",
+     89000.0
+    ]
+   ]
+  },
+  "trovimap-382244-39665659": {
+   "id": "trovimap-382244-39665659",
+   "fuente": "Trovimap",
+   "titulo": "Apartamento en venta en Crevillent, CENTRO Crevillent 46233. Apartamento en Crevillent zon",
+   "precio": 65000.0,
+   "precio_antes": null,
+   "m2": 85,
+   "hab": 2,
+   "banos": 1,
+   "zona": "Crevillent",
+   "url": "https://www.trovimap.com/inmueble/382244-39665659",
+   "texto": "765 €/m² 85 m² 2 1 Piso Compra - Agente Inmobiliario Apartamento en venta en Crevillent, CENTRO Crevillent 46233. Apartamento en Crevillent zona CENTRO, 85 m. de superficie, 2 habitaciones dobles, un baño, propiedad en buen estado.Extras: electrodomésticos",
+   "riesgo": null,
+   "incompleto": false,
+   "aviso": "muy barato por m² (764 €/m²): comprueba por qué",
+   "primera_vez": "2026-11-02",
+   "ultima_vez": "2026-11-02",
+   "historial": [
+    [
+     "2026-11-02",
+     65000.0
+    ]
+   ]
+  },
+  "trovimap-384948-41570199": {
+   "id": "trovimap-384948-41570199",
+   "fuente": "Trovimap",
+   "titulo": "VIVIENDA EN LA ZONA LA MORQUERA Crevillent 🏡 PISO CENTRICO📍 Situada en la zona centro, est",
+   "precio": 89000.0,
+   "precio_antes": null,
+   "m2": 65,
+   "hab": 3,
+   "banos": 1,
+   "zona": "Crevillent",
+   "url": "https://www.trovimap.com/inmueble/384948-41570199",
+   "texto": "1.369 €/m² 65 m² 3 1 Piso Compra - Agente Inmobiliario VIVIENDA EN LA ZONA LA MORQUERA Crevillent 🏡 PISO CENTRICO📍 Situada en la zona centro, esta vivienda cuenta con 55 m2 útiles, perfectamente distribuidos para aprovechar cada espacio y ofrecer",
+   "riesgo": null,
+   "incompleto": false,
+   "primera_vez": "2026-11-02",
+   "ultima_vez": "2026-11-02",
+   "historial": [
+    [
+     "2026-11-02",
+     89000.0
+    ]
+   ],
+   "duplicado_de": "trovimap-382244-41573276"
+  },
+  "trovimap-384948-40978191": {
+   "id": "trovimap-384948-40978191",
+   "fuente": "Trovimap",
+   "titulo": "CASA EN LA ZONA CERCA DEL PASEO CALVARIO Crevillent 🌟 Oportunidad única de adquirir una ca",
+   "precio": 110000.0,
+   "precio_antes": 120000.0,
+   "m2": 78,
+   "hab": 3,
+   "banos": 1,
+   "zona": "Crevillent",
+   "url": "https://www.trovimap.com/inmueble/384948-40978191",
+   "texto": "120.000 € 78 m² 3 1 Casa Compra - Agente Inmobiliario CASA EN LA ZONA CERCA DEL PASEO CALVARIO Crevillent 🌟 Oportunidad única de adquirir una casa en buen estado, lista para entrar a vivir. Con una superficie de 90m2, esta propiedad se distribuye intelige",
+   "riesgo": null,
+   "incompleto": false,
+   "primera_vez": "2026-11-02",
+   "ultima_vez": "2026-11-02",
+   "historial": [
+    [
+     "2026-11-02",
+     120000.0
+    ],
+    [
+     "2026-11-02",
+     110000.0
+    ]
+   ]
+  },
+  "trovimap-382244-40995299": {
+   "id": "trovimap-382244-40995299",
+   "fuente": "Trovimap",
+   "titulo": "Casa en venta en Crevillent, Comunidad valenciana Crevillent 3901. Oportunidad única de ad",
+   "precio": 110000.0,
+   "precio_antes": 120000.0,
+   "m2": 78,
+   "hab": 3,
+   "banos": 1,
+   "zona": "Crevillent",
+   "url": "https://www.trovimap.com/inmueble/382244-40995299",
+   "texto": "120.000 € 78 m² 3 1 Casa Compra - Agente Inmobiliario Casa en venta en Crevillent, Comunidad valenciana Crevillent 3901. Oportunidad única de adquirir una casa en buen estado, lista para entrar a vivir. Con una superficie de 90m2, esta propiedad se distribuye inte",
+   "riesgo": null,
+   "incompleto": false,
+   "primera_vez": "2026-11-02",
+   "ultima_vez": "2026-11-02",
+   "historial": [
+    [
+     "2026-11-02",
+     120000.0
+    ],
+    [
+     "2026-11-02",
+     110000.0
+    ]
+   ],
+   "duplicado_de": "trovimap-384948-40978191"
+  },
+  "trovimap-382244-39670847": {
+   "id": "trovimap-382244-39670847",
+   "fuente": "Trovimap",
+   "titulo": "Piso en venta en Crevillent, Crevillent con Ascensor A-2694/4761. REBAJADOS 22000 eurosURO",
+   "precio": 93000.0,
+   "precio_antes": null,
+   "m2": 140,
+   "hab": 3,
+   "banos": 2,
+   "zona": "Crevillent",
+   "url": "https://www.trovimap.com/inmueble/382244-39670847",
+   "texto": "664 €/m² 140 m² 3 2 Piso Compra - Agente Inmobiliario Piso en venta en Crevillent, Crevillent con Ascensor A-2694/4761. REBAJADOS 22000 eurosUROS!!!!! Se vende magnifica vivienda amueblada y con electrodomesticos, en pleno centro de Crevillent, cerca de ig",
+   "riesgo": null,
+   "incompleto": false,
+   "aviso": "muy barato por m² (664 €/m²): comprueba por qué",
+   "primera_vez": "2026-11-02",
+   "ultima_vez": "2026-11-02",
+   "historial": [
+    [
+     "2026-11-02",
+     93000.0
+    ]
+   ]
+  },
+  "trovimap-382244-39667953": {
+   "id": "trovimap-382244-39667953",
+   "fuente": "Trovimap",
+   "titulo": "Piso en venta en Crevillent, Crevillent con Ascensor A-2705/4761. Se vende piso con ascens",
+   "precio": 78000.0,
+   "precio_antes": null,
+   "m2": 90,
+   "hab": 3,
+   "banos": 1,
+   "zona": "Crevillent",
+   "url": "https://www.trovimap.com/inmueble/382244-39667953",
+   "texto": "867 €/m² 90 m² 3 1 Piso Compra - Agente Inmobiliario Piso en venta en Crevillent, Crevillent con Ascensor A-2705/4761. Se vende piso con ascensor en zona Ctra.-Ronda Sur, amueblado y con electrodomesticos, 3 dormitorios, comedor, balcon, cocina, aseo y ban",
+   "riesgo": null,
+   "incompleto": false,
+   "aviso": "muy barato por m² (866 €/m²): comprueba por qué",
+   "primera_vez": "2026-11-02",
+   "ultima_vez": "2026-11-02",
+   "historial": [
+    [
+     "2026-11-02",
+     78000.0
+    ]
+   ]
+  },
+  "trovimap-411412-40529500": {
+   "id": "trovimap-411412-40529500",
+   "fuente": "Trovimap",
+   "titulo": "Piso En venta en Fontenay, Crevillent con Ascensor Se vende piso con vistas al Paseo Fonte",
+   "precio": 120000.0,
+   "precio_antes": 130000.0,
+   "m2": 124,
+   "hab": 2,
+   "banos": 2,
+   "zona": "Crevillent",
+   "url": "https://www.trovimap.com/inmueble/411412-40529500",
+   "texto": "130.000 € 124 m² 2 2 Piso Compra - Agente Inmobiliario Piso En venta en Fontenay, Crevillent con Ascensor Se vende piso con vistas al Paseo Fontenay; el piso tiene 90 m2, Salón de 30 m2, cocina amplia, 2 baños y 2 habitaciones.𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐜𝐢𝐨́𝐧 𝐚𝐝�",
+   "riesgo": null,
+   "incompleto": false,
+   "primera_vez": "2026-11-02",
+   "ultima_vez": "2026-11-02",
+   "historial": [
+    [
+     "2026-11-02",
+     130000.0
+    ],
+    [
+     "2026-11-02",
+     120000.0
+    ]
+   ],
+   "duplicado_de": "trovimap-382244-41749579"
+  },
+  "trovimap-538223-41569805": {
+   "id": "trovimap-538223-41569805",
+   "fuente": "Trovimap",
+   "titulo": "Piso En venta en Comunidad Valenciana, Crevillent con Ascensor Piso en Venta en Fontenay, ",
+   "precio": 117000.0,
+   "precio_antes": 119000.0,
+   "m2": 84,
+   "hab": 2,
+   "banos": 1,
+   "zona": "Crevillent",
+   "url": "https://www.trovimap.com/inmueble/538223-41569805",
+   "texto": "119.000 € 84 m² 2 1 Piso Compra - Agente Inmobiliario Piso En venta en Comunidad Valenciana, Crevillent con Ascensor Piso en Venta en Fontenay, Crevillente - ¡Oportunidad Perfecta!Descubre este magnífico piso de 84 m2 construidos (58 m2 útiles) ubicado en la deseable",
+   "riesgo": null,
+   "incompleto": false,
+   "primera_vez": "2026-11-02",
+   "ultima_vez": "2026-11-02",
+   "historial": [
+    [
+     "2026-11-02",
+     119000.0
+    ],
+    [
+     "2026-11-02",
+     117000.0
+    ]
+   ],
+   "duplicado_de": "trovimap-382244-41573594"
+  },
+  "trovimap-382244-39665618": {
+   "id": "trovimap-382244-39665618",
+   "fuente": "Trovimap",
+   "titulo": "Piso en venta en Crevillent, Ayuntamiento con Ascensor A-2696/4761. Se vende vivienda en C",
+   "precio": 65000.0,
+   "precio_antes": null,
+   "m2": 80,
+   "hab": 3,
+   "banos": 1,
+   "zona": "Crevillent",
+   "url": "https://www.trovimap.com/inmueble/382244-39665618",
+   "texto": "813 €/m² 80 m² 3 1 Piso Compra - Agente Inmobiliario Piso en venta en Crevillent, Ayuntamiento con Ascensor A-2696/4761. Se vende vivienda en Crevillent, zona Ayuntamiento, rodeada de comercios, ..... La vivienda se vende con electrodomesticos, 3 dormitorios",
+   "riesgo": null,
+   "incompleto": false,
+   "aviso": "muy barato por m² (812 €/m²): comprueba por qué",
+   "primera_vez": "2026-11-02",
+   "ultima_vez": "2026-11-02",
+   "historial": [
+    [
+     "2026-11-02",
+     65000.0
+    ]
+   ]
+  },
+  "trovimap-524132-41767176": {
+   "id": "trovimap-524132-41767176",
+   "fuente": "Trovimap",
+   "titulo": "Casa en venta con inquilino en Crevillent Crevillent Inmueble alquilado de procedencia ban",
+   "precio": 74000.0,
+   "precio_antes": null,
+   "m2": 66,
+   "hab": 2,
+   "banos": 1,
+   "zona": "Crevillent",
+   "url": "https://www.trovimap.com/inmueble/524132-41767176",
+   "texto": "1.121 €/m² 66 m² 2 1 Nuevo Casa Compra - Agente Inmobiliario Casa en venta con inquilino en Crevillent Crevillent Inmueble alquilado de procedencia bancaria y sin acceso a su interior. No se puede visitar. Las fotografías del interior y la información sobre su dis",
+   "riesgo": "inquilin",
+   "incompleto": false,
+   "primera_vez": "2026-11-02",
+   "ultima_vez": "2026-11-02",
+   "historial": [
+    [
+     "2026-11-02",
+     74000.0
+    ]
+   ]
+  },
+  "trovimap-411412-41229710": {
+   "id": "trovimap-411412-41229710",
+   "fuente": "Trovimap",
+   "titulo": "Se vende casa Crevillent Se vende casa de dos habitaciones , un baño, cocina , un gran sal",
+   "precio": 74000.0,
+   "precio_antes": null,
+   "m2": 130,
+   "hab": 2,
+   "banos": 1,
+   "zona": "Crevillent",
+   "url": "https://www.trovimap.com/inmueble/411412-41229710",
+   "texto": "569 €/m² 130 m² 2 1 Casa Compra - Agente Inmobiliario Se vende casa Crevillent Se vende casa de dos habitaciones , un baño, cocina , un gran salón y una terraza de 100 m2.Condición de compra: La casa esta alquilada por dos años y",
+   "riesgo": "alquilad",
+   "incompleto": false,
+   "aviso": "muy barato por m² (569 €/m²): comprueba por qué",
+   "primera_vez": "2026-11-02",
+   "ultima_vez": "2026-11-02",
+   "historial": [
+    [
+     "2026-11-02",
+     74000.0
+    ]
+   ],
+   "duplicado_de": "trovimap-382244-41700748"
+  },
+  "trovimap-535065-41407218": {
+   "id": "trovimap-535065-41407218",
+   "fuente": "Trovimap",
+   "titulo": "Casa En venta en Crevillent Crevillent Una oportunidad única para adquirir una encantadora",
+   "precio": 77500.0,
+   "precio_antes": null,
+   "m2": 90,
+   "hab": 3,
+   "banos": 2,
+   "zona": "Crevillent",
+   "url": "https://www.trovimap.com/inmueble/535065-41407218",
+   "texto": "861 €/m² 90 m² 3 2 Casa Compra - Agente Inmobiliario Casa En venta en Crevillent Crevillent Una oportunidad única para adquirir una encantadora cabaña de madera, situada en una pequeña y tranquila propiedad rural",
+   "riesgo": null,
+   "incompleto": false,
+   "aviso": "muy barato por m² (861 €/m²): comprueba por qué",
+   "primera_vez": "2026-11-02",
+   "ultima_vez": "2026-11-02",
+   "historial": [
+    [
+     "2026-11-02",
+     77500.0
+    ]
+   ]
+  },
+  "trovimap-510591-41377044": {
+   "id": "trovimap-510591-41377044",
+   "fuente": "Trovimap",
+   "titulo": "Piso En venta en Crevillent Crevillent AMPLIO PISO CON GRAN POTENCIAL EN CREVILLENT INMO R",
+   "precio": 110000.0,
+   "precio_antes": null,
+   "m2": 111,
+   "hab": 3,
+   "banos": 1,
+   "zona": "Crevillent",
+   "url": "https://www.trovimap.com/inmueble/510591-41377044",
+   "texto": "991 €/m² 111 m² 3 1 Piso Compra - Agente Inmobiliario Piso En venta en Crevillent Crevillent AMPLIO PISO CON GRAN POTENCIAL EN CREVILLENT INMO RUBEN ALMODOVAR presenta esta interesante oportunidad en Crevillent. Situado en la calle Ronda",
+   "riesgo": null,
+   "incompleto": false,
+   "primera_vez": "2026-11-02",
+   "ultima_vez": "2026-11-02",
+   "historial": [
+    [
+     "2026-11-02",
+     110000.0
+    ]
+   ]
+  },
+  "trovimap-382244-39665544": {
+   "id": "trovimap-382244-39665544",
+   "fuente": "Trovimap",
+   "titulo": "Casa en venta en Mutxamel, Monnegre Mutxamel 325. casa cueva muy proxima a mutxamel,3 dorm",
+   "precio": 64480.0,
+   "precio_antes": null,
+   "m2": 187,
+   "hab": 3,
+   "banos": 1,
+   "zona": "Mutxamel",
+   "url": "https://www.trovimap.com/inmueble/382244-39665544",
+   "texto": "345 €/m² 187 m² 3 1 Casa Compra - Agente Inmobiliario Casa en venta en Mutxamel, Monnegre Mutxamel 325. casa cueva muy proxima a mutxamel,3 dormitorios, bano, cocina, patio, 2 chimeneas, 1 horno para hacer pan, luz, agua por deposito y de lluvia.. V",
+   "riesgo": null,
+   "incompleto": false,
+   "aviso": "muy barato por m² (344 €/m²): comprueba por qué",
+   "primera_vez": "2026-11-02",
+   "ultima_vez": "2026-11-02",
+   "historial": [
+    [
+     "2026-11-02",
+     64480.0
+    ]
+   ]
+  },
+  "trovimap-537083-40847371": {
+   "id": "trovimap-537083-40847371",
+   "fuente": "Trovimap",
+   "titulo": "Casa En venta en Agost Agost",
+   "precio": 65000.0,
+   "precio_antes": null,
+   "m2": 65,
+   "hab": 2,
+   "banos": 1,
+   "zona": "Agost",
+   "url": "https://www.trovimap.com/inmueble/537083-40847371",
+   "texto": "1.000 €/m² 65 m² 2 1 Casa Compra - Agente Inmobiliario Casa En venta en Agost Agost",
+   "riesgo": null,
+   "incompleto": false,
+   "primera_vez": "2026-11-02",
+   "ultima_vez": "2026-11-02",
+   "historial": [
+    [
+     "2026-11-02",
+     65000.0
+    ]
+   ]
+  },
+  "trovimap-389083-41251730": {
+   "id": "trovimap-389083-41251730",
+   "fuente": "Trovimap",
+   "titulo": "PISO EN ASPE - IDEAL PARA INVERTIR Aspe PISO EN LA 3 PLANTA SIN ASCENSOR. NO ES APTO PARA ",
+   "precio": 90000.0,
+   "precio_antes": null,
+   "m2": 95,
+   "hab": 3,
+   "banos": 1,
+   "zona": "Aspe",
+   "url": "https://www.trovimap.com/inmueble/389083-41251730",
+   "texto": "947 €/m² 95 m² 3 1 Piso Compra - Agente Inmobiliario PISO EN ASPE - IDEAL PARA INVERTIR Aspe PISO EN LA 3 PLANTA SIN ASCENSOR. NO ES APTO PARA CLIENTES QUE NECESITEN HIPOTECA.Piso reformado en el casco urbano de Aspe.La vivienda cuenta con 3 d",
+   "riesgo": null,
+   "incompleto": false,
+   "primera_vez": "2026-11-02",
+   "ultima_vez": "2026-11-02",
+   "historial": [
+    [
+     "2026-11-02",
+     90000.0
+    ]
+   ]
+  },
+  "trovimap-310737-39107359": {
+   "id": "trovimap-310737-39107359",
+   "fuente": "Trovimap",
+   "titulo": "VENTA DE PISO EN PLENO CENTRO DE ASPE con Ascensor Descubre este encantador piso ubicado e",
+   "precio": 107260.0,
+   "precio_antes": 116050.0,
+   "m2": 109,
+   "hab": 3,
+   "banos": 1,
+   "zona": "Aspe",
+   "url": "https://www.trovimap.com/inmueble/310737-39107359",
+   "texto": "116.050 € 109 m² 3 1 Piso Compra - Agente Inmobiliario VENTA DE PISO EN PLENO CENTRO DE ASPE con Ascensor Descubre este encantador piso ubicado en pleno centro de Aspe, a solo unos pasos de la Plaza Mayor. Con una superficie construida de 105 m2 y útil de",
+   "riesgo": null,
+   "incompleto": false,
+   "primera_vez": "2026-11-02",
+   "ultima_vez": "2026-11-02",
+   "historial": [
+    [
+     "2026-11-02",
+     116050.0
+    ],
+    [
+     "2026-11-02",
+     107260.0
+    ]
+   ]
+  },
+  "trovimap-310737-39107358": {
+   "id": "trovimap-310737-39107358",
+   "fuente": "Trovimap",
+   "titulo": "SE VENDE PISO EN PLENO CENTRO DE ASPE con Ascensor Te presentamos este encantador piso ubi",
+   "precio": 97260.0,
+   "precio_antes": null,
+   "m2": 92,
+   "hab": 2,
+   "banos": 1,
+   "zona": "Aspe",
+   "url": "https://www.trovimap.com/inmueble/310737-39107358",
+   "texto": "1.057 €/m² 92 m² 2 1 Piso Compra - Agente Inmobiliario SE VENDE PISO EN PLENO CENTRO DE ASPE con Ascensor Te presentamos este encantador piso ubicado en pleno centro de Aspe, ideal para quienes buscan comodidad y cercanía a todos los servicios. Con una sup",
+   "riesgo": null,
+   "incompleto": false,
+   "primera_vez": "2026-11-02",
+   "ultima_vez": "2026-11-02",
+   "historial": [
+    [
+     "2026-11-02",
+     97260.0
+    ]
+   ]
+  },
+  "trovimap-382244-41749386": {
+   "id": "trovimap-382244-41749386",
+   "fuente": "Trovimap",
+   "titulo": "Casa con terreno en venta en Aspe, Borisa Aspe 28807. INMOBILIARIA SAN JOSE VENDE CASA DE ",
+   "precio": 120000.0,
+   "precio_antes": null,
+   "m2": 282,
+   "hab": 6,
+   "banos": 5,
+   "zona": "Aspe",
+   "url": "https://www.trovimap.com/inmueble/382244-41749386",
+   "texto": "426 €/m² 282 m² 6 5 Nuevo Casa Compra - Agente Inmobiliario Casa con terreno en venta en Aspe, Borisa Aspe 28807. INMOBILIARIA SAN JOSE VENDE CASA DE CAMPO PARA REFORMAR TOTALMENTE EN ASPE CON 282 m. de superficie construida, 11928 m. superficie parcela, 4",
+   "riesgo": null,
+   "incompleto": false,
+   "aviso": "muy barato por m² (425 €/m²): comprueba por qué",
+   "primera_vez": "2026-11-02",
+   "ultima_vez": "2026-11-02",
+   "historial": [
+    [
+     "2026-11-02",
+     120000.0
+    ]
+   ]
+  },
+  "trovimap-382244-41777099": {
+   "id": "trovimap-382244-41777099",
+   "fuente": "Trovimap",
+   "titulo": "Casa en venta en Aspe, La nía Aspe 29720. Presentamos esta MAGNIFICA CASA ADOSADA en la tr",
+   "precio": 89900.0,
+   "precio_antes": null,
+   "m2": 105,
+   "hab": 5,
+   "banos": 1,
+   "zona": "Aspe",
+   "url": "https://www.trovimap.com/inmueble/382244-41777099",
+   "texto": "856 €/m² 105 m² 5 1 Nuevo Casa Compra - Agente Inmobiliario Casa en venta en Aspe, La nía Aspe 29720. Presentamos esta MAGNIFICA CASA ADOSADA en la tranquila zona de La Nía, ASPE . Con una superficie construida de 105 m2 y un terreno que abarca",
+   "riesgo": null,
+   "incompleto": false,
+   "aviso": "muy barato por m² (856 €/m²): comprueba por qué",
+   "primera_vez": "2026-11-02",
+   "ultima_vez": "2026-11-02",
+   "historial": [
+    [
+     "2026-11-02",
+     89900.0
+    ]
+   ]
+  },
+  "trovimap-310737-41762674": {
+   "id": "trovimap-310737-41762674",
+   "fuente": "Trovimap",
+   "titulo": "VENTA DE PISO EN ASPE SIN ASCENSOR ZONA LA SERRANICA Aspe Presentamos un atractivo piso en",
+   "precio": 100000.0,
+   "precio_antes": null,
+   "m2": 132,
+   "hab": 3,
+   "banos": 2,
+   "zona": "Aspe",
+   "url": "https://www.trovimap.com/inmueble/310737-41762674",
+   "texto": "758 €/m² 132 m² 3 2 Nuevo Piso Compra - Agente Inmobiliario VENTA DE PISO EN ASPE SIN ASCENSOR ZONA LA SERRANICA Aspe Presentamos un atractivo piso en la buscada zona de La Serranica, Aspe. Con una superficie generosa de 132 m2, esta propiedad se compone de tres ampli",
+   "riesgo": null,
+   "incompleto": false,
+   "aviso": "muy barato por m² (757 €/m²): comprueba por qué",
+   "primera_vez": "2026-11-02",
+   "ultima_vez": "2026-11-02",
+   "historial": [
+    [
+     "2026-11-02",
+     100000.0
+    ]
+   ]
+  },
+  "trovimap-310737-41762676": {
+   "id": "trovimap-310737-41762676",
+   "fuente": "Trovimap",
+   "titulo": "SE VENDE PISO PARA REFORMAR EN EL CENTRO DE ASPE Aspe ¡Atención, amantes de la renovación ",
+   "precio": 98000.0,
+   "precio_antes": null,
+   "m2": 115,
+   "hab": 4,
+   "banos": 2,
+   "zona": "Aspe",
+   "url": "https://www.trovimap.com/inmueble/310737-41762676",
+   "texto": "852 €/m² 115 m² 4 2 Nuevo Piso Compra - Agente Inmobiliario SE VENDE PISO PARA REFORMAR EN EL CENTRO DE ASPE Aspe ¡Atención, amantes de la renovación y el buen gusto! Te presentamos este encantador piso en pleno centro de Aspe que grita 'Potencial' a cada rincón.",
+   "riesgo": null,
+   "incompleto": false,
+   "aviso": "muy barato por m² (852 €/m²): comprueba por qué",
+   "primera_vez": "2026-11-02",
+   "ultima_vez": "2026-11-02",
+   "historial": [
+    [
+     "2026-11-02",
+     98000.0
+    ]
+   ]
+  },
+  "trovimap-310729-41712775": {
+   "id": "trovimap-310729-41712775",
+   "fuente": "Trovimap",
+   "titulo": "Casa en Aspe Aspe 🏡 Oportunidad única para inversores y amantes de la renovación. Esta esp",
+   "precio": 66000.0,
+   "precio_antes": 67260.0,
+   "m2": 142,
+   "hab": 4,
+   "banos": 1,
+   "zona": "Aspe",
+   "url": "https://www.trovimap.com/inmueble/310729-41712775",
+   "texto": "67.260 € 142 m² 4 1 Nuevo Casa Compra - Agente Inmobiliario Casa en Aspe Aspe 🏡 Oportunidad única para inversores y amantes de la renovación. Esta espaciosa casa ubicada en el corazón de Aspe, con una superficie construida de 1",
+   "riesgo": "inversor",
+   "incompleto": false,
+   "aviso": "muy barato por m² (464 €/m²): comprueba por qué",
+   "primera_vez": "2026-11-02",
+   "ultima_vez": "2026-11-02",
+   "historial": [
+    [
+     "2026-11-02",
+     67260.0
+    ],
+    [
+     "2026-11-02",
+     66000.0
+    ]
+   ]
+  },
+  "trovimap-310737-41735887": {
+   "id": "trovimap-310737-41735887",
+   "fuente": "Trovimap",
+   "titulo": "SE VENDE PISO CON INQUILO PENSIONISTA EN ZONA PROSPERIDAD ASPE Aspe SE VENDE PISO EN ASPE ",
+   "precio": 61050.0,
+   "precio_antes": null,
+   "m2": 90,
+   "hab": 3,
+   "banos": 1,
+   "zona": "Aspe",
+   "url": "https://www.trovimap.com/inmueble/310737-41735887",
+   "texto": "678 €/m² 90 m² 3 1 Nuevo Piso Compra - Agente Inmobiliario SE VENDE PISO CON INQUILO PENSIONISTA EN ZONA PROSPERIDAD ASPE Aspe SE VENDE PISO EN ASPE ZONA PROSPERIDAD CON INQUILINO PENSIONISTA ,PAGO DEMOSTRABLE DESDE QUE ESTA ALQUILADO(CUOTA MENSUAL 461.25Euros) , con 73.00 m2",
+   "riesgo": "INQUILIN",
+   "incompleto": false,
+   "aviso": "muy barato por m² (678 €/m²): comprueba por qué",
+   "primera_vez": "2026-11-02",
+   "ultima_vez": "2026-11-02",
+   "historial": [
+    [
+     "2026-11-02",
+     61050.0
+    ]
+   ]
+  },
+  "trovimap-310737-41762675": {
+   "id": "trovimap-310737-41762675",
+   "fuente": "Trovimap",
+   "titulo": "Se vende encantadora casa semi reformada en el corazón de Aspe Aspe Descubre esta maravill",
+   "precio": 66050.0,
+   "precio_antes": null,
+   "m2": 116,
+   "hab": 3,
+   "banos": 1,
+   "zona": "Aspe",
+   "url": "https://www.trovimap.com/inmueble/310737-41762675",
+   "texto": "569 €/m² 116 m² 3 1 Nuevo Casa Compra - Agente Inmobiliario Se vende encantadora casa semi reformada en el corazón de Aspe Aspe Descubre esta maravillosa oportunidad en pleno centro histórico de Aspe. Esta acogedora casa cuenta con una superficie construida de 116 m2 y está par",
+   "riesgo": null,
+   "incompleto": false,
+   "aviso": "muy barato por m² (569 €/m²): comprueba por qué",
+   "primera_vez": "2026-11-02",
+   "ultima_vez": "2026-11-02",
+   "historial": [
+    [
+     "2026-11-02",
+     66050.0
+    ]
+   ]
+  },
+  "trovimap-382244-41749236": {
+   "id": "trovimap-382244-41749236",
+   "fuente": "Trovimap",
+   "titulo": "Casa en venta en Aspe, Aspe Aspe 41987. Casa en Aspe, 237 m. de superficie, 3 habitaciones",
+   "precio": 115000.0,
+   "precio_antes": null,
+   "m2": 418,
+   "hab": 5,
+   "banos": 1,
+   "zona": "Aspe",
+   "url": "https://www.trovimap.com/inmueble/382244-41749236",
+   "texto": "275 €/m² 418 m² 5 1 Nuevo Casa Compra - Agente Inmobiliario Casa en venta en Aspe, Aspe Aspe 41987. Casa en Aspe, 237 m. de superficie, 3 habitaciones dobles y 2 habitaciones sencillas, un baño, salón amplio y cocina con sólo muebles. Tiene u",
+   "riesgo": null,
+   "incompleto": false,
+   "aviso": "muy barato por m² (275 €/m²): comprueba por qué",
+   "primera_vez": "2026-11-02",
+   "ultima_vez": "2026-11-02",
+   "historial": [
+    [
+     "2026-11-02",
+     115000.0
+    ]
+   ]
+  },
+  "trovimap-382244-41730959": {
+   "id": "trovimap-382244-41730959",
+   "fuente": "Trovimap",
+   "titulo": "Casa en venta en Aspe, Aspe Aspe 42272. Descubre esta maravillosa casa situada en la encan",
+   "precio": 60000.0,
+   "precio_antes": null,
+   "m2": 142,
+   "hab": 4,
+   "banos": 3,
+   "zona": "Aspe",
+   "url": "https://www.trovimap.com/inmueble/382244-41730959",
+   "texto": "423 €/m² 142 m² 4 3 Nuevo Casa Compra - Agente Inmobiliario Casa en venta en Aspe, Aspe Aspe 42272. Descubre esta maravillosa casa situada en la encantadora ciudad de Aspe, un lugar ideal tanto para vivir como para invertir. Con una superficie",
+   "riesgo": null,
+   "incompleto": false,
+   "aviso": "muy barato por m² (422 €/m²): comprueba por qué",
+   "primera_vez": "2026-11-02",
+   "ultima_vez": "2026-11-02",
+   "historial": [
+    [
+     "2026-11-02",
+     60000.0
+    ]
+   ]
+  },
+  "trovimap-382244-41743802": {
+   "id": "trovimap-382244-41743802",
+   "fuente": "Trovimap",
+   "titulo": "Casa en venta en Aspe, Aspe Aspe CS0021. Oportunidad de inversión o vivienda unifamiliar e",
+   "precio": 88000.0,
+   "precio_antes": null,
+   "m2": 388,
+   "hab": 4,
+   "banos": 2,
+   "zona": "Aspe",
+   "url": "https://www.trovimap.com/inmueble/382244-41743802",
+   "texto": "227 €/m² 388 m² 4 2 Nuevo Casa Compra - Agente Inmobiliario Casa en venta en Aspe, Aspe Aspe CS0021. Oportunidad de inversión o vivienda unifamiliar en el centro de Aspe, con un extraordinario potencial de rehabilitación y desarrollo.~~Excepci",
+   "riesgo": "inversión",
+   "incompleto": false,
+   "aviso": "muy barato por m² (226 €/m²): comprueba por qué",
+   "primera_vez": "2026-11-02",
+   "ultima_vez": "2026-11-02",
+   "historial": [
+    [
+     "2026-11-02",
+     88000.0
+    ]
+   ]
+  },
+  "trovimap-382244-41720860": {
+   "id": "trovimap-382244-41720860",
+   "fuente": "Trovimap",
+   "titulo": "Casa en venta en Aspe, Aspe Aspe 06827. Oportunidad única para inversores y amantes de la ",
+   "precio": 66000.0,
+   "precio_antes": 67260.0,
+   "m2": 142,
+   "hab": 4,
+   "banos": 1,
+   "zona": "Aspe",
+   "url": "https://www.trovimap.com/inmueble/382244-41720860",
+   "texto": "67.260 € 142 m² 4 1 Nuevo Casa Compra - Agente Inmobiliario Casa en venta en Aspe, Aspe Aspe 06827. Oportunidad única para inversores y amantes de la renovación. ~Esta espaciosa casa ubicada en el corazón de Aspe, con una superficie construid",
+   "riesgo": "inversor",
+   "incompleto": false,
+   "aviso": "muy barato por m² (464 €/m²): comprueba por qué",
+   "primera_vez": "2026-11-02",
+   "ultima_vez": "2026-11-02",
+   "historial": [
+    [
+     "2026-11-02",
+     67260.0
+    ],
+    [
+     "2026-11-02",
+     66000.0
+    ]
+   ],
+   "duplicado_de": "trovimap-310729-41712775"
+  },
+  "trovimap-382244-41744639": {
+   "id": "trovimap-382244-41744639",
+   "fuente": "Trovimap",
+   "titulo": "Casa en venta en Aspe, Centro Aspe 20379. VENTA DE CASA EN PLENO CENTRO EN CALLE PEATONAL ",
+   "precio": 109220.0,
+   "precio_antes": null,
+   "m2": 270,
+   "hab": 6,
+   "banos": 1,
+   "zona": "Aspe",
+   "url": "https://www.trovimap.com/inmueble/382244-41744639",
+   "texto": "405 €/m² 270 m² 6 1 Nuevo Casa Compra - Agente Inmobiliario Casa en venta en Aspe, Centro Aspe 20379. VENTA DE CASA EN PLENO CENTRO EN CALLE PEATONAL EN ASPE CON 270 m2 de superficie CONSTRUIDA, 135 m2 superficie parcela, más 120 m2 de terraza,",
+   "riesgo": null,
+   "incompleto": false,
+   "aviso": "muy barato por m² (404 €/m²): comprueba por qué",
+   "primera_vez": "2026-11-02",
+   "ultima_vez": "2026-11-02",
+   "historial": [
+    [
+     "2026-11-02",
+     109220.0
+    ]
+   ]
+  },
+  "trovimap-382244-41787340": {
+   "id": "trovimap-382244-41787340",
+   "fuente": "Trovimap",
+   "titulo": "Casa en venta en Aspe, Aspe Aspe 45CM. Casa de pueblo en esquina | Aspe | 2 alturas | 4 ha",
+   "precio": 85000.0,
+   "precio_antes": null,
+   "m2": 204,
+   "hab": 4,
+   "banos": 2,
+   "zona": "Aspe",
+   "url": "https://www.trovimap.com/inmueble/382244-41787340",
+   "texto": "417 €/m² 204 m² 4 2 Casa Compra - Agente Inmobiliario Casa en venta en Aspe, Aspe Aspe 45CM. Casa de pueblo en esquina | Aspe | 2 alturas | 4 habitaciones | 2 baños | Para reformar | 85.000€ — Honorarios de agencia incluidos ~~HERRERO &a",
+   "riesgo": null,
+   "incompleto": false,
+   "aviso": "muy barato por m² (416 €/m²): comprueba por qué",
+   "primera_vez": "2026-11-02",
+   "ultima_vez": "2026-11-02",
+   "historial": [
+    [
+     "2026-11-02",
+     85000.0
+    ]
+   ]
+  },
+  "trovimap-382244-41780530": {
+   "id": "trovimap-382244-41780530",
+   "fuente": "Trovimap",
+   "titulo": "Apartamento en venta en Aspe Aspe JJAD7266. <p>Amplia y luminosa vivienda en una ubicación",
+   "precio": 119000.0,
+   "precio_antes": null,
+   "m2": 95,
+   "hab": 3,
+   "banos": 1,
+   "zona": "Aspe",
+   "url": "https://www.trovimap.com/inmueble/382244-41780530",
+   "texto": "1.253 €/m² 95 m² 3 1 Nuevo Piso Compra - Agente Inmobiliario Apartamento en venta en Aspe Aspe JJAD7266. <p>Amplia y luminosa vivienda en una ubicación privilegiada de Aspe</p> <p>Presentamos esta magnífica vivienda de 95 m²",
+   "riesgo": null,
+   "incompleto": false,
+   "primera_vez": "2026-11-02",
+   "ultima_vez": "2026-11-02",
+   "historial": [
+    [
+     "2026-11-02",
+     119000.0
+    ]
+   ]
+  },
+  "trovimap-382244-41656820": {
+   "id": "trovimap-382244-41656820",
+   "fuente": "Trovimap",
+   "titulo": "Piso en venta en Aspe, Centro Aspe 99055R. Referencia 99055R Oportunidad en Aspe Un magníf",
+   "precio": 118000.0,
+   "precio_antes": null,
+   "m2": 86,
+   "hab": 3,
+   "banos": 1,
+   "zona": "Aspe",
+   "url": "https://www.trovimap.com/inmueble/382244-41656820",
+   "texto": "1.372 €/m² 86 m² 3 1 Piso Compra - Agente Inmobiliario Piso en venta en Aspe, Centro Aspe 99055R. Referencia 99055R Oportunidad en Aspe Un magnífico piso en el centro de Aspe (Alicante). Situado en avenida principal, disfruta de excelen",
+   "riesgo": null,
+   "incompleto": false,
+   "primera_vez": "2026-11-02",
+   "ultima_vez": "2026-11-02",
+   "historial": [
+    [
+     "2026-11-02",
+     118000.0
+    ]
+   ]
+  },
+  "trovimap-382244-41656617": {
+   "id": "trovimap-382244-41656617",
+   "fuente": "Trovimap",
+   "titulo": "Adosada en venta en Aspe, Centro Aspe LE99057R. REF. LE99057R Oportunidad en Aspe. Amplia ",
+   "precio": 104900.0,
+   "precio_antes": null,
+   "m2": 150,
+   "hab": 3,
+   "banos": 1,
+   "zona": "Aspe",
+   "url": "https://www.trovimap.com/inmueble/382244-41656617",
+   "texto": "699 €/m² 150 m² 3 1 Unifamiliar Pareada Compra - Agente Inmobiliario Adosada en venta en Aspe, Centro Aspe LE99057R. REF. LE99057R Oportunidad en Aspe. Amplia casa con grandes posibilidades en zona céntrica de Aspe (Alicante). Ubicada junto a calles pri",
+   "riesgo": null,
+   "incompleto": false,
+   "aviso": "muy barato por m² (699 €/m²): comprueba por qué",
+   "primera_vez": "2026-11-02",
+   "ultima_vez": "2026-11-02",
+   "historial": [
+    [
+     "2026-11-02",
+     104900.0
+    ]
+   ]
+  },
+  "trovimap-382244-41738064": {
+   "id": "trovimap-382244-41738064",
+   "fuente": "Trovimap",
+   "titulo": "Casa en venta en Aspe, Aspe Aspe 28376. VENTA DE CASA-ALMACEN EN ASPE,ZONA PROSPERIDAD. 10",
+   "precio": 82000.0,
+   "precio_antes": null,
+   "m2": 101,
+   "hab": 3,
+   "banos": 1,
+   "zona": "Aspe",
+   "url": "https://www.trovimap.com/inmueble/382244-41738064",
+   "texto": "812 €/m² 101 m² 3 1 Nuevo Casa Compra - Agente Inmobiliario Casa en venta en Aspe, Aspe Aspe 28376. VENTA DE CASA-ALMACEN EN ASPE,ZONA PROSPERIDAD. 101.00 m. de superficie, un aseo, propiedad Para reformar. Extras: agua, esquina, luz, techos",
+   "riesgo": null,
+   "incompleto": false,
+   "aviso": "muy barato por m² (811 €/m²): comprueba por qué",
+   "primera_vez": "2026-11-02",
+   "ultima_vez": "2026-11-02",
+   "historial": [
+    [
+     "2026-11-02",
+     82000.0
+    ]
+   ]
+  },
+  "trovimap-382244-41737511": {
+   "id": "trovimap-382244-41737511",
+   "fuente": "Trovimap",
+   "titulo": "Adosada en venta en Aspe, El castillo Aspe 39659. Casa adosada de 2 plantas~ ~ La vivienda",
+   "precio": 71000.0,
+   "precio_antes": null,
+   "m2": 190,
+   "hab": 4,
+   "banos": 2,
+   "zona": "Aspe",
+   "url": "https://www.trovimap.com/inmueble/382244-41737511",
+   "texto": "374 €/m² 190 m² 4 2 Nuevo Unifamiliar Pareada Compra - Agente Inmobiliario Adosada en venta en Aspe, El castillo Aspe 39659. Casa adosada de 2 plantas~ ~ La vivienda esta integra para reformar~ ~ la planta baja distribuida 2 dormitorios salón, cocina, aseo y un peque",
+   "riesgo": null,
+   "incompleto": false,
+   "aviso": "muy barato por m² (373 €/m²): comprueba por qué",
+   "primera_vez": "2026-11-02",
+   "ultima_vez": "2026-11-02",
+   "historial": [
+    [
+     "2026-11-02",
+     71000.0
+    ]
+   ]
+  },
+  "trovimap-382244-41656478": {
+   "id": "trovimap-382244-41656478",
+   "fuente": "Trovimap",
+   "titulo": "Adosada en venta en Aspe, Centro Aspe 99053R. Referencia99053R Oportunidad en Aspe Amplia ",
+   "precio": 89900.0,
+   "precio_antes": null,
+   "m2": 124,
+   "hab": 4,
+   "banos": 1,
+   "zona": "Aspe",
+   "url": "https://www.trovimap.com/inmueble/382244-41656478",
+   "texto": "725 €/m² 124 m² 4 1 Unifamiliar Pareada Compra - Agente Inmobiliario Adosada en venta en Aspe, Centro Aspe 99053R. Referencia99053R Oportunidad en Aspe Amplia casa con dos plantas y terraza solarium en el centro de Aspe (Alicante). Situada en avenida pr",
+   "riesgo": null,
+   "incompleto": false,
+   "aviso": "muy barato por m² (725 €/m²): comprueba por qué",
+   "primera_vez": "2026-11-02",
+   "ultima_vez": "2026-11-02",
+   "historial": [
+    [
+     "2026-11-02",
+     89900.0
+    ]
+   ]
+  },
+  "trovimap-310737-35597662": {
+   "id": "trovimap-310737-35597662",
+   "fuente": "Trovimap",
+   "titulo": "VENTA DE CASA-ALMACEN EN ASPE,ZONA PROSPERIDAD. Aspe VENTA DE CASA-ALMACEN EN ASPE,ZONA PR",
+   "precio": 82000.0,
+   "precio_antes": null,
+   "m2": 101,
+   "hab": 3,
+   "banos": 1,
+   "zona": "Aspe",
+   "url": "https://www.trovimap.com/inmueble/310737-35597662",
+   "texto": "812 €/m² 101 m² 3 1 Casa Compra - Agente Inmobiliario VENTA DE CASA-ALMACEN EN ASPE,ZONA PROSPERIDAD. Aspe VENTA DE CASA-ALMACEN EN ASPE,ZONA PROSPERIDAD. 101.00 m. de superficie, un aseo, propiedad Para reformar.Extras: agua, esquina, luz, techos altos, t",
+   "riesgo": null,
+   "incompleto": false,
+   "aviso": "muy barato por m² (811 €/m²): comprueba por qué",
+   "primera_vez": "2026-11-02",
+   "ultima_vez": "2026-11-02",
+   "historial": [
+    [
+     "2026-11-02",
+     82000.0
+    ]
+   ],
+   "duplicado_de": "trovimap-382244-41738064"
+  },
+  "trovimap-310737-41016493": {
+   "id": "trovimap-310737-41016493",
+   "fuente": "Trovimap",
+   "titulo": "SE VENDE CASA ADOSADA EN ASPE - POSIBILIDAD VENTA APLAZADA- Aspe Presentamos esta MAGNIFIC",
+   "precio": 89900.0,
+   "precio_antes": 92200.0,
+   "m2": 105,
+   "hab": 5,
+   "banos": 1,
+   "zona": "Aspe",
+   "url": "https://www.trovimap.com/inmueble/310737-41016493",
+   "texto": "92.200 € 105 m² 5 1 Casa Compra - Agente Inmobiliario SE VENDE CASA ADOSADA EN ASPE - POSIBILIDAD VENTA APLAZADA- Aspe Presentamos esta MAGNIFICA CASA ADOSADA en la tranquila zona de La Nía, ASPE . Con una superficie construida de 105 m2 y un terreno que abarca casi 11",
+   "riesgo": null,
+   "incompleto": false,
+   "aviso": "muy barato por m² (856 €/m²): comprueba por qué",
+   "primera_vez": "2026-11-02",
+   "ultima_vez": "2026-11-02",
+   "historial": [
+    [
+     "2026-11-02",
+     92200.0
+    ],
+    [
+     "2026-11-02",
+     89900.0
+    ]
+   ],
+   "duplicado_de": "trovimap-382244-41777099"
+  },
+  "trovimap-310737-41426834": {
+   "id": "trovimap-310737-41426834",
+   "fuente": "Trovimap",
+   "titulo": "SE VENDE PISO 3º SIN ASCENSOR EN BUEN ESTADO EN ASPE ZONA SERRANICA Aspe Descubre este enc",
+   "precio": 107260.0,
+   "precio_antes": null,
+   "m2": 145,
+   "hab": 4,
+   "banos": 2,
+   "zona": "Aspe",
+   "url": "https://www.trovimap.com/inmueble/310737-41426834",
+   "texto": "740 €/m² 145 m² 4 2 Piso Compra - Agente Inmobiliario SE VENDE PISO 3º SIN ASCENSOR EN BUEN ESTADO EN ASPE ZONA SERRANICA Aspe Descubre este encantador piso de tercera planta, ubicado en la tranquila y solicitada zona de La Serránica - Sagrado Corazón en Aspe. Con una superfic",
+   "riesgo": null,
+   "incompleto": false,
+   "aviso": "muy barato por m² (739 €/m²): comprueba por qué",
+   "primera_vez": "2026-11-02",
+   "ultima_vez": "2026-11-02",
+   "historial": [
+    [
+     "2026-11-02",
+     107260.0
+    ]
+   ]
+  },
+  "trovimap-310737-40219034": {
+   "id": "trovimap-310737-40219034",
+   "fuente": "Trovimap",
+   "titulo": "VENTA DE PISO EN ASPE, ZONA LA SERRANICA Aspe Inmobiliaria San Jose VENDE BONITO PISO EN A",
+   "precio": 116000.0,
+   "precio_antes": null,
+   "m2": 95,
+   "hab": 4,
+   "banos": 1,
+   "zona": "Aspe",
+   "url": "https://www.trovimap.com/inmueble/310737-40219034",
+   "texto": "1.221 €/m² 95 m² 4 1 Piso Compra - Agente Inmobiliario VENTA DE PISO EN ASPE, ZONA LA SERRANICA Aspe Inmobiliaria San Jose VENDE BONITO PISO EN ASPE, EN LA ZONA DE LA SERRICADescubre este encantador piso en la codiciada zona de La Serránica, Aspe a ta",
+   "riesgo": null,
+   "incompleto": false,
+   "primera_vez": "2026-11-02",
+   "ultima_vez": "2026-11-02",
+   "historial": [
+    [
+     "2026-11-02",
+     116000.0
+    ]
+   ]
+  },
+  "trovimap-382244-39362688": {
+   "id": "trovimap-382244-39362688",
+   "fuente": "Trovimap",
+   "titulo": "Casa con terreno en venta en Monforte del Cid, Monforte del Cid Aspe TR2741. Casa de campo",
+   "precio": 69500.0,
+   "precio_antes": null,
+   "m2": 89,
+   "hab": 2,
+   "banos": 1,
+   "zona": "Aspe",
+   "url": "https://www.trovimap.com/inmueble/382244-39362688",
+   "texto": "781 €/m² 89 m² 2 1 Casa Compra - Agente Inmobiliario Casa con terreno en venta en Monforte del Cid, Monforte del Cid Aspe TR2741. Casa de campo en Monforte del Cid, 89 m. de superficie, 2600 m. superficie parcela, 19000 m. de la playa, 2 habitaciones dobles, un baño, pro",
+   "riesgo": null,
+   "incompleto": false,
+   "aviso": "muy barato por m² (780 €/m²): comprueba por qué",
+   "primera_vez": "2026-11-02",
+   "ultima_vez": "2026-11-02",
+   "historial": [
+    [
+     "2026-11-02",
+     69500.0
+    ]
+   ]
+  },
+  "trovimap-382244-39811527": {
+   "id": "trovimap-382244-39811527",
+   "fuente": "Trovimap",
+   "titulo": "Piso en venta en Aspe, La Serranica - Sagrado Corazón Aspe 06668. ¡Vive donde late la vida",
+   "precio": 117260.0,
+   "precio_antes": null,
+   "m2": 96,
+   "hab": 4,
+   "banos": 1,
+   "zona": "Aspe",
+   "url": "https://www.trovimap.com/inmueble/382244-39811527",
+   "texto": "1.221 €/m² 96 m² 4 1 Piso Compra - Agente Inmobiliario Piso en venta en Aspe, La Serranica - Sagrado Corazón Aspe 06668. ¡Vive donde late la vida! Segundo piso (sin ascensor) en la zona de la serranica, rodeado de vida, comercios y todos los servicios necesarios.~",
+   "riesgo": null,
+   "incompleto": false,
+   "primera_vez": "2026-11-02",
+   "ultima_vez": "2026-11-02",
+   "historial": [
+    [
+     "2026-11-02",
+     117260.0
+    ]
+   ]
+  },
+  "trovimap-310737-39137753": {
+   "id": "trovimap-310737-39137753",
+   "fuente": "Trovimap",
+   "titulo": "SE VENDE PISO AMUEBLADO PARA ENTRAR A VIVIR EN BUENA ZONA DE ASPE Aspe ¡Descubre tu nuevo ",
+   "precio": 106050.0,
+   "precio_antes": null,
+   "m2": 100,
+   "hab": 3,
+   "banos": 1,
+   "zona": "Aspe",
+   "url": "https://www.trovimap.com/inmueble/310737-39137753",
+   "texto": "1.061 €/m² 100 m² 3 1 Piso Compra - Agente Inmobiliario SE VENDE PISO AMUEBLADO PARA ENTRAR A VIVIR EN BUENA ZONA DE ASPE Aspe ¡Descubre tu nuevo hogar en Aspe! Este encantador piso amueblado, listo para entrar a vivir, se encuentra en una excelente zona que combina tranquilid",
+   "riesgo": null,
+   "incompleto": false,
+   "primera_vez": "2026-11-02",
+   "ultima_vez": "2026-11-02",
+   "historial": [
+    [
+     "2026-11-02",
+     106050.0
+    ]
+   ]
+  },
+  "trovimap-310737-36915141": {
+   "id": "trovimap-310737-36915141",
+   "fuente": "Trovimap",
+   "titulo": "INMOBILIARIA SAN JOSE VENDE CASA DE CAMPO PARA REFORMAR TOTALMENTE EN ASPE Aspe INMOBILIAR",
+   "precio": 120000.0,
+   "precio_antes": null,
+   "m2": 282,
+   "hab": 6,
+   "banos": 5,
+   "zona": "Aspe",
+   "url": "https://www.trovimap.com/inmueble/310737-36915141",
+   "texto": "426 €/m² 282 m² 6 5 Casa De Campo Compra - Agente Inmobiliario INMOBILIARIA SAN JOSE VENDE CASA DE CAMPO PARA REFORMAR TOTALMENTE EN ASPE Aspe INMOBILIARIA SAN JOSE VENDE CASA DE CAMPO PARA REFORMAR TOTALMENTE EN ASPE CON 282 m. de superficie construida, 11928 m. superficie parcela, 4 habita",
+   "riesgo": null,
+   "incompleto": false,
+   "aviso": "muy barato por m² (425 €/m²): comprueba por qué",
+   "primera_vez": "2026-11-02",
+   "ultima_vez": "2026-11-02",
+   "historial": [
+    [
+     "2026-11-02",
+     120000.0
+    ]
+   ],
+   "duplicado_de": "trovimap-382244-41749386"
+  },
+  "trovimap-310737-35475200": {
+   "id": "trovimap-310737-35475200",
+   "fuente": "Trovimap",
+   "titulo": "SE VENDE CASA SOLAR PARA REFORMAR O DERRIBAR EN EL CENTRO DE ASPE Aspe SE VENDE CASA SOLAR",
+   "precio": 59840.0,
+   "precio_antes": null,
+   "m2": 90,
+   "hab": 3,
+   "banos": 1,
+   "zona": "Aspe",
+   "url": "https://www.trovimap.com/inmueble/310737-35475200",
+   "texto": "665 €/m² 90 m² 3 1 Casa Compra - Agente Inmobiliario SE VENDE CASA SOLAR PARA REFORMAR O DERRIBAR EN EL CENTRO DE ASPE Aspe SE VENDE CASA SOLAR PARA REFORMAR O DERRIBAR EN EL CENTRO DE ASPE con 90 m. de superficie construida, 53 m. superficie parcela, 3 habitaciones, un ba",
+   "riesgo": null,
+   "incompleto": false,
+   "aviso": "muy barato por m² (664 €/m²): comprueba por qué",
+   "primera_vez": "2026-11-02",
+   "ultima_vez": "2026-11-02",
+   "historial": [
+    [
+     "2026-11-02",
+     59840.0
+    ]
+   ]
+  },
+  "trovimap-382244-41499703": {
+   "id": "trovimap-382244-41499703",
+   "fuente": "Trovimap",
+   "titulo": "Piso en venta en Aspe, La nía Aspe AC00471. ¡Listo para entrar a vivir! Si buscas una vivi",
+   "precio": 118000.0,
+   "precio_antes": null,
+   "m2": 86,
+   "hab": 3,
+   "banos": 1,
+   "zona": "Aspe",
+   "url": "https://www.trovimap.com/inmueble/382244-41499703",
+   "texto": "1.372 €/m² 86 m² 3 1 Piso Compra - Agente Inmobiliario Piso en venta en Aspe, La nía Aspe AC00471. ¡Listo para entrar a vivir! Si buscas una vivienda reformada, cómoda y con buena ubicación, esta puede ser tu oportunidad.~Se vende piso de 8",
+   "riesgo": null,
+   "incompleto": false,
+   "primera_vez": "2026-11-02",
+   "ultima_vez": "2026-11-02",
+   "historial": [
+    [
+     "2026-11-02",
+     118000.0
+    ]
+   ],
+   "duplicado_de": "trovimap-382244-41656820"
+  },
+  "trovimap-508966-41491256": {
+   "id": "trovimap-508966-41491256",
+   "fuente": "Trovimap",
+   "titulo": "PISO RECIÉN REFORMADO DE 3 HABITACIONES EN LA COCA – ASPE Aspe ¡Listo para entrar a vivir!",
+   "precio": 118000.0,
+   "precio_antes": null,
+   "m2": 86,
+   "hab": 3,
+   "banos": 1,
+   "zona": "Aspe",
+   "url": "https://www.trovimap.com/inmueble/508966-41491256",
+   "texto": "1.372 €/m² 86 m² 3 1 Piso Compra - Agente Inmobiliario PISO RECIÉN REFORMADO DE 3 HABITACIONES EN LA COCA – ASPE Aspe ¡Listo para entrar a vivir! Si buscas una vivienda reformada, cómoda y con buena ubicación, esta puede ser tu oportunidad.Se vende piso de 86 m2 situa",
+   "riesgo": null,
+   "incompleto": false,
+   "primera_vez": "2026-11-02",
+   "ultima_vez": "2026-11-02",
+   "historial": [
+    [
+     "2026-11-02",
+     118000.0
+    ]
+   ],
+   "duplicado_de": "trovimap-382244-41656820"
+  },
+  "trovimap-382244-41553660": {
+   "id": "trovimap-382244-41553660",
+   "fuente": "Trovimap",
+   "titulo": "Piso en venta en Aspe, La coca Aspe A01282. INMOBILIARIA HNOS MIRALLES presenta un atracti",
+   "precio": 115000.0,
+   "precio_antes": null,
+   "m2": 100,
+   "hab": 3,
+   "banos": 2,
+   "zona": "Aspe",
+   "url": "https://www.trovimap.com/inmueble/382244-41553660",
+   "texto": "1.150 €/m² 100 m² 3 2 Piso Compra - Agente Inmobiliario Piso en venta en Aspe, La coca Aspe A01282. INMOBILIARIA HNOS MIRALLES presenta un atractivo piso de aproximadamente 100 metros cuadrados en la localidad de Aspe, ideal para familias. Es",
+   "riesgo": null,
+   "incompleto": false,
+   "primera_vez": "2026-11-02",
+   "ultima_vez": "2026-11-02",
+   "historial": [
+    [
+     "2026-11-02",
+     115000.0
+    ]
+   ]
+  },
+  "trovimap-382244-40096079": {
+   "id": "trovimap-382244-40096079",
+   "fuente": "Trovimap",
+   "titulo": "Casa con terreno en venta en Aspe, Pedanías Este Aspe 06698. Os presentamos esta finca en ",
+   "precio": 92260.0,
+   "precio_antes": null,
+   "m2": 113,
+   "hab": 3,
+   "banos": 1,
+   "zona": "Aspe",
+   "url": "https://www.trovimap.com/inmueble/382244-40096079",
+   "texto": "816 €/m² 113 m² 3 1 Casa Compra - Agente Inmobiliario Casa con terreno en venta en Aspe, Pedanías Este Aspe 06698. Os presentamos esta finca en Aspe.~~Ideal para hacer la vivienda de tus sueños, a tan solo 5 minutos en coche del pueblo.~~Parcela de 11641 m2",
+   "riesgo": null,
+   "incompleto": false,
+   "aviso": "muy barato por m² (816 €/m²): comprueba por qué",
+   "primera_vez": "2026-11-02",
+   "ultima_vez": "2026-11-02",
+   "historial": [
+    [
+     "2026-11-02",
+     92260.0
+    ]
+   ]
+  },
+  "trovimap-521988-40323836": {
+   "id": "trovimap-521988-40323836",
+   "fuente": "Trovimap",
+   "titulo": "MAGNÍFICO PISO PARA ENTRAR A VIVIR Aspe Ubicado en la encantadora ciudad de Aspe, en la zo",
+   "precio": 116000.0,
+   "precio_antes": null,
+   "m2": 98,
+   "hab": 4,
+   "banos": 1,
+   "zona": "Aspe",
+   "url": "https://www.trovimap.com/inmueble/521988-40323836",
+   "texto": "1.184 €/m² 98 m² 4 1 Piso Compra - Agente Inmobiliario MAGNÍFICO PISO PARA ENTRAR A VIVIR Aspe Ubicado en la encantadora ciudad de Aspe, en la zona tranquila y residencial de La Serranica - Sagrado Corazón, se presenta este magnífico piso ideal",
+   "riesgo": null,
+   "incompleto": false,
+   "primera_vez": "2026-11-02",
+   "ultima_vez": "2026-11-02",
+   "historial": [
+    [
+     "2026-11-02",
+     116000.0
+    ]
+   ]
+  },
+  "trovimap-310734-6452093": {
+   "id": "trovimap-310734-6452093",
+   "fuente": "Trovimap",
+   "titulo": "Casa de campo Adosada de 2 plantas con parcela Aspe Casa de campo en Monforte del Cid, 89 ",
+   "precio": 69500.0,
+   "precio_antes": null,
+   "m2": 89,
+   "hab": 2,
+   "banos": 1,
+   "zona": "Aspe",
+   "url": "https://www.trovimap.com/inmueble/310734-6452093",
+   "texto": "781 €/m² 89 m² 2 1 Nuevo Casa De Campo Compra - Agente Inmobiliario Casa de campo Adosada de 2 plantas con parcela Aspe Casa de campo en Monforte del Cid, 89 m. de superficie, 2600 m. superficie parcela, 19000 m. de la playa, 2 habitaciones dobles, un baño, propiedad e",
+   "riesgo": null,
+   "incompleto": false,
+   "aviso": "muy barato por m² (780 €/m²): comprueba por qué",
+   "primera_vez": "2026-11-02",
+   "ultima_vez": "2026-11-02",
+   "historial": [
+    [
+     "2026-11-02",
+     69500.0
+    ]
+   ],
+   "duplicado_de": "trovimap-382244-39362688"
+  },
+  "trovimap-496742-41560216": {
+   "id": "trovimap-496742-41560216",
+   "fuente": "Trovimap",
+   "titulo": "Inversión en el centro de Aspe – potencial para 5 viviendas + 5 garajes o gran vivienda un",
+   "precio": 88000.0,
+   "precio_antes": null,
+   "m2": 388,
+   "hab": 4,
+   "banos": 2,
+   "zona": "Aspe",
+   "url": "https://www.trovimap.com/inmueble/496742-41560216",
+   "texto": "227 €/m² 388 m² 4 2 Casa Compra - Agente Inmobiliario Inversión en el centro de Aspe – potencial para 5 viviendas + 5 garajes o gran vivienda unifamiliar Aspe Oportunidad de inversión o vivienda unifamiliar en el centro de Aspe, con un extraordinario potencial de rehabilitación y desarrollo.Excepcional propi",
+   "riesgo": "Inversión",
+   "incompleto": false,
+   "aviso": "muy barato por m² (226 €/m²): comprueba por qué",
+   "primera_vez": "2026-11-02",
+   "ultima_vez": "2026-11-02",
+   "historial": [
+    [
+     "2026-11-02",
+     88000.0
+    ]
+   ],
+   "duplicado_de": "trovimap-382244-41743802"
+  },
+  "trovimap-382244-41161523": {
+   "id": "trovimap-382244-41161523",
+   "fuente": "Trovimap",
+   "titulo": "Piso en venta en Aspe, La nía Aspe 06795. Descubre este encantador piso ubicado en la tran",
+   "precio": 115000.0,
+   "precio_antes": null,
+   "m2": 111,
+   "hab": 3,
+   "banos": 2,
+   "zona": "Aspe",
+   "url": "https://www.trovimap.com/inmueble/382244-41161523",
+   "texto": "1.036 €/m² 111 m² 3 2 Piso Compra - Agente Inmobiliario Piso en venta en Aspe, La nía Aspe 06795. Descubre este encantador piso ubicado en la tranquila zona de La Nía, Aspe.~~Con una superficie construida de 114 m2 y listo para entrar a viv",
+   "riesgo": null,
+   "incompleto": false,
+   "primera_vez": "2026-11-02",
+   "ultima_vez": "2026-11-02",
+   "historial": [
+    [
+     "2026-11-02",
+     115000.0
+    ]
+   ]
+  },
+  "trovimap-382244-39362687": {
+   "id": "trovimap-382244-39362687",
+   "fuente": "Trovimap",
+   "titulo": "Casa con terreno en venta en Monforte del Cid, Monforte del Cid Aspe TR2741. Casa de campo",
+   "precio": 69500.0,
+   "precio_antes": null,
+   "m2": 89,
+   "hab": 2,
+   "banos": 1,
+   "zona": "Aspe",
+   "url": "https://www.trovimap.com/inmueble/382244-39362687",
+   "texto": "781 €/m² 89 m² 2 1 Casa Compra - Agente Inmobiliario Casa con terreno en venta en Monforte del Cid, Monforte del Cid Aspe TR2741. Casa de campo en Monforte del Cid, 89 m. de superficie, 2600 m. superficie parcela, 19000 m. de la playa, 2 habitaciones dobles, un baño, pro",
+   "riesgo": null,
+   "incompleto": false,
+   "aviso": "muy barato por m² (780 €/m²): comprueba por qué",
+   "primera_vez": "2026-11-02",
+   "ultima_vez": "2026-11-02",
+   "historial": [
+    [
+     "2026-11-02",
+     69500.0
+    ]
+   ],
+   "duplicado_de": "trovimap-382244-39362688"
+  },
+  "trovimap-310820-37428326": {
+   "id": "trovimap-310820-37428326",
+   "fuente": "Trovimap",
+   "titulo": "CASA EN EL CENTRO Aspe Casa ubicada en el centro de Aspe, con todos los servicios de luz y",
+   "precio": 72000.0,
+   "precio_antes": 82500.0,
+   "m2": 214,
+   "hab": 4,
+   "banos": 2,
+   "zona": "Aspe",
+   "url": "https://www.trovimap.com/inmueble/310820-37428326",
+   "texto": "82.500 € 214 m² 4 2 Casa Compra - Agente Inmobiliario CASA EN EL CENTRO Aspe Casa ubicada en el centro de Aspe, con todos los servicios de luz y agua disponibles. Esta propiedad, conocida como \"casa en el centro con luz\", cuent",
+   "riesgo": null,
+   "incompleto": false,
+   "aviso": "muy barato por m² (336 €/m²): comprueba por qué",
+   "primera_vez": "2026-11-02",
+   "ultima_vez": "2026-11-02",
+   "historial": [
+    [
+     "2026-11-02",
+     82500.0
+    ],
+    [
+     "2026-11-02",
+     72000.0
+    ]
+   ]
+  },
+  "trovimap-382244-41749299": {
+   "id": "trovimap-382244-41749299",
+   "fuente": "Trovimap",
+   "titulo": "Casa en venta en Aspe, Sagrado corazón Aspe 06936. SE VENDE CASA PARA REFORMAR EN LA ZONA ",
+   "precio": 119000.0,
+   "precio_antes": null,
+   "m2": 120,
+   "hab": 3,
+   "banos": 1,
+   "zona": "Aspe",
+   "url": "https://www.trovimap.com/inmueble/382244-41749299",
+   "texto": "992 €/m² 120 m² 3 1 Nuevo Casa Compra - Agente Inmobiliario Casa en venta en Aspe, Sagrado corazón Aspe 06936. SE VENDE CASA PARA REFORMAR EN LA ZONA DEL CORAZÓN DE JESÚS EN ASPE con 120 m. de superficie construida y 150 m. superficie de parcela, con 3 h",
+   "riesgo": null,
+   "incompleto": false,
+   "primera_vez": "2026-11-02",
+   "ultima_vez": "2026-11-02",
+   "historial": [
+    [
+     "2026-11-02",
+     119000.0
+    ]
+   ]
+  },
+  "trovimap-310737-30171542": {
+   "id": "trovimap-310737-30171542",
+   "fuente": "Trovimap",
+   "titulo": "SE VENDE CASA PARA REFORMAR EN EL CENTRO DE ASPE Aspe SE VENDE CASA PARA REFORMAR EN EL CE",
+   "precio": 66050.0,
+   "precio_antes": null,
+   "m2": 250,
+   "hab": 3,
+   "banos": 1,
+   "zona": "Aspe",
+   "url": "https://www.trovimap.com/inmueble/310737-30171542",
+   "texto": "264 €/m² 250 m² 3 1 Casa Compra - Agente Inmobiliario SE VENDE CASA PARA REFORMAR EN EL CENTRO DE ASPE Aspe SE VENDE CASA PARA REFORMAR EN EL CENTRO DE ASPE con 247 m2 de superficie construida, 166 m2 superficie parcela, propiedad para reformar. Extras: cén",
+   "riesgo": null,
+   "incompleto": false,
+   "aviso": "muy barato por m² (264 €/m²): comprueba por qué",
+   "primera_vez": "2026-11-02",
+   "ultima_vez": "2026-11-02",
+   "historial": [
+    [
+     "2026-11-02",
+     66050.0
+    ]
+   ]
+  },
+  "trovimap-382244-41397895": {
+   "id": "trovimap-382244-41397895",
+   "fuente": "Trovimap",
+   "titulo": "Edificio en venta en Aspe, Aspe Aspe P3. Presentamos esta oportunidad única de adquirir un",
+   "precio": 75000.0,
+   "precio_antes": null,
+   "m2": 220,
+   "hab": 6,
+   "banos": 1,
+   "zona": "Aspe",
+   "url": "https://www.trovimap.com/inmueble/382244-41397895",
+   "texto": "341 €/m² 220 m² 6 1 Comunidad Compra - Agente Inmobiliario Edificio en venta en Aspe, Aspe Aspe P3. Presentamos esta oportunidad única de adquirir un edificio ubicado en la zona centro de Aspe, ideal para inversores o personas que deseen desarrol",
+   "riesgo": "inversor",
+   "incompleto": false,
+   "aviso": "muy barato por m² (340 €/m²): comprueba por qué",
+   "primera_vez": "2026-11-02",
+   "ultima_vez": "2026-11-02",
+   "historial": [
+    [
+     "2026-11-02",
+     75000.0
+    ]
+   ]
+  },
+  "trovimap-382244-39361257": {
+   "id": "trovimap-382244-39361257",
+   "fuente": "Trovimap",
+   "titulo": "Casa en venta en Aspe, Centro Aspe 06387. Os presentamos esta preciosa casa en el centro d",
+   "precio": 66000.0,
+   "precio_antes": null,
+   "m2": 246,
+   "hab": 6,
+   "banos": 2,
+   "zona": "Aspe",
+   "url": "https://www.trovimap.com/inmueble/382244-39361257",
+   "texto": "268 €/m² 246 m² 6 2 Casa Compra - Agente Inmobiliario Casa en venta en Aspe, Centro Aspe 06387. Os presentamos esta preciosa casa en el centro de Aspe.~~Esta totalmente para reforma integral. Lo ideal es la medida del solar de 123 m2 para",
+   "riesgo": null,
+   "incompleto": false,
+   "aviso": "muy barato por m² (268 €/m²): comprueba por qué",
+   "primera_vez": "2026-11-02",
+   "ultima_vez": "2026-11-02",
+   "historial": [
+    [
+     "2026-11-02",
+     66000.0
+    ]
+   ]
+  },
+  "trovimap-382244-39364380": {
+   "id": "trovimap-382244-39364380",
+   "fuente": "Trovimap",
+   "titulo": "Casa en venta en Aspe, Aspe Aspe GH02175. Casa ubicada en el centro de Aspe, con todos los",
+   "precio": 72000.0,
+   "precio_antes": null,
+   "m2": 214,
+   "hab": 4,
+   "banos": 2,
+   "zona": "Aspe",
+   "url": "https://www.trovimap.com/inmueble/382244-39364380",
+   "texto": "336 €/m² 214 m² 4 2 Casa Compra - Agente Inmobiliario Casa en venta en Aspe, Aspe Aspe GH02175. Casa ubicada en el centro de Aspe, con todos los servicios de luz y agua disponibles. Esta propiedad, conocida como \\\\\\\"casa en el centr",
+   "riesgo": null,
+   "incompleto": false,
+   "aviso": "muy barato por m² (336 €/m²): comprueba por qué",
+   "primera_vez": "2026-11-02",
+   "ultima_vez": "2026-11-02",
+   "historial": [
+    [
+     "2026-11-02",
+     72000.0
+    ]
+   ],
+   "duplicado_de": "trovimap-310820-37428326"
+  },
+  "trovimap-382244-39361173": {
+   "id": "trovimap-382244-39361173",
+   "fuente": "Trovimap",
+   "titulo": "Casa en venta en Aspe, Aspe Aspe 06517. Os presentamos esta preciosa casa en Aspe.~~Ideal ",
+   "precio": 66000.0,
+   "precio_antes": null,
+   "m2": 219,
+   "hab": 7,
+   "banos": 2,
+   "zona": "Aspe",
+   "url": "https://www.trovimap.com/inmueble/382244-39361173",
+   "texto": "301 €/m² 219 m² 7 2 Casa Compra - Agente Inmobiliario Casa en venta en Aspe, Aspe Aspe 06517. Os presentamos esta preciosa casa en Aspe.~~Ideal para hacer la casa de tus sueños, a un precio increíble.~~Tiene el suministró de luz y agua~~",
+   "riesgo": null,
+   "incompleto": false,
+   "aviso": "muy barato por m² (301 €/m²): comprueba por qué",
+   "primera_vez": "2026-11-02",
+   "ultima_vez": "2026-11-02",
+   "historial": [
+    [
+     "2026-11-02",
+     66000.0
+    ]
+   ]
+  },
+  "trovimap-382244-39909039": {
+   "id": "trovimap-382244-39909039",
+   "fuente": "Trovimap",
+   "titulo": "Casa en venta en Aspe, Centro Aspe 06688. Oportunidad única en el corazón de Aspe.~~ Prese",
+   "precio": 89500.0,
+   "precio_antes": null,
+   "m2": 132,
+   "hab": 3,
+   "banos": 2,
+   "zona": "Aspe",
+   "url": "https://www.trovimap.com/inmueble/382244-39909039",
+   "texto": "678 €/m² 132 m² 3 2 Casa Compra - Agente Inmobiliario Casa en venta en Aspe, Centro Aspe 06688. Oportunidad única en el corazón de Aspe.~~ Presentamos esta casa con una ubicación céntrica ideal, perfecta para los amantes del urbanismo y l",
+   "riesgo": null,
+   "incompleto": false,
+   "aviso": "muy barato por m² (678 €/m²): comprueba por qué",
+   "primera_vez": "2026-11-02",
+   "ultima_vez": "2026-11-02",
+   "historial": [
+    [
+     "2026-11-02",
+     89500.0
+    ]
+   ]
+  },
+  "trovimap-382244-39381829": {
+   "id": "trovimap-382244-39381829",
+   "fuente": "Trovimap",
+   "titulo": "Casa con terreno en venta en Aspe, Upanel Aspe 05084. Descubre esta encantadora casa de ca",
+   "precio": 103000.0,
+   "precio_antes": null,
+   "m2": 292,
+   "hab": 2,
+   "banos": 1,
+   "zona": "Aspe",
+   "url": "https://www.trovimap.com/inmueble/382244-39381829",
+   "texto": "353 €/m² 292 m² 2 1 Casa Compra - Agente Inmobiliario Casa con terreno en venta en Aspe, Upanel Aspe 05084. Descubre esta encantadora casa de campo en Aspe, con una superficie construida de 292 m2 y ubicada sobre un extenso terreno de 2.803 m2 . ~~La",
+   "riesgo": null,
+   "incompleto": false,
+   "aviso": "muy barato por m² (352 €/m²): comprueba por qué",
+   "primera_vez": "2026-11-02",
+   "ultima_vez": "2026-11-02",
+   "historial": [
+    [
+     "2026-11-02",
+     103000.0
+    ]
+   ]
+  },
+  "trovimap-382244-40181215": {
+   "id": "trovimap-382244-40181215",
+   "fuente": "Trovimap",
+   "titulo": "Casa en venta en Aspe, Centro Aspe 06711. Descubre esta oportunidad excepcional en el cent",
+   "precio": 69900.0,
+   "precio_antes": 72260.0,
+   "m2": 238,
+   "hab": 5,
+   "banos": 2,
+   "zona": "Aspe",
+   "url": "https://www.trovimap.com/inmueble/382244-40181215",
+   "texto": "72.260 € 238 m² 5 2 Casa Compra - Agente Inmobiliario Casa en venta en Aspe, Centro Aspe 06711. Descubre esta oportunidad excepcional en el centro de Aspe, donde podrás convertir una propiedad con gran potencial en la casa de tus sueños. ~",
+   "riesgo": null,
+   "incompleto": false,
+   "aviso": "muy barato por m² (293 €/m²): comprueba por qué",
+   "primera_vez": "2026-11-02",
+   "ultima_vez": "2026-11-02",
+   "historial": [
+    [
+     "2026-11-02",
+     72260.0
+    ],
+    [
+     "2026-11-02",
+     69900.0
+    ]
+   ]
+  },
+  "trovimap-382244-39364381": {
+   "id": "trovimap-382244-39364381",
+   "fuente": "Trovimap",
+   "titulo": "Casa en venta en Aspe, Aspe Aspe GH02175. Casa ubicada en el centro de Aspe, con todos los",
+   "precio": 72000.0,
+   "precio_antes": null,
+   "m2": 214,
+   "hab": 4,
+   "banos": 2,
+   "zona": "Aspe",
+   "url": "https://www.trovimap.com/inmueble/382244-39364381",
+   "texto": "336 €/m² 214 m² 4 2 Casa Compra - Agente Inmobiliario Casa en venta en Aspe, Aspe Aspe GH02175. Casa ubicada en el centro de Aspe, con todos los servicios de luz y agua disponibles. Esta propiedad, conocida como \\\\\\\"casa en el centr",
+   "riesgo": null,
+   "incompleto": false,
+   "aviso": "muy barato por m² (336 €/m²): comprueba por qué",
+   "primera_vez": "2026-11-02",
+   "ultima_vez": "2026-11-02",
+   "historial": [
+    [
+     "2026-11-02",
+     72000.0
+    ]
+   ],
+   "duplicado_de": "trovimap-310820-37428326"
+  },
+  "trovimap-382244-40204406": {
+   "id": "trovimap-382244-40204406",
+   "fuente": "Trovimap",
+   "titulo": "Piso en venta en Aspe, Calle Doctor Marañón, 03680 Aspe IMBX825. Marcamos la diferencia IN",
+   "precio": 87900.0,
+   "precio_antes": 89900.0,
+   "m2": 128,
+   "hab": 4,
+   "banos": 2,
+   "zona": "Aspe",
+   "url": "https://www.trovimap.com/inmueble/382244-40204406",
+   "texto": "89.900 € 128 m² 4 2 Piso Compra - Agente Inmobiliario Piso en venta en Aspe, Calle Doctor Marañón, 03680 Aspe IMBX825. Marcamos la diferencia INVERSIÓN BLINDADA EN ASPE: RENTABILIDAD DESDE EL MINUTO UNO Hay pisos que se compran. Y hay pisos que se hereda",
+   "riesgo": "INVERSIÓN",
+   "incompleto": false,
+   "aviso": "muy barato por m² (686 €/m²): comprueba por qué",
+   "primera_vez": "2026-11-02",
+   "ultima_vez": "2026-11-02",
+   "historial": [
+    [
+     "2026-11-02",
+     89900.0
+    ],
+    [
+     "2026-11-02",
+     87900.0
+    ]
+   ]
+  },
+  "trovimap-382244-39356853": {
+   "id": "trovimap-382244-39356853",
+   "fuente": "Trovimap",
+   "titulo": "Casa en venta en Aspe, La nía Aspe 05393. ¡ Oportunidad única para crear la casa de tus su",
+   "precio": 58000.0,
+   "precio_antes": null,
+   "m2": 130,
+   "hab": 3,
+   "banos": 1,
+   "zona": "Aspe",
+   "url": "https://www.trovimap.com/inmueble/382244-39356853",
+   "texto": "446 €/m² 130 m² 3 1 Casa Compra - Agente Inmobiliario Casa en venta en Aspe, La nía Aspe 05393. ¡ Oportunidad única para crear la casa de tus sueños en la encantadora zona de La Nía, Aspe! ~~Características principales:~- **Estado**: Propi",
+   "riesgo": null,
+   "incompleto": false,
+   "aviso": "muy barato por m² (446 €/m²): comprueba por qué",
+   "primera_vez": "2026-11-02",
+   "ultima_vez": "2026-11-02",
+   "historial": [
+    [
+     "2026-11-02",
+     58000.0
+    ]
+   ]
+  },
+  "trovimap-310737-30260620": {
+   "id": "trovimap-310737-30260620",
+   "fuente": "Trovimap",
+   "titulo": "VENTA DE CASA EN PLENO CENTRO EN CALLE PEATONAL EN ASPE ALICANTE Aspe VENTA DE CASA EN PLE",
+   "precio": 109220.0,
+   "precio_antes": 109260.0,
+   "m2": 270,
+   "hab": 6,
+   "banos": 1,
+   "zona": "Aspe",
+   "url": "https://www.trovimap.com/inmueble/310737-30260620",
+   "texto": "109.260 € 270 m² 6 1 Casa Compra - Agente Inmobiliario VENTA DE CASA EN PLENO CENTRO EN CALLE PEATONAL EN ASPE ALICANTE Aspe VENTA DE CASA EN PLENO CENTRO EN CALLE PEATONAL EN ASPE CON 270 m2 de superficie CONSTRUIDA, 135 m2 superficie parcela, más 120 m2 de terraza, 6 habit",
+   "riesgo": null,
+   "incompleto": false,
+   "aviso": "muy barato por m² (404 €/m²): comprueba por qué",
+   "primera_vez": "2026-11-02",
+   "ultima_vez": "2026-11-02",
+   "historial": [
+    [
+     "2026-11-02",
+     109260.0
+    ],
+    [
+     "2026-11-02",
+     109220.0
+    ]
+   ],
+   "duplicado_de": "trovimap-382244-41744639"
+  },
+  "trovimap-310820-37428308": {
+   "id": "trovimap-310820-37428308",
+   "fuente": "Trovimap",
+   "titulo": "CASA EN CENTRO DE ASPE Aspe Excelente oportunidad de inversión en la zona centro de Aspe c",
+   "precio": 45000.0,
+   "precio_antes": null,
+   "m2": 232,
+   "hab": 3,
+   "banos": null,
+   "zona": "Aspe",
+   "url": "https://www.trovimap.com/inmueble/310820-37428308",
+   "texto": "194 €/m² 232 m² 3 - Casa Compra - Agente Inmobiliario CASA EN CENTRO DE ASPE Aspe Excelente oportunidad de inversión en la zona centro de Aspe con Casa Solar ubicada en venta. Esta propiedad cuenta con 135 metros cuadrados de suelo,",
+   "riesgo": "inversión",
+   "incompleto": true,
+   "aviso": "muy barato por m² (193 €/m²): comprueba por qué",
+   "primera_vez": "2026-11-02",
+   "ultima_vez": "2026-11-02",
+   "historial": [
+    [
+     "2026-11-02",
+     45000.0
+    ]
+   ]
+  },
+  "trovimap-382244-39348352": {
+   "id": "trovimap-382244-39348352",
+   "fuente": "Trovimap",
+   "titulo": "Casa en venta en Aspe, Aspe Aspe 06187. Casa en pleno corazón de Aspe ~~¿Buscas el lugar p",
+   "precio": 29900.0,
+   "precio_antes": 37000.0,
+   "m2": 92,
+   "hab": 3,
+   "banos": 1,
+   "zona": "Aspe",
+   "url": "https://www.trovimap.com/inmueble/382244-39348352",
+   "texto": "37.000 € 92 m² 3 1 Casa Compra - Agente Inmobiliario Casa en venta en Aspe, Aspe Aspe 06187. Casa en pleno corazón de Aspe ~~¿Buscas el lugar perfecto para construir tu hogar ideal? Este solar de 55 m2 en el mismo centro de Aspe te bri",
+   "riesgo": null,
+   "incompleto": false,
+   "aviso": "muy barato por m² (325 €/m²): comprueba por qué",
+   "primera_vez": "2026-11-02",
+   "ultima_vez": "2026-11-02",
+   "historial": [
+    [
+     "2026-11-02",
+     37000.0
+    ],
+    [
+     "2026-11-02",
+     29900.0
+    ]
+   ]
+  },
+  "trovimap-310737-6455508": {
+   "id": "trovimap-310737-6455508",
+   "fuente": "Trovimap",
+   "titulo": "SE VENDE CASA PARA REFORMAR EN LA ZONA DEL CORAZÓN DE JESÚS EN ASPE Aspe SE VENDE CASA PAR",
+   "precio": 119000.0,
+   "precio_antes": 126000.0,
+   "m2": 120,
+   "hab": 3,
+   "banos": 1,
+   "zona": "Aspe",
+   "url": "https://www.trovimap.com/inmueble/310737-6455508",
+   "texto": "126.000 € 120 m² 3 1 Casa Compra - Agente Inmobiliario SE VENDE CASA PARA REFORMAR EN LA ZONA DEL CORAZÓN DE JESÚS EN ASPE Aspe SE VENDE CASA PARA REFORMAR EN LA ZONA DEL CORAZÓN DE JESÚS EN ASPE con 120 m. de superficie construida y 150 m. superficie de parcela, con 3 habitaci",
+   "riesgo": null,
+   "incompleto": false,
+   "primera_vez": "2026-11-02",
+   "ultima_vez": "2026-11-02",
+   "historial": [
+    [
+     "2026-11-02",
+     126000.0
+    ],
+    [
+     "2026-11-02",
+     119000.0
+    ]
+   ],
+   "duplicado_de": "trovimap-382244-41749299"
+  },
+  "trovimap-382244-39352076": {
+   "id": "trovimap-382244-39352076",
+   "fuente": "Trovimap",
+   "titulo": "Casa en venta en Aspe, Aspe Aspe GH02145. Excelente oportunidad de inversión en la zona ce",
+   "precio": 45000.0,
+   "precio_antes": null,
+   "m2": 232,
+   "hab": 3,
+   "banos": null,
+   "zona": "Aspe",
+   "url": "https://www.trovimap.com/inmueble/382244-39352076",
+   "texto": "194 €/m² 232 m² 3 - Casa Compra - Agente Inmobiliario Casa en venta en Aspe, Aspe Aspe GH02145. Excelente oportunidad de inversión en la zona centro de Aspe con Casa Solar ubicada en venta. Esta propiedad cuenta con 135 metros cuadrados",
+   "riesgo": "inversión",
+   "incompleto": true,
+   "aviso": "muy barato por m² (193 €/m²): comprueba por qué",
+   "primera_vez": "2026-11-02",
+   "ultima_vez": "2026-11-02",
+   "historial": [
+    [
+     "2026-11-02",
+     45000.0
+    ]
+   ],
+   "duplicado_de": "trovimap-310820-37428308"
+  },
+  "trovimap-382244-39352074": {
+   "id": "trovimap-382244-39352074",
+   "fuente": "Trovimap",
+   "titulo": "Casa en venta en Aspe, Aspe Aspe GH02145. Excelente oportunidad de inversión en la zona ce",
+   "precio": 45000.0,
+   "precio_antes": null,
+   "m2": 232,
+   "hab": 3,
+   "banos": null,
+   "zona": "Aspe",
+   "url": "https://www.trovimap.com/inmueble/382244-39352074",
+   "texto": "194 €/m² 232 m² 3 - Casa Compra - Agente Inmobiliario Casa en venta en Aspe, Aspe Aspe GH02145. Excelente oportunidad de inversión en la zona centro de Aspe con Casa Solar ubicada en venta. Esta propiedad cuenta con 135 metros cuadrados",
+   "riesgo": "inversión",
+   "incompleto": true,
+   "aviso": "muy barato por m² (193 €/m²): comprueba por qué",
+   "primera_vez": "2026-11-02",
+   "ultima_vez": "2026-11-02",
+   "historial": [
+    [
+     "2026-11-02",
+     45000.0
+    ]
+   ],
+   "duplicado_de": "trovimap-310820-37428308"
   }
  },
  "estado_previo": {
+  "Santa Pola": "ok",
   "Guardamar del Segura": "ok",
   "San Fulgencio": "ok",
   "Almoradí": "ok",
   "Catral": "ok",
-  "Dolores": "ok"
+  "Dolores": "ok",
+  "Crevillent": "ok",
+  "El Campello": "ok",
+  "Mutxamel": "ok",
+  "Sant Joan d'Alacant": "error",
+  "Agost": "ok",
+  "Aspe": "ok"
  },
- "actualizado": "2026-11-02T10:00+00:00",
+ "actualizado": "2026-11-02T10:14+00:00",
  "firmas": {
-  "Guardamar del Segura|20000|90|3": "trovimap-382244-40358750",
+  "Santa Pola|100000|94|3": "trovimap-386974-40914591",
+  "Santa Pola|105000|90|3": "trovimap-382244-26263325",
+  "Santa Pola|120000|80|2": "trovimap-382244-26275923",
+  "Santa Pola|97000|75|2": "trovimap-382244-39378413",
+  "Santa Pola|115000|104|3": "trovimap-382244-39387179",
+  "Santa Pola|95000|73|3": "trovimap-382244-39377551",
+  "Santa Pola|95000|80|2": "trovimap-382244-39377467",
+  "Santa Pola|109900|95|3": "trovimap-382244-39384189",
+  "Santa Pola|115000|65|2": "trovimap-382244-39387191",
+  "Santa Pola|95000|70|2": "trovimap-382244-39377367",
+  "Santa Pola|108000|88|4": "trovimap-310898-41713478",
+  "Santa Pola|90000|97|3": "trovimap-382244-26243129",
+  "Santa Pola|71000|90|3": "trovimap-382244-39364066",
+  "Santa Pola|119900|100|3": "trovimap-382244-39388768",
+  "Santa Pola|96000|80|3": "trovimap-382244-39378025",
+  "Santa Pola|69000|65|2": "trovimap-382244-39362245",
+  "Santa Pola|109000|65|2": "trovimap-382244-39383884",
+  "Santa Pola|95000|85|3": "trovimap-382244-39377450",
+  "Santa Pola|58000|80|2": "trovimap-382244-39356788",
+  "Santa Pola|88000|75|2": "trovimap-382244-39372853",
+  "Santa Pola|120000|90|2": "trovimap-382244-39390263",
   "Guardamar del Segura|105000|87|2": "trovimap-382244-39672895",
   "Guardamar del Segura|91753|75|2": "trovimap-382244-39670729",
   "Guardamar del Segura|104000|60|2": "trovimap-382244-39672664",
@@ -3382,15 +5785,13 @@
   "Guardamar del Segura|93000|68|2": "trovimap-382244-34658220",
   "Guardamar del Segura|79500|65|2": "trovimap-382244-34366489",
   "Guardamar del Segura|95000|70|2": "trovimap-382244-33361655",
-  "San Fulgencio|20000|88|2": "trovimap-382244-41780230",
   "San Fulgencio|98000|90|3": "trovimap-476778-40653433",
   "San Fulgencio|116000|60|2": "trovimap-382244-40921390",
   "San Fulgencio|95000|75|2": "trovimap-382244-39377366",
   "San Fulgencio|116100|70|2": "trovimap-510591-38623279",
-  "Almoradí|20000|80|2": "trovimap-381187-41785219",
+  "Almoradí|114999|80|2": "trovimap-381187-41785219",
   "Almoradí|70000|102|3": "trovimap-382244-41777061",
-  "Almoradí|89900|102|4": "trovimap-382244-41780400",
-  "Almoradí|120000|108|2": "trovimap-382244-41744819",
+  "Almoradí|89900|102|4": "trovimap-522193-41510670",
   "Almoradí|111200|69|2": "trovimap-382244-41744757",
   "Almoradí|103999|119|4": "trovimap-381187-41712766",
   "Almoradí|105000|123|3": "trovimap-382244-41700809",
@@ -3399,15 +5800,13 @@
   "Almoradí|114900|76|2": "trovimap-382244-41721088",
   "Almoradí|102260|76|2": "trovimap-311813-41579215",
   "Almoradí|90000|90|2": "trovimap-382244-40817910",
-  "Almoradí|120000|122|3": "trovimap-382244-40852942",
+  "Almoradí|120000|122|3": "trovimap-382244-40852943",
   "Almoradí|53000|62|2": "trovimap-382244-39355005",
   "Almoradí|75000|123|3": "trovimap-382244-39667554",
   "Almoradí|46500|88|2": "trovimap-382244-39662582",
-  "Almoradí|20000|122|3": "trovimap-382244-40852943",
   "Almoradí|117000|102|4": "trovimap-382244-40412736",
   "Almoradí|69100|115|3": "trovimap-382244-39666453",
   "Almoradí|112000|96|3": "trovimap-386974-41570306",
-  "Almoradí|117200|69|2": "trovimap-310754-39616412",
   "Almoradí|49500|80|2": "trovimap-382244-39353372",
   "Almoradí|75000|95|3": "trovimap-382244-39667512",
   "Almoradí|100000|94|4": "trovimap-385506-41728630",
@@ -3417,7 +5816,6 @@
   "Almoradí|115000|65|2": "trovimap-382244-39743402",
   "Almoradí|75000|121|3": "trovimap-382244-41720895",
   "Almoradí|120000|82|2": "trovimap-532074-38790844",
-  "Almoradí|20000|102|4": "trovimap-522193-41510670",
   "Almoradí|75000|121|4": "trovimap-310922-41538947",
   "Almoradí|84000|118|4": "trovimap-310832-41592815",
   "Almoradí|100000|127|3": "trovimap-310832-40799861",
@@ -3432,7 +5830,6 @@
   "Almoradí|106000|82|3": "trovimap-531841-38728827",
   "Almoradí|105500|96|3": "trovimap-510591-41212868",
   "Almoradí|88000|126|3": "trovimap-503762-40100129",
-  "Catral|20000|124|4": "trovimap-382244-41780364",
   "Catral|107499|100|3": "trovimap-382244-41780486",
   "Catral|107500|100|3": "trovimap-484095-41786206",
   "Catral|107500|113|3": "trovimap-510591-41776195",
@@ -3444,7 +5841,6 @@
   "Catral|98000|101|3": "trovimap-524207-41376443",
   "Catral|115000|141|3": "trovimap-382244-34229579",
   "Catral|100000|150|3": "trovimap-382244-39381444",
-  "Dolores|20000|114|3": "trovimap-310778-39324019",
   "Dolores|105000|66|2": "trovimap-382244-41721048",
   "Dolores|105000|112|4": "trovimap-476778-38931694",
   "Dolores|109900|116|3": "trovimap-334319-40291249",
@@ -3452,13 +5848,88 @@
   "Dolores|120000|104|3": "trovimap-382244-41412680",
   "Dolores|110000|110|3": "trovimap-382244-40948415",
   "Dolores|105000|80|2": "trovimap-530844-41096191",
-  "Dolores|89000|88|2": "trovimap-510591-41589599"
+  "Dolores|89000|88|2": "trovimap-510591-41589599",
+  "Crevillent|105000|94|3": "trovimap-382244-41700805",
+  "Crevillent|89000|95|3": "trovimap-311695-41735605",
+  "Crevillent|120000|124|2": "trovimap-382244-41749579",
+  "Crevillent|99000|105|4": "trovimap-384948-40488187",
+  "Crevillent|80000|116|3": "trovimap-489324-37294301",
+  "Crevillent|80000|120|3": "trovimap-489324-37638001",
+  "Crevillent|117000|84|2": "trovimap-382244-41573594",
+  "Crevillent|120000|112|3": "trovimap-382244-39804680",
+  "Crevillent|99900|85|3": "trovimap-382244-41769738",
+  "Crevillent|99000|85|3": "trovimap-382244-41787422",
+  "Crevillent|80000|83|3": "trovimap-524132-41767174",
+  "Crevillent|120000|128|3": "trovimap-519334-41766871",
+  "Crevillent|80000|70|2": "trovimap-382244-41627420",
+  "Crevillent|74000|130|2": "trovimap-382244-41700748",
+  "Crevillent|65000|73|2": "trovimap-382244-41573014",
+  "Crevillent|89000|65|3": "trovimap-382244-41573276",
+  "Crevillent|65000|85|2": "trovimap-382244-39665659",
+  "Crevillent|110000|78|3": "trovimap-384948-40978191",
+  "Crevillent|93000|140|3": "trovimap-382244-39670847",
+  "Crevillent|78000|90|3": "trovimap-382244-39667953",
+  "Crevillent|65000|80|3": "trovimap-382244-39665618",
+  "Crevillent|74000|66|2": "trovimap-524132-41767176",
+  "Crevillent|77500|90|3": "trovimap-535065-41407218",
+  "Crevillent|110000|111|3": "trovimap-510591-41377044",
+  "Mutxamel|64480|187|3": "trovimap-382244-39665544",
+  "Agost|65000|65|2": "trovimap-537083-40847371",
+  "Aspe|90000|95|3": "trovimap-389083-41251730",
+  "Aspe|107260|109|3": "trovimap-310737-39107359",
+  "Aspe|97260|92|2": "trovimap-310737-39107358",
+  "Aspe|120000|282|6": "trovimap-382244-41749386",
+  "Aspe|89900|105|5": "trovimap-382244-41777099",
+  "Aspe|100000|132|3": "trovimap-310737-41762674",
+  "Aspe|98000|115|4": "trovimap-310737-41762676",
+  "Aspe|66000|142|4": "trovimap-310729-41712775",
+  "Aspe|61050|90|3": "trovimap-310737-41735887",
+  "Aspe|66050|116|3": "trovimap-310737-41762675",
+  "Aspe|115000|418|5": "trovimap-382244-41749236",
+  "Aspe|60000|142|4": "trovimap-382244-41730959",
+  "Aspe|88000|388|4": "trovimap-382244-41743802",
+  "Aspe|109220|270|6": "trovimap-382244-41744639",
+  "Aspe|85000|204|4": "trovimap-382244-41787340",
+  "Aspe|119000|95|3": "trovimap-382244-41780530",
+  "Aspe|118000|86|3": "trovimap-382244-41656820",
+  "Aspe|104900|150|3": "trovimap-382244-41656617",
+  "Aspe|82000|101|3": "trovimap-382244-41738064",
+  "Aspe|71000|190|4": "trovimap-382244-41737511",
+  "Aspe|89900|124|4": "trovimap-382244-41656478",
+  "Aspe|107260|145|4": "trovimap-310737-41426834",
+  "Aspe|116000|95|4": "trovimap-310737-40219034",
+  "Aspe|69500|89|2": "trovimap-382244-39362688",
+  "Aspe|117260|96|4": "trovimap-382244-39811527",
+  "Aspe|106050|100|3": "trovimap-310737-39137753",
+  "Aspe|59840|90|3": "trovimap-310737-35475200",
+  "Aspe|115000|100|3": "trovimap-382244-41553660",
+  "Aspe|92260|113|3": "trovimap-382244-40096079",
+  "Aspe|116000|98|4": "trovimap-521988-40323836",
+  "Aspe|115000|111|3": "trovimap-382244-41161523",
+  "Aspe|72000|214|4": "trovimap-310820-37428326",
+  "Aspe|119000|120|3": "trovimap-382244-41749299",
+  "Aspe|66050|250|3": "trovimap-310737-30171542",
+  "Aspe|75000|220|6": "trovimap-382244-41397895",
+  "Aspe|66000|246|6": "trovimap-382244-39361257",
+  "Aspe|66000|219|7": "trovimap-382244-39361173",
+  "Aspe|89500|132|3": "trovimap-382244-39909039",
+  "Aspe|103000|292|2": "trovimap-382244-39381829",
+  "Aspe|69900|238|5": "trovimap-382244-40181215",
+  "Aspe|87900|128|4": "trovimap-382244-40204406",
+  "Aspe|58000|130|3": "trovimap-382244-39356853",
+  "Aspe|45000|232|3": "trovimap-310820-37428308",
+  "Aspe|29900|92|3": "trovimap-382244-39348352"
  },
  "zonas_base": [
+  "Agost",
   "Almoradí",
+  "Aspe",
   "Catral",
+  "Crevillent",
   "Dolores",
   "Guardamar del Segura",
-  "San Fulgencio"
+  "Mutxamel",
+  "San Fulgencio",
+  "Santa Pola"
  ]
 }
