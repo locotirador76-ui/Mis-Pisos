@@ -654,7 +654,7 @@
    "id": "trovimap-382244-40358750",
    "fuente": "Trovimap",
    "titulo": "Apartamento en venta en Guardamar del Segura, Pueblo con Ascensor V1522. CGI Inmobiliaria ",
-   "precio": 119990.0,
+   "precio": 20000.0,
    "precio_antes": 119990.0,
    "m2": 90,
    "hab": 3,
@@ -664,7 +664,7 @@
    "texto": "Comprar Pisos y Casas en Guardamar del Segura, Alicante/Alacant | Trovimap --> --> Toggle navigation this.getMessages()\"> this.getMessages()\"> this.getMessages()\"> this.getMessages()\"> Precios Valora tu inmueble Blog Anúnciate gratis Entrar Máx 120.000 € Mín 60 m² Habitaciones (2+) Filtros Estadísticas Históricas Guardar búsqueda Mostrar límites : 14 Alicante/Alacant Guardamar del Segura Alicante/Alacant Murcia Valencia/València Albacete Almería Granada Cuenca Castellón/Castelló Jaén Teruel Guardamar del Segura Rojales San Fulgencio Torrevieja Elche/Elx Formentera del Segura Benijófar Daya Vie",
    "riesgo": null,
    "incompleto": false,
-   "aviso": null,
+   "aviso": "muy barato por m² (222 €/m²): comprueba por qué",
    "primera_vez": "2026-11-01",
    "ultima_vez": "2026-11-02",
    "historial": [
@@ -679,6 +679,10 @@
     [
      "2026-11-02",
      119990.0
+    ],
+    [
+     "2026-11-02",
+     20000.0
     ]
    ]
   },
@@ -686,7 +690,7 @@
    "id": "trovimap-382244-39672895",
    "fuente": "Trovimap",
    "titulo": "Apartamento en venta en Guardamar del Segura, SUP 7 con Ascensor 45213. Apartamento en Gua",
-   "precio": 20000.0,
+   "precio": 105000.0,
    "precio_antes": null,
    "m2": 87,
    "hab": 2,
@@ -706,9 +710,13 @@
     [
      "2026-11-02",
      20000.0
+    ],
+    [
+     "2026-11-02",
+     105000.0
     ]
    ],
-   "aviso": "muy barato por m² (229 €/m²): comprueba por qué"
+   "aviso": null
   },
   "trovimap-382244-39670729": {
    "id": "trovimap-382244-39670729",
@@ -1680,7 +1688,7 @@
    "id": "trovimap-382244-40412736",
    "fuente": "Trovimap",
    "titulo": "Apartamento en venta en Almoradi, Ayuntamiento con Ascensor EXP12644. Descubre este amplio",
-   "precio": 20000.0,
+   "precio": 117000.0,
    "precio_antes": null,
    "m2": 102,
    "hab": 4,
@@ -1700,9 +1708,13 @@
     [
      "2026-11-02",
      20000.0
+    ],
+    [
+     "2026-11-02",
+     117000.0
     ]
    ],
-   "aviso": "muy barato por m² (196 €/m²): comprueba por qué"
+   "aviso": null
   },
   "trovimap-382244-39666453": {
    "id": "trovimap-382244-39666453",
@@ -1732,7 +1744,7 @@
    "id": "trovimap-386974-41570306",
    "fuente": "Trovimap",
    "titulo": "OPORTUNIDAD DE INVERSIÓN EN ALMORADÍ - ALICANTE con Ascensor OPORTUNIDAD DE INVERSIÓN EN A",
-   "precio": 112000.0,
+   "precio": 20000.0,
    "precio_antes": null,
    "m2": 96,
    "hab": 3,
@@ -1748,9 +1760,13 @@
     [
      "2026-11-01",
      112000.0
+    ],
+    [
+     "2026-11-02",
+     20000.0
     ]
    ],
-   "aviso": null
+   "aviso": "muy barato por m² (208 €/m²): comprueba por qué"
   },
   "trovimap-310754-39616412": {
    "id": "trovimap-310754-39616412",
@@ -3327,7 +3343,7 @@
   "Catral": "ok",
   "Dolores": "ok"
  },
- "actualizado": "2026-11-02T03:54+00:00",
+ "actualizado": "2026-11-02T07:20+00:00",
  "firmas": {
   "Guardamar del Segura|20000|90|3": "trovimap-382244-40358750",
   "Guardamar del Segura|105000|87|2": "trovimap-382244-39672895",
