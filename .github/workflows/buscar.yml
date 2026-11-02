@@ -5,6 +5,9 @@ on:
   workflow_dispatch:
 permissions:
   contents: write
+concurrency:
+  group: buscar-pisos
+  cancel-in-progress: false
 jobs:
   buscar:
     runs-on: ubuntu-latest
@@ -14,14 +17,17 @@ jobs:
         with:
           python-version: "3.12"
       - run: pip install requests
-      - run: python scraper.py
-        env:
-          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
-          TELEGRAM_ID: ${{ secrets.TELEGRAM_ID }}
-          IDEALISTA_KEY: ${{ secrets.IDEALISTA_KEY }}
-          IDEALISTA_SECRET: ${{ secrets.IDEALISTA_SECRET }}
-      - run: |
+      - name: Buscar anuncios
+        run: python scraper.py
+      - name: Guardar datos
+        run: |
           git config user.name "buscador"
           git config user.email "buscador@users.noreply.github.com"
           git add data.json
-          git diff --cached --quiet || (git commit -m "Actualizar anuncios" && git push)
+          git diff --cached --quiet || git commit -m "Actualizar anuncios"
+          git push || { git pull --rebase && git push; }
+      - name: Enviar avisos a Telegram
+        run: python scraper.py enviar
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_ID: ${{ secrets.TELEGRAM_ID }}
