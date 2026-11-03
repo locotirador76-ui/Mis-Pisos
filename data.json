@@ -5776,6 +5776,31 @@
     ]
    ],
    "duplicado_de": "trovimap-310820-37428308"
+  },
+  "trovimap-382244-41790906": {
+   "id": "trovimap-382244-41790906",
+   "fuente": "Trovimap",
+   "titulo": "Piso en venta en Catral con Ascensor 11447. La vivienda cuenta con 124 m² y ofrece una dis",
+   "precio": 109900.0,
+   "precio_antes": null,
+   "m2": 124,
+   "hab": 4,
+   "banos": 2,
+   "zona": "Catral",
+   "url": "https://www.trovimap.com/inmueble/382244-41790906",
+   "texto": "886 €/m² 124 m² 4 2 Piso Compra - Agente Inmobiliario Piso en venta en Catral con Ascensor 11447. La vivienda cuenta con 124 m² y ofrece una distribución especialmente cómoda, con cuatro dormitorios dobles de grandes dimensiones, algo cada v",
+   "riesgo": null,
+   "incompleto": false,
+   "aviso": "muy barato por m² (886 €/m²): comprueba por qué",
+   "primera_vez": "2026-11-03",
+   "ultima_vez": "2026-11-03",
+   "historial": [
+    [
+     "2026-11-03",
+     109900.0
+    ]
+   ],
+   "duplicado_de": "trovimap-382244-41689791"
   }
  },
  "estado_previo": {
@@ -5792,7 +5817,7 @@
   "Agost": "ok",
   "Aspe": "ok"
  },
- "actualizado": "2026-11-03T00:57+00:00",
+ "actualizado": "2026-11-03T03:51+00:00",
  "firmas": {
   "Santa Pola|100000|94|3": "trovimap-386974-40914591",
   "Santa Pola|105000|90|3": "trovimap-382244-26263325",
