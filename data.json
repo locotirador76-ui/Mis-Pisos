@@ -4819,7 +4819,7 @@
    "incompleto": false,
    "aviso": "muy barato por m² (373 €/m²): comprueba por qué",
    "primera_vez": "2026-11-02",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "historial": [
     [
      "2026-11-02",
@@ -5805,6 +5805,128 @@
     ]
    ],
    "duplicado_de": "trovimap-382244-41689791"
+  },
+  "trovimap-382244-41795204": {
+   "id": "trovimap-382244-41795204",
+   "fuente": "Trovimap",
+   "titulo": "Piso en venta en Almoradi, Campo de futbol con Ascensor A. Piso flasH ( EL QUE MAS PUJE SE",
+   "precio": 102999.0,
+   "precio_antes": null,
+   "m2": 100,
+   "hab": 3,
+   "banos": 2,
+   "zona": "Almoradí",
+   "url": "https://www.trovimap.com/inmueble/382244-41795204",
+   "texto": "1.030 €/m² 100 m² 3 2 Piso Compra - Agente Inmobiliario Piso en venta en Almoradi, Campo de futbol con Ascensor A. Piso flasH ( EL QUE MAS PUJE SERÁ EL GANADOR) vivienda de 99 m2 ubicado en Almoradí, Alicante. Se trata de un piso de 99 m2 distribuidos en salón-",
+   "riesgo": null,
+   "incompleto": false,
+   "primera_vez": "2026-11-04",
+   "ultima_vez": "2026-11-04",
+   "historial": [
+    [
+     "2026-11-04",
+     102999.0
+    ]
+   ]
+  },
+  "trovimap-382244-41795213": {
+   "id": "trovimap-382244-41795213",
+   "fuente": "Trovimap",
+   "titulo": "Piso en venta en Almoradi, ALMORADI con Ascensor VBS396. ~¡Última planta con terraza en Al",
+   "precio": 105000.0,
+   "precio_antes": null,
+   "m2": 123,
+   "hab": 3,
+   "banos": 2,
+   "zona": "Almoradí",
+   "url": "https://www.trovimap.com/inmueble/382244-41795213",
+   "texto": "854 €/m² 123 m² 3 2 Piso Compra - Agente Inmobiliario Piso en venta en Almoradi, ALMORADI con Ascensor VBS396. ~¡Última planta con terraza en Almoradí! ~~¿Buscas la tranquilidad de vivir sin vecinos arriba y con mucha luz natural? ~~En VBS Inmobiliaria",
+   "riesgo": null,
+   "incompleto": false,
+   "aviso": "muy barato por m² (853 €/m²): comprueba por qué",
+   "primera_vez": "2026-11-04",
+   "ultima_vez": "2026-11-04",
+   "historial": [
+    [
+     "2026-11-04",
+     105000.0
+    ]
+   ],
+   "duplicado_de": "trovimap-382244-41700809"
+  },
+  "trovimap-382244-41795256": {
+   "id": "trovimap-382244-41795256",
+   "fuente": "Trovimap",
+   "titulo": "Duplex en venta en Almoradi, Saladar Almoradí CV3427. ¡Oportunidad única en Almoradí! Este",
+   "precio": 120000.0,
+   "precio_antes": null,
+   "m2": 254,
+   "hab": 2,
+   "banos": 2,
+   "zona": "Almoradí",
+   "url": "https://www.trovimap.com/inmueble/382244-41795256",
+   "texto": "472 €/m² 254 m² 2 2 Dúplex Compra - Agente Inmobiliario Duplex en venta en Almoradi, Saladar Almoradí CV3427. ¡Oportunidad única en Almoradí! Este amplio local de 200 m2, que además cuenta con una vivienda integrada, se encuentra ubicado en una de las",
+   "riesgo": null,
+   "incompleto": false,
+   "aviso": "muy barato por m² (472 €/m²): comprueba por qué",
+   "primera_vez": "2026-11-04",
+   "ultima_vez": "2026-11-04",
+   "historial": [
+    [
+     "2026-11-04",
+     120000.0
+    ]
+   ],
+   "duplicado_de": "trovimap-382244-41701042"
+  },
+  "trovimap-382244-41795212": {
+   "id": "trovimap-382244-41795212",
+   "fuente": "Trovimap",
+   "titulo": "Piso en venta en Crevillent, Zona consum con Ascensor 9951. Se vende excelente piso para e",
+   "precio": 105000.0,
+   "precio_antes": null,
+   "m2": 94,
+   "hab": 3,
+   "banos": 2,
+   "zona": "Crevillent",
+   "url": "https://www.trovimap.com/inmueble/382244-41795212",
+   "texto": "1.117 €/m² 94 m² 3 2 Piso Compra - Agente Inmobiliario Piso en venta en Crevillent, Zona consum con Ascensor 9951. Se vende excelente piso para entrar a vivir en Crevillent. 94 m2 construidos. Distribución ; 3 habitaciones,2 baños,salón y cocina con galería.",
+   "riesgo": null,
+   "incompleto": false,
+   "primera_vez": "2026-11-04",
+   "ultima_vez": "2026-11-04",
+   "historial": [
+    [
+     "2026-11-04",
+     105000.0
+    ]
+   ],
+   "duplicado_de": "trovimap-382244-41700805"
+  },
+  "trovimap-382244-41795142": {
+   "id": "trovimap-382244-41795142",
+   "fuente": "Trovimap",
+   "titulo": "Casa en venta en Crevillent, Zona norte Crevillent 9954. Se vende casa de dos habitaciones",
+   "precio": 74000.0,
+   "precio_antes": null,
+   "m2": 130,
+   "hab": 2,
+   "banos": 1,
+   "zona": "Crevillent",
+   "url": "https://www.trovimap.com/inmueble/382244-41795142",
+   "texto": "569 €/m² 130 m² 2 1 Casa Compra - Agente Inmobiliario Casa en venta en Crevillent, Zona norte Crevillent 9954. Se vende casa de dos habitaciones , un baño, cocina , un gran salón y una terraza de 100 m2.~Condición de compra: La casa esta alquilada por dos",
+   "riesgo": "alquilad",
+   "incompleto": false,
+   "aviso": "muy barato por m² (569 €/m²): comprueba por qué",
+   "primera_vez": "2026-11-04",
+   "ultima_vez": "2026-11-04",
+   "historial": [
+    [
+     "2026-11-04",
+     74000.0
+    ]
+   ],
+   "duplicado_de": "trovimap-382244-41700748"
   }
  },
  "estado_previo": {
@@ -5821,7 +5943,7 @@
   "Agost": "ok",
   "Aspe": "ok"
  },
- "actualizado": "2026-11-04T00:59+00:00",
+ "actualizado": "2026-11-04T03:52+00:00",
  "firmas": {
   "Santa Pola|100000|94|3": "trovimap-386974-40914591",
   "Santa Pola|105000|90|3": "trovimap-382244-26263325",
@@ -5902,7 +6024,7 @@
   "Almoradí|86000|70|2": "trovimap-382244-41456239",
   "Almoradí|73500|72|2": "trovimap-510591-40150000",
   "Almoradí|106000|82|3": "trovimap-531841-38728827",
-  "Almoradí|105500|96|3": "trovimap-510591-41212868",
+  "Almoradí|105000|96|3": "trovimap-510591-41212868",
   "Almoradí|88000|126|3": "trovimap-503762-40100129",
   "Catral|82500|124|4": "trovimap-382244-41780364",
   "Catral|107499|100|3": "trovimap-382244-41780486",
@@ -5994,7 +6116,8 @@
   "Aspe|87900|128|4": "trovimap-382244-40204406",
   "Aspe|58000|130|3": "trovimap-382244-39356853",
   "Aspe|45000|232|3": "trovimap-310820-37428308",
-  "Aspe|29900|92|3": "trovimap-382244-39348352"
+  "Aspe|29900|92|3": "trovimap-382244-39348352",
+  "Almoradí|102999|100|3": "trovimap-382244-41795204"
  },
  "zonas_base": [
   "Agost",
