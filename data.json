@@ -5929,6 +5929,80 @@
     ]
    ],
    "duplicado_de": "trovimap-382244-41700748"
+  },
+  "trovimap-510062-41376354": {
+   "id": "trovimap-510062-41376354",
+   "fuente": "Trovimap",
+   "titulo": "Fantástico apartamento en el centro de Guardamar del Segura , a tan solo 500m de las playa",
+   "precio": 119900.0,
+   "precio_antes": 129000.0,
+   "m2": 62,
+   "hab": 3,
+   "banos": 1,
+   "zona": "Guardamar del Segura",
+   "url": "https://www.trovimap.com/inmueble/510062-41376354",
+   "texto": "129.000 € 62 m² 3 1 Piso Compra - Agente Inmobiliario Fantástico apartamento en el centro de Guardamar del Segura , a tan solo 500m de las playas. Guardamar del Segura El Moncayo Properties presenta este exclusivo apartamento ubicado en el corazón de Guardamar del Segura.La vivienda se encuentra en una primera planta",
+   "riesgo": null,
+   "incompleto": false,
+   "primera_vez": "2026-11-04",
+   "ultima_vez": "2026-11-04",
+   "historial": [
+    [
+     "2026-11-04",
+     129000.0
+    ],
+    [
+     "2026-11-04",
+     119900.0
+    ]
+   ]
+  },
+  "trovimap-484095-41797537": {
+   "id": "trovimap-484095-41797537",
+   "fuente": "Trovimap",
+   "titulo": "Piso en Almoradi con Ascensor Piso flasH ( EL QUE MAS PUJE SERÁ EL GANADOR) vivienda de 99",
+   "precio": 103000.0,
+   "precio_antes": null,
+   "m2": 100,
+   "hab": 3,
+   "banos": 2,
+   "zona": "Almoradí",
+   "url": "https://www.trovimap.com/inmueble/484095-41797537",
+   "texto": "1.030 €/m² 100 m² 3 2 Nuevo Piso Compra - Agente Inmobiliario Piso en Almoradi con Ascensor Piso flasH ( EL QUE MAS PUJE SERÁ EL GANADOR) vivienda de 99 m2 ubicado en Almoradí, Alicante. Se trata de un piso de 99 m2 distribuidos en salón-com",
+   "riesgo": null,
+   "incompleto": false,
+   "primera_vez": "2026-11-04",
+   "ultima_vez": "2026-11-04",
+   "historial": [
+    [
+     "2026-11-04",
+     103000.0
+    ]
+   ]
+  },
+  "trovimap-538223-41797193": {
+   "id": "trovimap-538223-41797193",
+   "fuente": "Trovimap",
+   "titulo": "Casa cueva con terreno Crevillent Casa cueva con terreno delantero. Dispone de un salón, c",
+   "precio": 50000.0,
+   "precio_antes": null,
+   "m2": 71,
+   "hab": 3,
+   "banos": 1,
+   "zona": "Crevillent",
+   "url": "https://www.trovimap.com/inmueble/538223-41797193",
+   "texto": "704 €/m² 71 m² 3 1 Nuevo Casa De Pueblo Compra - Agente Inmobiliario Casa cueva con terreno Crevillent Casa cueva con terreno delantero. Dispone de un salón, con cocina y baño a medio reformar, y la cueva en buenas condiciones.",
+   "riesgo": null,
+   "incompleto": false,
+   "aviso": "muy barato por m² (704 €/m²): comprueba por qué",
+   "primera_vez": "2026-11-04",
+   "ultima_vez": "2026-11-04",
+   "historial": [
+    [
+     "2026-11-04",
+     50000.0
+    ]
+   ]
   }
  },
  "estado_previo": {
@@ -5945,7 +6019,7 @@
   "Agost": "ok",
   "Aspe": "ok"
  },
- "actualizado": "2026-11-04T07:10+00:00",
+ "actualizado": "2026-11-04T10:01+00:00",
  "firmas": {
   "Santa Pola|100000|94|3": "trovimap-386974-40914591",
   "Santa Pola|105000|90|3": "trovimap-382244-26263325",
@@ -6119,7 +6193,10 @@
   "Aspe|58000|130|3": "trovimap-382244-39356853",
   "Aspe|45000|232|3": "trovimap-310820-37428308",
   "Aspe|29900|92|3": "trovimap-382244-39348352",
-  "Almoradí|102999|100|3": "trovimap-382244-41795204"
+  "Almoradí|102999|100|3": "trovimap-382244-41795204",
+  "Guardamar del Segura|119900|62|3": "trovimap-510062-41376354",
+  "Almoradí|103000|100|3": "trovimap-484095-41797537",
+  "Crevillent|50000|71|3": "trovimap-538223-41797193"
  },
  "zonas_base": [
   "Agost",
