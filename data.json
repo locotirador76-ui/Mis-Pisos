@@ -1561,7 +1561,7 @@
    "incompleto": false,
    "aviso": "muy barato por m² (854 €/m²): comprueba por qué",
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "historial": [
     [
      "2026-11-01",
@@ -6005,6 +6005,55 @@
      50000.0
     ]
    ]
+  },
+  "trovimap-382244-41798244": {
+   "id": "trovimap-382244-41798244",
+   "fuente": "Trovimap",
+   "titulo": "Piso en venta en Almoradi, Centro urbano 2 con Ascensor PR2199. Descubre este excepcional ",
+   "precio": 117000.0,
+   "precio_antes": null,
+   "m2": 129,
+   "hab": 3,
+   "banos": 2,
+   "zona": "Almoradí",
+   "url": "https://www.trovimap.com/inmueble/382244-41798244",
+   "texto": "907 €/m² 129 m² 3 2 Piso Compra - Agente Inmobiliario Piso en venta en Almoradi, Centro urbano 2 con Ascensor PR2199. Descubre este excepcional piso ubicado en pleno centro urbano de Almoradí, una propiedad que destaca por su exclusividad al contar con un solo",
+   "riesgo": null,
+   "incompleto": false,
+   "primera_vez": "2026-11-05",
+   "ultima_vez": "2026-11-05",
+   "historial": [
+    [
+     "2026-11-05",
+     117000.0
+    ]
+   ],
+   "duplicado_de": "trovimap-382244-39387805"
+  },
+  "trovimap-382244-41798189": {
+   "id": "trovimap-382244-41798189",
+   "fuente": "Trovimap",
+   "titulo": "Piso en venta en Almoradi, Parque de la u Almoradí 01875. Fantástico piso en Almoradí, ubi",
+   "precio": 100000.0,
+   "precio_antes": null,
+   "m2": 127,
+   "hab": 3,
+   "banos": 2,
+   "zona": "Almoradí",
+   "url": "https://www.trovimap.com/inmueble/382244-41798189",
+   "texto": "787 €/m² 127 m² 3 2 Piso Compra - Agente Inmobiliario Piso en venta en Almoradi, Parque de la u Almoradí 01875. Fantástico piso en Almoradí, ubicado en la zona Parque de la U, una de las áreas más demandadas por su tranquilidad y cercanía a todos los serv",
+   "riesgo": null,
+   "incompleto": false,
+   "aviso": "muy barato por m² (787 €/m²): comprueba por qué",
+   "primera_vez": "2026-11-05",
+   "ultima_vez": "2026-11-05",
+   "historial": [
+    [
+     "2026-11-05",
+     100000.0
+    ]
+   ],
+   "duplicado_de": "trovimap-310832-40799861"
   }
  },
  "estado_previo": {
@@ -6021,7 +6070,7 @@
   "Agost": "ok",
   "Aspe": "ok"
  },
- "actualizado": "2026-11-05T00:59+00:00",
+ "actualizado": "2026-11-05T03:55+00:00",
  "firmas": {
   "Santa Pola|100000|94|3": "trovimap-386974-40914591",
   "Santa Pola|105000|90|3": "trovimap-382244-26263325",
