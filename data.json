@@ -6460,6 +6460,30 @@
     ]
    ],
    "duplicado_de": "trovimap-310737-40870339"
+  },
+  "trovimap-510591-41816080": {
+   "id": "trovimap-510591-41816080",
+   "fuente": "Trovimap",
+   "titulo": "Piso En venta en Almoradí con Ascensor INMO RUBEN ALMODOVAR presenta este piso en Almoradí",
+   "precio": 103000.0,
+   "precio_antes": null,
+   "m2": 100,
+   "hab": 3,
+   "banos": 2,
+   "zona": "Almoradí",
+   "url": "https://www.trovimap.com/inmueble/510591-41816080",
+   "texto": "1.030 €/m² 100 m² 3 2 Piso Compra - Agente Inmobiliario Piso En venta en Almoradí con Ascensor INMO RUBEN ALMODOVAR presenta este piso en Almoradí, con plaza de garaje y trastero incluidos, situado en una tercera planta exterior de un edificio c",
+   "riesgo": null,
+   "incompleto": false,
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "historial": [
+    [
+     "2026-11-06",
+     103000.0
+    ]
+   ],
+   "duplicado_de": "trovimap-484095-41797537"
   }
  },
  "estado_previo": {
@@ -6476,7 +6500,7 @@
   "Agost": "ok",
   "Aspe": "ok"
  },
- "actualizado": "2026-11-06T07:12+00:00",
+ "actualizado": "2026-11-06T10:01+00:00",
  "firmas": {
   "Santa Pola|100000|94|3": "trovimap-386974-40914591",
   "Santa Pola|105000|90|3": "trovimap-382244-26263325",
