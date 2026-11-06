@@ -5164,7 +5164,7 @@
    "incompleto": false,
    "aviso": "muy barato por m² (816 €/m²): comprueba por qué",
    "primera_vez": "2026-11-02",
-   "ultima_vez": "2026-11-05",
+   "ultima_vez": "2026-11-06",
    "historial": [
     [
      "2026-11-02",
@@ -6410,6 +6410,56 @@
     ]
    ],
    "duplicado_de": "trovimap-382244-39381829"
+  },
+  "trovimap-382244-41804640": {
+   "id": "trovimap-382244-41804640",
+   "fuente": "Trovimap",
+   "titulo": "Casas de pueblo en venta en Crevillent, Comunidad valenciana Crevillent 2-11-26. Casa cuev",
+   "precio": 50000.0,
+   "precio_antes": null,
+   "m2": 71,
+   "hab": 3,
+   "banos": 1,
+   "zona": "Crevillent",
+   "url": "https://www.trovimap.com/inmueble/382244-41804640",
+   "texto": "704 €/m² 71 m² 3 1 Casa De Campo Compra - Agente Inmobiliario Casas de pueblo en venta en Crevillent, Comunidad valenciana Crevillent 2-11-26. Casa cueva con terreno delantero. ~Dispone de un salón, con cocina y baño a medio reformar, y la cueva en buenas condiciones.. Visítanos en",
+   "riesgo": null,
+   "incompleto": false,
+   "aviso": "muy barato por m² (704 €/m²): comprueba por qué",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "historial": [
+    [
+     "2026-11-06",
+     50000.0
+    ]
+   ],
+   "duplicado_de": "trovimap-538223-41797193"
+  },
+  "trovimap-382244-41804641": {
+   "id": "trovimap-382244-41804641",
+   "fuente": "Trovimap",
+   "titulo": "Casa en venta en Aspe, Centro Aspe 29694. Inmobiliaria San José pone a la venta una excele",
+   "precio": 51050.0,
+   "precio_antes": null,
+   "m2": 140,
+   "hab": 2,
+   "banos": 1,
+   "zona": "Aspe",
+   "url": "https://www.trovimap.com/inmueble/382244-41804641",
+   "texto": "365 €/m² 140 m² 2 1 Casa Compra - Agente Inmobiliario Casa en venta en Aspe, Centro Aspe 29694. Inmobiliaria San José pone a la venta una excelente oportunidad de inversión en Aspe. Se trata de un amplio casa solar con una superficie const",
+   "riesgo": "inversión",
+   "incompleto": false,
+   "aviso": "muy barato por m² (364 €/m²): comprueba por qué",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "historial": [
+    [
+     "2026-11-06",
+     51050.0
+    ]
+   ],
+   "duplicado_de": "trovimap-310737-40870339"
   }
  },
  "estado_previo": {
@@ -6426,7 +6476,7 @@
   "Agost": "ok",
   "Aspe": "ok"
  },
- "actualizado": "2026-11-06T01:01+00:00",
+ "actualizado": "2026-11-06T03:53+00:00",
  "firmas": {
   "Santa Pola|100000|94|3": "trovimap-386974-40914591",
   "Santa Pola|105000|90|3": "trovimap-382244-26263325",
