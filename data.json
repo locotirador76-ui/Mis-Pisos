@@ -6582,7 +6582,8 @@
      "2026-11-07",
      79500.0
     ]
-   ]
+   ],
+   "aviso": null
   }
  },
  "estado_previo": {
@@ -6599,7 +6600,7 @@
   "Agost": "ok",
   "Aspe": "ok"
  },
- "actualizado": "2026-11-07T09:47+00:00",
+ "actualizado": "2026-11-07T12:48+00:00",
  "firmas": {
   "Santa Pola|100000|94|3": "trovimap-386974-40914591",
   "Santa Pola|105000|90|3": "trovimap-382244-26263325",
