@@ -6560,6 +6560,29 @@
    ],
    "duplicado_de": "trovimap-382244-41721048",
    "aviso": null
+  },
+  "trovimap-384948-41822333": {
+   "id": "trovimap-384948-41822333",
+   "fuente": "Trovimap",
+   "titulo": "VIVIENDA AMUEBLADA Crevillent Atención, amantes de las reformas! 🛠️ Se vende esta joyita e",
+   "precio": 79500.0,
+   "precio_antes": null,
+   "m2": 85,
+   "hab": 3,
+   "banos": 1,
+   "zona": "Crevillent",
+   "url": "https://www.trovimap.com/inmueble/384948-41822333",
+   "texto": "935 €/m² 85 m² 3 1 Nuevo Piso Compra - Agente Inmobiliario VIVIENDA AMUEBLADA Crevillent Atención, amantes de las reformas! 🛠️ Se vende esta joyita en Crevillente que está esperando a ser transformada por tus manos mágicas. Situada en pla",
+   "riesgo": null,
+   "incompleto": false,
+   "primera_vez": "2026-11-07",
+   "ultima_vez": "2026-11-07",
+   "historial": [
+    [
+     "2026-11-07",
+     79500.0
+    ]
+   ]
   }
  },
  "estado_previo": {
@@ -6576,7 +6599,7 @@
   "Agost": "ok",
   "Aspe": "ok"
  },
- "actualizado": "2026-11-07T06:54+00:00",
+ "actualizado": "2026-11-07T09:47+00:00",
  "firmas": {
   "Santa Pola|100000|94|3": "trovimap-386974-40914591",
   "Santa Pola|105000|90|3": "trovimap-382244-26263325",
@@ -6756,7 +6779,8 @@
   "Crevillent|50000|71|3": "trovimap-538223-41797193",
   "Almoradí|113050|91|3": "trovimap-311813-41802777",
   "Crevillent|79900|98|3": "trovimap-385506-41803001",
-  "Aspe|51050|140|2": "trovimap-310737-40870339"
+  "Aspe|51050|140|2": "trovimap-310737-40870339",
+  "Crevillent|79500|85|3": "trovimap-384948-41822333"
  },
  "zonas_base": [
   "Agost",
