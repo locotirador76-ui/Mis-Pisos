@@ -6485,6 +6485,78 @@
    ],
    "duplicado_de": "trovimap-484095-41797537",
    "aviso": null
+  },
+  "trovimap-382244-41817636": {
+   "id": "trovimap-382244-41817636",
+   "fuente": "Trovimap",
+   "titulo": "Apartamento en venta en Almoradi, Centro urbano 2 con Ascensor VRE_5931. Este apartamento ",
+   "precio": 114900.0,
+   "precio_antes": null,
+   "m2": 76,
+   "hab": 2,
+   "banos": 1,
+   "zona": "Almoradí",
+   "url": "https://www.trovimap.com/inmueble/382244-41817636",
+   "texto": "1.512 €/m² 76 m² 2 1 Piso Compra - Agente Inmobiliario Apartamento en venta en Almoradi, Centro urbano 2 con Ascensor VRE_5931. Este apartamento de dos dormitorios en la quinta planta, con orientación sur, se encuentra en Almoradí, en una ubicación privilegiada dentro",
+   "riesgo": null,
+   "incompleto": false,
+   "primera_vez": "2026-11-07",
+   "ultima_vez": "2026-11-07",
+   "historial": [
+    [
+     "2026-11-07",
+     114900.0
+    ]
+   ],
+   "duplicado_de": "trovimap-382244-41721088"
+  },
+  "trovimap-382244-41817625": {
+   "id": "trovimap-382244-41817625",
+   "fuente": "Trovimap",
+   "titulo": "Apartamento en venta en Almoradi, Centro con Ascensor CV02106. Presentamos un atractivo ap",
+   "precio": 109000.0,
+   "precio_antes": null,
+   "m2": 75,
+   "hab": 2,
+   "banos": 1,
+   "zona": "Almoradí",
+   "url": "https://www.trovimap.com/inmueble/382244-41817625",
+   "texto": "1.453 €/m² 75 m² 2 1 Piso Compra - Agente Inmobiliario Apartamento en venta en Almoradi, Centro con Ascensor CV02106. Presentamos un atractivo apartamento situado en el corazón de Almoradi, una ubicación privilegiada que combina comodidad y accesibilidad. Est",
+   "riesgo": null,
+   "incompleto": false,
+   "primera_vez": "2026-11-07",
+   "ultima_vez": "2026-11-07",
+   "historial": [
+    [
+     "2026-11-07",
+     109000.0
+    ]
+   ],
+   "duplicado_de": "trovimap-382244-41721052"
+  },
+  "trovimap-382244-41817619": {
+   "id": "trovimap-382244-41817619",
+   "fuente": "Trovimap",
+   "titulo": "Planta baja en venta en Dolores, Almoradí Zona de - Dolores Dolores SM0046. Descubre esta ",
+   "precio": 105000.0,
+   "precio_antes": null,
+   "m2": 66,
+   "hab": 2,
+   "banos": 1,
+   "zona": "Dolores",
+   "url": "https://www.trovimap.com/inmueble/382244-41817619",
+   "texto": "1.591 €/m² 66 m² 2 1 Piso Compra - Agente Inmobiliario Planta baja en venta en Dolores, Almoradí Zona de - Dolores Dolores SM0046. Descubre esta acogedora vivienda en planta baja, de estilo rústico, situada en una tranquila zona de Dolores (Alicante). Un hogar con encanto,",
+   "riesgo": null,
+   "incompleto": false,
+   "primera_vez": "2026-11-07",
+   "ultima_vez": "2026-11-07",
+   "historial": [
+    [
+     "2026-11-07",
+     105000.0
+    ]
+   ],
+   "duplicado_de": "trovimap-382244-41721048"
   }
  },
  "estado_previo": {
@@ -6501,7 +6573,7 @@
   "Agost": "ok",
   "Aspe": "ok"
  },
- "actualizado": "2026-11-07T00:57+00:00",
+ "actualizado": "2026-11-07T03:49+00:00",
  "firmas": {
   "Santa Pola|100000|94|3": "trovimap-386974-40914591",
   "Santa Pola|105000|90|3": "trovimap-382244-26263325",
