@@ -5187,7 +5187,7 @@
    "riesgo": null,
    "incompleto": false,
    "primera_vez": "2026-11-02",
-   "ultima_vez": "2026-11-07",
+   "ultima_vez": "2026-11-08",
    "historial": [
     [
      "2026-11-02",
@@ -6584,6 +6584,31 @@
     ]
    ],
    "aviso": null
+  },
+  "trovimap-382244-41824587": {
+   "id": "trovimap-382244-41824587",
+   "fuente": "Trovimap",
+   "titulo": "Casa en venta en Aspe, Aspe Aspe 42272. Descubre esta maravillosa casa situada en la encan",
+   "precio": 60000.0,
+   "precio_antes": null,
+   "m2": 142,
+   "hab": 4,
+   "banos": 3,
+   "zona": "Aspe",
+   "url": "https://www.trovimap.com/inmueble/382244-41824587",
+   "texto": "423 €/m² 142 m² 4 3 Casa Compra - Agente Inmobiliario Casa en venta en Aspe, Aspe Aspe 42272. Descubre esta maravillosa casa situada en la encantadora ciudad de Aspe, un lugar ideal tanto para vivir como para invertir. Con una superficie",
+   "riesgo": null,
+   "incompleto": false,
+   "aviso": "muy barato por m² (422 €/m²): comprueba por qué",
+   "primera_vez": "2026-11-08",
+   "ultima_vez": "2026-11-08",
+   "historial": [
+    [
+     "2026-11-08",
+     60000.0
+    ]
+   ],
+   "duplicado_de": "trovimap-382244-41730959"
   }
  },
  "estado_previo": {
@@ -6600,7 +6625,7 @@
   "Agost": "ok",
   "Aspe": "ok"
  },
- "actualizado": "2026-11-08T00:59+00:00",
+ "actualizado": "2026-11-08T03:52+00:00",
  "firmas": {
   "Santa Pola|100000|94|3": "trovimap-386974-40914591",
   "Santa Pola|105000|90|3": "trovimap-382244-26263325",
