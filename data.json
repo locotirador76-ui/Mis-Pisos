@@ -2910,7 +2910,7 @@
    "id": "trovimap-310922-41653595",
    "fuente": "Trovimap",
    "titulo": "OPORTUNIDAD EN CATRAL - SIN ASCENSOR Catral Piso para REFORMAR situado en Catral, Alicante",
-   "precio": 84000.0,
+   "precio": 79000.0,
    "precio_antes": null,
    "m2": 104,
    "hab": 3,
@@ -2920,13 +2920,17 @@
    "texto": "84.000 € 808 €/m² 104 m² 3 2 Piso Compra - Agente Inmobiliario OPORTUNIDAD EN CATRAL - SIN ASCENSOR Catral Piso para REFORMAR situado en Catral, Alicante. Una vivienda amplia y con muchas posibilidades, ideal para quienes buscan una propiedad que puedan act",
    "riesgo": null,
    "incompleto": false,
-   "aviso": "muy barato por m² (807 €/m²): comprueba por qué",
+   "aviso": "muy barato por m² (759 €/m²): comprueba por qué",
    "primera_vez": "2026-11-01",
    "ultima_vez": "2026-11-08",
    "historial": [
     [
      "2026-11-01",
      84000.0
+    ],
+    [
+     "2026-11-08",
+     79000.0
     ]
    ]
   },
@@ -4338,7 +4342,7 @@
    "id": "trovimap-310737-39107359",
    "fuente": "Trovimap",
    "titulo": "VENTA DE PISO EN PLENO CENTRO DE ASPE con Ascensor Descubre este encantador piso ubicado e",
-   "precio": 107260.0,
+   "precio": 117260.0,
    "precio_antes": 116050.0,
    "m2": 109,
    "hab": 3,
@@ -4358,6 +4362,10 @@
     [
      "2026-11-02",
      107260.0
+    ],
+    [
+     "2026-11-08",
+     117260.0
     ]
    ],
    "aviso": null
@@ -4366,7 +4374,7 @@
    "id": "trovimap-310737-39107358",
    "fuente": "Trovimap",
    "titulo": "SE VENDE PISO EN PLENO CENTRO DE ASPE con Ascensor Te presentamos este encantador piso ubi",
-   "precio": 97260.0,
+   "precio": 102260.0,
    "precio_antes": null,
    "m2": 92,
    "hab": 2,
@@ -4382,6 +4390,10 @@
     [
      "2026-11-02",
      97260.0
+    ],
+    [
+     "2026-11-08",
+     102260.0
     ]
    ],
    "aviso": null
@@ -6609,6 +6621,101 @@
     ]
    ],
    "duplicado_de": "trovimap-382244-41730959"
+  },
+  "trovimap-488853-41677075": {
+   "id": "trovimap-488853-41677075",
+   "fuente": "Trovimap",
+   "titulo": "SE VENDE PROPIEDAD EN SAN FULGENCIO San Fulgencio Presentamos esta interesante oportunidad",
+   "precio": 115000.0,
+   "precio_antes": null,
+   "m2": 123,
+   "hab": 3,
+   "banos": 1,
+   "zona": "San Fulgencio",
+   "url": "https://www.trovimap.com/inmueble/488853-41677075",
+   "texto": "935 €/m² 123 m² 3 1 Casa Compra - Agente Inmobiliario SE VENDE PROPIEDAD EN SAN FULGENCIO San Fulgencio Presentamos esta interesante oportunidad de adquirir una propiedad en San Fulgencio, situada en el corazón del pueblo. Esta casa solar cuenta con una",
+   "riesgo": null,
+   "incompleto": false,
+   "primera_vez": "2026-11-08",
+   "ultima_vez": "2026-11-08",
+   "historial": [
+    [
+     "2026-11-08",
+     115000.0
+    ]
+   ]
+  },
+  "trovimap-311417-41828052": {
+   "id": "trovimap-311417-41828052",
+   "fuente": "Trovimap",
+   "titulo": "Piso En venta en Centro, Almoradi con Ascensor Vivienda, Piso de propertyMeters m2 en C. E",
+   "precio": 39000.0,
+   "precio_antes": null,
+   "m2": 61,
+   "hab": 2,
+   "banos": 1,
+   "zona": "Almoradí",
+   "url": "https://www.trovimap.com/inmueble/311417-41828052",
+   "texto": "639 €/m² 61 m² 2 1 Nuevo Piso Compra - Agente Inmobiliario Piso En venta en Centro, Almoradi con Ascensor Vivienda, Piso de propertyMeters m2 en C. Escorial, 26. Almoradi, Alicante). En. propertyOperation por 39900€ Entra y pide más información!",
+   "riesgo": null,
+   "incompleto": false,
+   "aviso": "muy barato por m² (639 €/m²): comprueba por qué",
+   "primera_vez": "2026-11-08",
+   "ultima_vez": "2026-11-08",
+   "historial": [
+    [
+     "2026-11-08",
+     39000.0
+    ]
+   ]
+  },
+  "trovimap-311417-41828054": {
+   "id": "trovimap-311417-41828054",
+   "fuente": "Trovimap",
+   "titulo": "Unifamiliar Pareada En venta en Camino De Catral, Almoradi Almoradí Vivienda ubicada en la",
+   "precio": 65500.0,
+   "precio_antes": null,
+   "m2": 88,
+   "hab": 3,
+   "banos": 1,
+   "zona": "Almoradí",
+   "url": "https://www.trovimap.com/inmueble/311417-41828054",
+   "texto": "744 €/m² 88 m² 3 1 Nuevo Unifamiliar Pareada Compra - Agente Inmobiliario Unifamiliar Pareada En venta en Camino De Catral, Almoradi Almoradí Vivienda ubicada en la población de Almoradí, Alicante. Casa Adosada se distribuye en Salón-comedor, 3 habitaciones, 1 baño y jardín. NECESITA REFORMA",
+   "riesgo": null,
+   "incompleto": false,
+   "aviso": "muy barato por m² (744 €/m²): comprueba por qué",
+   "primera_vez": "2026-11-08",
+   "ultima_vez": "2026-11-08",
+   "historial": [
+    [
+     "2026-11-08",
+     65500.0
+    ]
+   ]
+  },
+  "trovimap-484724-41829126": {
+   "id": "trovimap-484724-41829126",
+   "fuente": "Trovimap",
+   "titulo": "Venta de Casa en (Alicante/Alacant) Crevillent ¡OPORTUNIDAD VENTA SIN POSESIÓN - ALQUILADO",
+   "precio": 80000.0,
+   "precio_antes": null,
+   "m2": 83,
+   "hab": 3,
+   "banos": 2,
+   "zona": "Crevillent",
+   "url": "https://www.trovimap.com/inmueble/484724-41829126",
+   "texto": "964 €/m² 83 m² 3 2 Nuevo Casa Compra - Agente Inmobiliario Venta de Casa en (Alicante/Alacant) Crevillent ¡OPORTUNIDAD VENTA SIN POSESIÓN - ALQUILADO! LEA LAS CONDICIONES a continuación.LA FOTO NO IDENTIFICA LA INMUEBLE EXACTA, SOLO LA ZONA.Atención person",
+   "riesgo": "SIN POSESIÓN",
+   "incompleto": false,
+   "primera_vez": "2026-11-08",
+   "ultima_vez": "2026-11-08",
+   "historial": [
+    [
+     "2026-11-08",
+     80000.0
+    ]
+   ],
+   "duplicado_de": "trovimap-524132-41767174"
   }
  },
  "estado_previo": {
@@ -6625,7 +6732,7 @@
   "Agost": "ok",
   "Aspe": "ok"
  },
- "actualizado": "2026-11-08T06:56+00:00",
+ "actualizado": "2026-11-08T09:46+00:00",
  "firmas": {
   "Santa Pola|100000|94|3": "trovimap-386974-40914591",
   "Santa Pola|105000|90|3": "trovimap-382244-26263325",
@@ -6806,7 +6913,10 @@
   "Almoradí|113050|91|3": "trovimap-311813-41802777",
   "Crevillent|79900|98|3": "trovimap-385506-41803001",
   "Aspe|51050|140|2": "trovimap-310737-40870339",
-  "Crevillent|79500|85|3": "trovimap-384948-41822333"
+  "Crevillent|79500|85|3": "trovimap-384948-41822333",
+  "San Fulgencio|115000|123|3": "trovimap-488853-41677075",
+  "Almoradí|39000|61|2": "trovimap-311417-41828052",
+  "Almoradí|65500|88|3": "trovimap-311417-41828054"
  },
  "zonas_base": [
   "Agost",
