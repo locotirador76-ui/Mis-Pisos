@@ -6718,6 +6718,56 @@
    ],
    "duplicado_de": "trovimap-524132-41767174",
    "aviso": null
+  },
+  "trovimap-382244-41830592": {
+   "id": "trovimap-382244-41830592",
+   "fuente": "Trovimap",
+   "titulo": "Casa en venta en Aspe, Aspe Aspe 28376. VENTA DE CASA-ALMACEN EN ASPE,ZONA PROSPERIDAD. 10",
+   "precio": 82000.0,
+   "precio_antes": null,
+   "m2": 101,
+   "hab": 3,
+   "banos": 1,
+   "zona": "Aspe",
+   "url": "https://www.trovimap.com/inmueble/382244-41830592",
+   "texto": "812 €/m² 101 m² 3 1 Casa Compra - Agente Inmobiliario Casa en venta en Aspe, Aspe Aspe 28376. VENTA DE CASA-ALMACEN EN ASPE,ZONA PROSPERIDAD. 101.00 m. de superficie, un aseo, propiedad Para reformar. Extras: agua, esquina, luz, techos",
+   "riesgo": null,
+   "incompleto": false,
+   "aviso": "muy barato por m² (811 €/m²): comprueba por qué",
+   "primera_vez": "2026-11-09",
+   "ultima_vez": "2026-11-09",
+   "historial": [
+    [
+     "2026-11-09",
+     82000.0
+    ]
+   ],
+   "duplicado_de": "trovimap-382244-41738064"
+  },
+  "trovimap-382244-41830083": {
+   "id": "trovimap-382244-41830083",
+   "fuente": "Trovimap",
+   "titulo": "Adosada en venta en Aspe, El castillo Aspe 39659. Casa adosada de 2 plantas~ ~ La vivienda",
+   "precio": 71000.0,
+   "precio_antes": null,
+   "m2": 190,
+   "hab": 4,
+   "banos": 2,
+   "zona": "Aspe",
+   "url": "https://www.trovimap.com/inmueble/382244-41830083",
+   "texto": "374 €/m² 190 m² 4 2 Unifamiliar Pareada Compra - Agente Inmobiliario Adosada en venta en Aspe, El castillo Aspe 39659. Casa adosada de 2 plantas~ ~ La vivienda esta integra para reformar~ ~ la planta baja distribuida 2 dormitorios salón, cocina, aseo y un peque",
+   "riesgo": null,
+   "incompleto": false,
+   "aviso": "muy barato por m² (373 €/m²): comprueba por qué",
+   "primera_vez": "2026-11-09",
+   "ultima_vez": "2026-11-09",
+   "historial": [
+    [
+     "2026-11-09",
+     71000.0
+    ]
+   ],
+   "duplicado_de": "trovimap-382244-41737511"
   }
  },
  "estado_previo": {
@@ -6734,7 +6784,7 @@
   "Agost": "ok",
   "Aspe": "ok"
  },
- "actualizado": "2026-11-09T01:01+00:00",
+ "actualizado": "2026-11-09T03:56+00:00",
  "firmas": {
   "Santa Pola|100000|94|3": "trovimap-386974-40914591",
   "Santa Pola|105000|90|3": "trovimap-382244-26263325",
