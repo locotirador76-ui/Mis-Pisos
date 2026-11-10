@@ -6791,7 +6791,8 @@
      120000.0
     ]
    ],
-   "duplicado_de": "trovimap-382244-41744819"
+   "duplicado_de": "trovimap-382244-41744819",
+   "aviso": null
   },
   "trovimap-382244-41836270": {
    "id": "trovimap-382244-41836270",
@@ -6815,7 +6816,8 @@
      111200.0
     ]
    ],
-   "duplicado_de": "trovimap-382244-41744757"
+   "duplicado_de": "trovimap-382244-41744757",
+   "aviso": null
   },
   "trovimap-382244-41835157": {
    "id": "trovimap-382244-41835157",
@@ -6839,7 +6841,8 @@
      79500.0
     ]
    ],
-   "duplicado_de": "trovimap-384948-41822333"
+   "duplicado_de": "trovimap-384948-41822333",
+   "aviso": null
   },
   "trovimap-382244-41836136": {
    "id": "trovimap-382244-41836136",
@@ -6906,7 +6909,7 @@
   "Agost": "ok",
   "Aspe": "ok"
  },
- "actualizado": "2026-11-10T03:50+00:00",
+ "actualizado": "2026-11-10T07:04+00:00",
  "firmas": {
   "Santa Pola|100000|94|3": "trovimap-386974-40914591",
   "Santa Pola|105000|90|3": "trovimap-382244-26263325",
