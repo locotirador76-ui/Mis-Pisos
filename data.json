@@ -2463,7 +2463,7 @@
    "riesgo": "INQUILIN",
    "incompleto": false,
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-08",
+   "ultima_vez": "2026-11-11",
    "historial": [
     [
      "2026-11-01",
@@ -3840,7 +3840,7 @@
    "id": "trovimap-384948-41775496",
    "fuente": "Trovimap",
    "titulo": "VIVIENDA CENTRICA Crevillent 🏡 Les presentamos esta vivienda cerca del Paseo Fontenay. Muy",
-   "precio": 99000.0,
+   "precio": 89000.0,
    "precio_antes": null,
    "m2": 85,
    "hab": 3,
@@ -3856,6 +3856,10 @@
     [
      "2026-11-02",
      99000.0
+    ],
+    [
+     "2026-11-11",
+     89000.0
     ]
    ],
    "duplicado_de": "trovimap-382244-41787422",
@@ -6992,6 +6996,158 @@
    ],
    "duplicado_de": "trovimap-382244-41749299",
    "aviso": null
+  },
+  "trovimap-481123-41365499": {
+   "id": "trovimap-481123-41365499",
+   "fuente": "Trovimap",
+   "titulo": "SE VENDE APARTAMENTO DE 2 DORMITORIO CON GARAJE INCLUIDO Y PISCINA COMUNITARIA EN ALMORADI",
+   "precio": 120000.0,
+   "precio_antes": null,
+   "m2": 108,
+   "hab": 2,
+   "banos": 2,
+   "zona": "Almoradí",
+   "url": "https://www.trovimap.com/inmueble/481123-41365499",
+   "texto": "1.111 €/m² 108 m² 2 2 Piso Compra - Agente Inmobiliario SE VENDE APARTAMENTO DE 2 DORMITORIO CON GARAJE INCLUIDO Y PISCINA COMUNITARIA EN ALMORADI con Ascensor Te presentamos un magnífico apartamento a estrenar en el corazón de Almoradí, ideal para quienes buscan comodidad y estilo. Con una superficie constru",
+   "riesgo": null,
+   "incompleto": false,
+   "primera_vez": "2026-11-11",
+   "ultima_vez": "2026-11-11",
+   "historial": [
+    [
+     "2026-11-11",
+     120000.0
+    ]
+   ],
+   "duplicado_de": "trovimap-382244-41744819"
+  },
+  "trovimap-481123-41438873": {
+   "id": "trovimap-481123-41438873",
+   "fuente": "Trovimap",
+   "titulo": "SE VENDE APARTAMENTO DE DOS DORMITORIOS ZONA CENTRO ALMORADI con Ascensor Presentamos un a",
+   "precio": 109000.0,
+   "precio_antes": 113000.0,
+   "m2": 75,
+   "hab": 2,
+   "banos": 1,
+   "zona": "Almoradí",
+   "url": "https://www.trovimap.com/inmueble/481123-41438873",
+   "texto": "113.000 € 75 m² 2 1 Piso Compra - Agente Inmobiliario SE VENDE APARTAMENTO DE DOS DORMITORIOS ZONA CENTRO ALMORADI con Ascensor Presentamos un atractivo apartamento situado en el corazón de Almoradi, una ubicación privilegiada que combina comodidad y accesibilidad. Este inmuebl",
+   "riesgo": null,
+   "incompleto": false,
+   "primera_vez": "2026-11-11",
+   "ultima_vez": "2026-11-11",
+   "historial": [
+    [
+     "2026-11-11",
+     113000.0
+    ],
+    [
+     "2026-11-11",
+     109000.0
+    ]
+   ],
+   "duplicado_de": "trovimap-382244-41721052"
+  },
+  "trovimap-481123-41417554": {
+   "id": "trovimap-481123-41417554",
+   "fuente": "Trovimap",
+   "titulo": "SE VENDE LOCAL COMERCIAL CON VIVIENDA DE 200 MTS2 EN ALMORADI Almoradí ¡Oportunidad única ",
+   "precio": 120000.0,
+   "precio_antes": 180000.0,
+   "m2": 254,
+   "hab": 2,
+   "banos": 2,
+   "zona": "Almoradí",
+   "url": "https://www.trovimap.com/inmueble/481123-41417554",
+   "texto": "180.000 € 254 m² 2 2 Dúplex Compra - Agente Inmobiliario SE VENDE LOCAL COMERCIAL CON VIVIENDA DE 200 MTS2 EN ALMORADI Almoradí ¡Oportunidad única en Almoradí! Este amplio local de 200 m2, que además cuenta con una vivienda integrada, se encuentra ubicado en una de las mejores",
+   "riesgo": null,
+   "incompleto": false,
+   "aviso": "muy barato por m² (472 €/m²): comprueba por qué",
+   "primera_vez": "2026-11-11",
+   "ultima_vez": "2026-11-11",
+   "historial": [
+    [
+     "2026-11-11",
+     180000.0
+    ],
+    [
+     "2026-11-11",
+     120000.0
+    ]
+   ],
+   "duplicado_de": "trovimap-382244-41701042"
+  },
+  "trovimap-382197-41849043": {
+   "id": "trovimap-382197-41849043",
+   "fuente": "Trovimap",
+   "titulo": "Hermoso apartamento en planta baja, muy bien conservado, situado en Dolores (Alicante) y c",
+   "precio": 119000.0,
+   "precio_antes": null,
+   "m2": 81,
+   "hab": 2,
+   "banos": 2,
+   "zona": "Dolores",
+   "url": "https://www.trovimap.com/inmueble/382197-41849043",
+   "texto": "1.469 €/m² 81 m² 2 2 Nuevo Piso Compra - Agente Inmobiliario Hermoso apartamento en planta baja, muy bien conservado, situado en Dolores (Alicante) y con una amplia terraza. con Ascensor Hermoso apartamento en planta baja, muy bien conservado, situado en Dolores (Alicante) y con una amplia terraza. La propiedad cuenta con 2 dormitorios",
+   "riesgo": null,
+   "incompleto": false,
+   "primera_vez": "2026-11-11",
+   "ultima_vez": "2026-11-11",
+   "historial": [
+    [
+     "2026-11-11",
+     119000.0
+    ]
+   ]
+  },
+  "trovimap-411412-41849180": {
+   "id": "trovimap-411412-41849180",
+   "fuente": "Trovimap",
+   "titulo": "SE VENDE PISO con Ascensor Se vende piso amueblado de 149 m2 en la zona del Ayuntamiento. ",
+   "precio": 114000.0,
+   "precio_antes": null,
+   "m2": 149,
+   "hab": 3,
+   "banos": 2,
+   "zona": "Crevillent",
+   "url": "https://www.trovimap.com/inmueble/411412-41849180",
+   "texto": "765 €/m² 149 m² 3 2 Nuevo Piso Compra - Agente Inmobiliario SE VENDE PISO con Ascensor Se vende piso amueblado de 149 m2 en la zona del Ayuntamiento. El piso consta de ; 3 habitaciones ( posibilidad de 4) un baño, un aseo , un patio, una",
+   "riesgo": null,
+   "incompleto": false,
+   "aviso": "muy barato por m² (765 €/m²): comprueba por qué",
+   "primera_vez": "2026-11-11",
+   "ultima_vez": "2026-11-11",
+   "historial": [
+    [
+     "2026-11-11",
+     114000.0
+    ]
+   ],
+   "duplicado_de": "trovimap-382244-41845925"
+  },
+  "trovimap-504911-41849741": {
+   "id": "trovimap-504911-41849741",
+   "fuente": "Trovimap",
+   "titulo": "Vivienda de 75 m2 con tres habitaciones Mutxamel Se presenta esta vivienda de 75 m2, una e",
+   "precio": 85000.0,
+   "precio_antes": null,
+   "m2": 78,
+   "hab": 3,
+   "banos": 1,
+   "zona": "Mutxamel",
+   "url": "https://www.trovimap.com/inmueble/504911-41849741",
+   "texto": "1.090 €/m² 78 m² 3 1 Nuevo Piso Compra - Agente Inmobiliario Vivienda de 75 m2 con tres habitaciones Mutxamel Se presenta esta vivienda de 75 m2, una excelente oportunidad para quienes buscan una propiedad que puedan reformar y diseñar completamente a su gusto",
+   "riesgo": null,
+   "incompleto": false,
+   "primera_vez": "2026-11-11",
+   "ultima_vez": "2026-11-11",
+   "historial": [
+    [
+     "2026-11-11",
+     85000.0
+    ]
+   ]
   }
  },
  "estado_previo": {
@@ -7008,7 +7164,7 @@
   "Agost": "ok",
   "Aspe": "ok"
  },
- "actualizado": "2026-11-11T07:10+00:00",
+ "actualizado": "2026-11-11T09:59+00:00",
  "firmas": {
   "Santa Pola|100000|94|3": "trovimap-386974-40914591",
   "Santa Pola|105000|90|3": "trovimap-382244-26263325",
@@ -7193,7 +7349,9 @@
   "San Fulgencio|115000|123|3": "trovimap-488853-41677075",
   "Almoradí|39000|61|2": "trovimap-311417-41828052",
   "Almoradí|65500|88|3": "trovimap-311417-41828054",
-  "Crevillent|114000|149|3": "trovimap-382244-41845925"
+  "Crevillent|114000|149|3": "trovimap-382244-41845925",
+  "Dolores|119000|81|2": "trovimap-382197-41849043",
+  "Mutxamel|85000|78|3": "trovimap-504911-41849741"
  },
  "zonas_base": [
   "Agost",
