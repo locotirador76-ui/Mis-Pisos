@@ -516,7 +516,7 @@
    "riesgo": null,
    "incompleto": false,
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-10",
+   "ultima_vez": "2026-11-11",
    "historial": [
     [
      "2026-11-01",
@@ -6893,6 +6893,103 @@
     ]
    ],
    "duplicado_de": "trovimap-382244-41743802"
+  },
+  "trovimap-382244-41845869": {
+   "id": "trovimap-382244-41845869",
+   "fuente": "Trovimap",
+   "titulo": "Piso en venta en Catral, Comunidad valenciana Catral VBS457. ~~En VBS Inmobiliaria te pres",
+   "precio": 98000.0,
+   "precio_antes": null,
+   "m2": 100,
+   "hab": 3,
+   "banos": 1,
+   "zona": "Catral",
+   "url": "https://www.trovimap.com/inmueble/382244-41845869",
+   "texto": "980 €/m² 100 m² 3 1 Piso Compra - Agente Inmobiliario Piso en venta en Catral, Comunidad valenciana Catral VBS457. ~~En VBS Inmobiliaria te presentamos esta fantástica vivienda en primera planta, ideal para quienes buscan comodidad, espacios al aire libre y",
+   "riesgo": null,
+   "incompleto": false,
+   "primera_vez": "2026-11-11",
+   "ultima_vez": "2026-11-11",
+   "historial": [
+    [
+     "2026-11-11",
+     98000.0
+    ]
+   ],
+   "duplicado_de": "trovimap-382244-41749033"
+  },
+  "trovimap-382244-41845925": {
+   "id": "trovimap-382244-41845925",
+   "fuente": "Trovimap",
+   "titulo": "Piso en venta en Crevillent, AYUNTAMIENTO con Ascensor 9978. Se vende piso amueblado de 14",
+   "precio": 114000.0,
+   "precio_antes": null,
+   "m2": 149,
+   "hab": 3,
+   "banos": 2,
+   "zona": "Crevillent",
+   "url": "https://www.trovimap.com/inmueble/382244-41845925",
+   "texto": "765 €/m² 149 m² 3 2 Piso Compra - Agente Inmobiliario Piso en venta en Crevillent, AYUNTAMIENTO con Ascensor 9978. Se vende piso amueblado de 149 m2 en la zona del Ayuntamiento. El piso consta de ; 3 habitaciones ( posibilidad de 4) un baño, un aseo , un pati",
+   "riesgo": null,
+   "incompleto": false,
+   "aviso": "muy barato por m² (765 €/m²): comprueba por qué",
+   "primera_vez": "2026-11-11",
+   "ultima_vez": "2026-11-11",
+   "historial": [
+    [
+     "2026-11-11",
+     114000.0
+    ]
+   ]
+  },
+  "trovimap-382244-41846093": {
+   "id": "trovimap-382244-41846093",
+   "fuente": "Trovimap",
+   "titulo": "Casa con terreno en venta en Aspe, Borisa Aspe 28807. INMOBILIARIA SAN JOSE VENDE CASA DE ",
+   "precio": 120000.0,
+   "precio_antes": null,
+   "m2": 282,
+   "hab": 6,
+   "banos": 5,
+   "zona": "Aspe",
+   "url": "https://www.trovimap.com/inmueble/382244-41846093",
+   "texto": "426 €/m² 282 m² 6 5 Casa Compra - Agente Inmobiliario Casa con terreno en venta en Aspe, Borisa Aspe 28807. INMOBILIARIA SAN JOSE VENDE CASA DE CAMPO PARA REFORMAR TOTALMENTE EN ASPE CON 282 m. de superficie construida, 11928 m. superficie parcela, 4",
+   "riesgo": null,
+   "incompleto": false,
+   "aviso": "muy barato por m² (425 €/m²): comprueba por qué",
+   "primera_vez": "2026-11-11",
+   "ultima_vez": "2026-11-11",
+   "historial": [
+    [
+     "2026-11-11",
+     120000.0
+    ]
+   ],
+   "duplicado_de": "trovimap-382244-41749386"
+  },
+  "trovimap-382244-41846034": {
+   "id": "trovimap-382244-41846034",
+   "fuente": "Trovimap",
+   "titulo": "Casa en venta en Aspe, Sagrado corazón Aspe 06936. SE VENDE CASA PARA REFORMAR EN LA ZONA ",
+   "precio": 119000.0,
+   "precio_antes": null,
+   "m2": 120,
+   "hab": 3,
+   "banos": 1,
+   "zona": "Aspe",
+   "url": "https://www.trovimap.com/inmueble/382244-41846034",
+   "texto": "992 €/m² 120 m² 3 1 Casa Compra - Agente Inmobiliario Casa en venta en Aspe, Sagrado corazón Aspe 06936. SE VENDE CASA PARA REFORMAR EN LA ZONA DEL CORAZÓN DE JESÚS EN ASPE con 120 m. de superficie construida y 150 m. superficie de parcela, con 3 h",
+   "riesgo": null,
+   "incompleto": false,
+   "primera_vez": "2026-11-11",
+   "ultima_vez": "2026-11-11",
+   "historial": [
+    [
+     "2026-11-11",
+     119000.0
+    ]
+   ],
+   "duplicado_de": "trovimap-382244-41749299"
   }
  },
  "estado_previo": {
@@ -6909,7 +7006,7 @@
   "Agost": "ok",
   "Aspe": "ok"
  },
- "actualizado": "2026-11-11T00:59+00:00",
+ "actualizado": "2026-11-11T03:55+00:00",
  "firmas": {
   "Santa Pola|100000|94|3": "trovimap-386974-40914591",
   "Santa Pola|105000|90|3": "trovimap-382244-26263325",
@@ -7093,7 +7190,8 @@
   "Crevillent|79500|85|3": "trovimap-384948-41822333",
   "San Fulgencio|115000|123|3": "trovimap-488853-41677075",
   "Almoradí|39000|61|2": "trovimap-311417-41828052",
-  "Almoradí|65500|88|3": "trovimap-311417-41828054"
+  "Almoradí|65500|88|3": "trovimap-311417-41828054",
+  "Crevillent|114000|149|3": "trovimap-382244-41845925"
  },
  "zonas_base": [
   "Agost",
