@@ -1061,7 +1061,7 @@
    "riesgo": null,
    "incompleto": false,
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-11",
+   "ultima_vez": "2026-11-12",
    "historial": [
     [
      "2026-11-01",
@@ -7152,6 +7152,30 @@
     ]
    ],
    "aviso": null
+  },
+  "trovimap-484724-41854005": {
+   "id": "trovimap-484724-41854005",
+   "fuente": "Trovimap",
+   "titulo": "Venta piso en Aspe Aspe ¡¡ CESIÓN DE REMATE - POSIBLE OCUPACIÓN DEL INMUEBLE !! LEA LAS CO",
+   "precio": 79954.0,
+   "precio_antes": null,
+   "m2": 111,
+   "hab": 4,
+   "banos": 2,
+   "zona": "Aspe",
+   "url": "https://www.trovimap.com/inmueble/484724-41854005",
+   "texto": "720 €/m² 111 m² 4 2 Nuevo Piso Compra - Agente Inmobiliario Venta piso en Aspe Aspe ¡¡ CESIÓN DE REMATE - POSIBLE OCUPACIÓN DEL INMUEBLE !! LEA LAS CONDICIONES DE COMPRA.El inmueble no se puede visitar por desconocer su estado de ocup",
+   "riesgo": "CESIÓN DE REMATE",
+   "incompleto": false,
+   "aviso": "muy barato por m² (720 €/m²): comprueba por qué",
+   "primera_vez": "2026-11-12",
+   "ultima_vez": "2026-11-12",
+   "historial": [
+    [
+     "2026-11-12",
+     79954.0
+    ]
+   ]
   }
  },
  "estado_previo": {
@@ -7168,7 +7192,7 @@
   "Agost": "ok",
   "Aspe": "ok"
  },
- "actualizado": "2026-11-12T07:14+00:00",
+ "actualizado": "2026-11-12T10:00+00:00",
  "firmas": {
   "Santa Pola|100000|94|3": "trovimap-386974-40914591",
   "Santa Pola|105000|90|3": "trovimap-382244-26263325",
@@ -7355,7 +7379,8 @@
   "Almoradí|65500|88|3": "trovimap-311417-41828054",
   "Crevillent|114000|149|3": "trovimap-382244-41845925",
   "Dolores|119000|81|2": "trovimap-382197-41849043",
-  "Mutxamel|85000|78|3": "trovimap-504911-41849741"
+  "Mutxamel|85000|78|3": "trovimap-504911-41849741",
+  "Aspe|79954|111|4": "trovimap-484724-41854005"
  },
  "zonas_base": [
   "Agost",
