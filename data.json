@@ -2185,7 +2185,7 @@
    "id": "trovimap-522193-41510670",
    "fuente": "Trovimap",
    "titulo": "Piso en Almoradí Almoradí ¿Buscas amplitud, comodidad y tenerlo todo a un paso? Descubre e",
-   "precio": 89900.0,
+   "precio": 87000.0,
    "precio_antes": 89900.0,
    "m2": 102,
    "hab": 4,
@@ -2195,7 +2195,7 @@
    "texto": "Comprar Pisos y Casas en Almoradí, Alicante/Alacant - página 3 | Trovimap --> --> Toggle navigation this.getMessages()\"> this.getMessages()\"> this.getMessages()\"> this.getMessages()\"> Precios Valora tu inmueble Blog Anúnciate gratis Entrar Máx 120.000 € Mín 60 m² Habitaciones (2+) Filtros Estadísticas Históricas Guardar búsqueda Mostrar límites : 59 Alicante/Alacant Almoradí Alicante/Alacant Murcia Albacete Valencia/València Almería Granada Cuenca Jaén Castellón/Castelló Teruel Algorfa Almoradí Rojales Benejúzar Orihuela Daya Nueva Benijófar Formentera del Segura Jacarilla Los Montesinos Pisos",
    "riesgo": null,
    "incompleto": false,
-   "aviso": "muy barato por m² (881 €/m²): comprueba por qué",
+   "aviso": "muy barato por m² (852 €/m²): comprueba por qué",
    "primera_vez": "2026-11-01",
    "ultima_vez": "2026-11-13",
    "historial": [
@@ -2206,6 +2206,10 @@
     [
      "2026-11-02",
      89900.0
+    ],
+    [
+     "2026-11-13",
+     87000.0
     ]
    ]
   },
@@ -7196,7 +7200,7 @@
   "Agost": "ok",
   "Aspe": "ok"
  },
- "actualizado": "2026-11-13T07:12+00:00",
+ "actualizado": "2026-11-13T09:59+00:00",
  "firmas": {
   "Santa Pola|100000|94|3": "trovimap-386974-40914591",
   "Santa Pola|105000|90|3": "trovimap-382244-26263325",
