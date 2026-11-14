@@ -4008,7 +4008,7 @@
    "titulo": "CASA EN LA ZONA CERCA DEL PASEO CALVARIO Crevillent 🌟 Oportunidad única de adquirir una ca",
    "precio": 110000.0,
    "precio_antes": 120000.0,
-   "m2": 78,
+   "m2": 90,
    "hab": 3,
    "banos": 1,
    "zona": "Crevillent",
@@ -7239,7 +7239,8 @@
      119900.0
     ]
    ],
-   "duplicado_de": "trovimap-510062-41376354"
+   "duplicado_de": "trovimap-510062-41376354",
+   "aviso": null
   },
   "trovimap-382244-41861091": {
    "id": "trovimap-382244-41861091",
@@ -7313,7 +7314,8 @@
      100000.0
     ]
    ],
-   "duplicado_de": "trovimap-385506-41728630"
+   "duplicado_de": "trovimap-385506-41728630",
+   "aviso": null
   },
   "trovimap-382244-41860811": {
    "id": "trovimap-382244-41860811",
@@ -7362,7 +7364,8 @@
      105000.0
     ]
    ],
-   "duplicado_de": "trovimap-382244-41764425"
+   "duplicado_de": "trovimap-382244-41764425",
+   "aviso": null
   },
   "trovimap-382244-41860698": {
    "id": "trovimap-382244-41860698",
@@ -7411,7 +7414,8 @@
      89000.0
     ]
    ],
-   "duplicado_de": "trovimap-311695-41735605"
+   "duplicado_de": "trovimap-311695-41735605",
+   "aviso": null
   },
   "trovimap-382244-41861025": {
    "id": "trovimap-382244-41861025",
@@ -7483,7 +7487,8 @@
      "2026-11-14",
      89900.0
     ]
-   ]
+   ],
+   "aviso": null
   },
   "trovimap-382244-41861497": {
    "id": "trovimap-382244-41861497",
@@ -7507,7 +7512,8 @@
      102260.0
     ]
    ],
-   "duplicado_de": "trovimap-310737-39107358"
+   "duplicado_de": "trovimap-310737-39107358",
+   "aviso": null
   },
   "trovimap-382244-41861757": {
    "id": "trovimap-382244-41861757",
@@ -7531,7 +7537,8 @@
      117260.0
     ]
    ],
-   "duplicado_de": "trovimap-310737-39107359"
+   "duplicado_de": "trovimap-310737-39107359",
+   "aviso": null
   },
   "trovimap-382244-41860870": {
    "id": "trovimap-382244-41860870",
@@ -7579,7 +7586,8 @@
      116000.0
     ]
    ],
-   "duplicado_de": "trovimap-521988-40323836"
+   "duplicado_de": "trovimap-521988-40323836",
+   "aviso": null
   },
   "trovimap-382244-41861742": {
    "id": "trovimap-382244-41861742",
@@ -7603,7 +7611,8 @@
      116000.0
     ]
    ],
-   "duplicado_de": "trovimap-310737-40219034"
+   "duplicado_de": "trovimap-310737-40219034",
+   "aviso": null
   },
   "trovimap-382244-41860730": {
    "id": "trovimap-382244-41860730",
@@ -7702,7 +7711,8 @@
      106050.0
     ]
    ],
-   "duplicado_de": "trovimap-310737-39137753"
+   "duplicado_de": "trovimap-310737-39137753",
+   "aviso": null
   },
   "trovimap-382244-41860676": {
    "id": "trovimap-382244-41860676",
@@ -7822,7 +7832,7 @@
   "Agost": "ok",
   "Aspe": "ok"
  },
- "actualizado": "2026-11-14T06:57+00:00",
+ "actualizado": "2026-11-14T09:46+00:00",
  "firmas": {
   "Santa Pola|100000|94|3": "trovimap-386974-40914591",
   "Santa Pola|105000|90|3": "trovimap-382244-26263325",
@@ -7864,7 +7874,7 @@
   "San Fulgencio|116100|70|2": "trovimap-510591-38623279",
   "Almoradí|114999|80|2": "trovimap-381187-41785219",
   "Almoradí|70000|102|3": "trovimap-382244-41777061",
-  "Almoradí|89900|102|4": "trovimap-382244-41780400",
+  "Almoradí|87000|102|4": "trovimap-522193-41510670",
   "Almoradí|120000|108|2": "trovimap-382244-41744819",
   "Almoradí|111200|69|2": "trovimap-382244-41744757",
   "Almoradí|103999|119|4": "trovimap-381187-41712766",
@@ -7891,7 +7901,6 @@
   "Almoradí|115000|65|2": "trovimap-382244-39743402",
   "Almoradí|75000|121|3": "trovimap-382244-41720895",
   "Almoradí|120000|82|2": "trovimap-532074-38790844",
-  "Almoradí|87000|102|4": "trovimap-522193-41510670",
   "Almoradí|75000|121|4": "trovimap-310922-41538947",
   "Almoradí|84000|118|4": "trovimap-310832-41592815",
   "Almoradí|100000|127|3": "trovimap-310832-40799861",
@@ -7936,7 +7945,7 @@
   "Crevillent|117000|84|2": "trovimap-382244-41573594",
   "Crevillent|120000|112|3": "trovimap-382244-39804680",
   "Crevillent|99900|85|3": "trovimap-382244-41769738",
-  "Crevillent|99000|85|3": "trovimap-382244-41787422",
+  "Crevillent|89000|85|3": "trovimap-382244-41787422",
   "Crevillent|80000|83|3": "trovimap-524132-41767174",
   "Crevillent|120000|128|3": "trovimap-519334-41766871",
   "Crevillent|80000|70|2": "trovimap-382244-41627420",
