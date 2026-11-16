@@ -8012,6 +8012,31 @@
     ]
    ],
    "aviso": null
+  },
+  "trovimap-382244-41888089": {
+   "id": "trovimap-382244-41888089",
+   "fuente": "Trovimap",
+   "titulo": "Casa en venta en Aspe, La nía Aspe 29720. Presentamos esta MAGNIFICA CASA ADOSADA en la tr",
+   "precio": 89900.0,
+   "precio_antes": null,
+   "m2": 105,
+   "hab": 5,
+   "banos": 1,
+   "zona": "Aspe",
+   "url": "https://www.trovimap.com/inmueble/382244-41888089",
+   "texto": "856 €/m² 105 m² 5 1 Casa Compra - Agente Inmobiliario Casa en venta en Aspe, La nía Aspe 29720. Presentamos esta MAGNIFICA CASA ADOSADA en la tranquila zona de La Nía, ASPE . Con una superficie construida de 105 m2 y un terreno que abarca",
+   "riesgo": null,
+   "incompleto": false,
+   "aviso": "muy barato por m² (856 €/m²): comprueba por qué",
+   "primera_vez": "2026-11-16",
+   "ultima_vez": "2026-11-16",
+   "historial": [
+    [
+     "2026-11-16",
+     89900.0
+    ]
+   ],
+   "duplicado_de": "trovimap-382244-41777099"
   }
  },
  "estado_previo": {
@@ -8028,7 +8053,7 @@
   "Agost": "ok",
   "Aspe": "ok"
  },
- "actualizado": "2026-11-16T01:22+00:00",
+ "actualizado": "2026-11-16T04:11+00:00",
  "firmas": {
   "Santa Pola|100000|94|3": "trovimap-386974-40914591",
   "Santa Pola|105000|90|3": "trovimap-382244-26263325",
