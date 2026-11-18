@@ -2277,7 +2277,7 @@
    "id": "trovimap-310832-40799861",
    "fuente": "Trovimap",
    "titulo": "Amplio y luminoso piso en el corazón de Almoradí Almoradí Fantástico piso en Almoradí, ubi",
-   "precio": 100000.0,
+   "precio": 104900.0,
    "precio_antes": 109900.0,
    "m2": 127,
    "hab": 3,
@@ -2287,7 +2287,7 @@
    "texto": "100.000 € 109.900 € 127 m² 3 2 Piso Compra - Agente Inmobiliario Amplio y luminoso piso en el corazón de Almoradí Almoradí Fantástico piso en Almoradí, ubicado en la zona Parque de la U, una de las áreas más demandadas por su tranquilidad y cercanía a todos los servicios.L",
    "riesgo": null,
    "incompleto": false,
-   "aviso": "muy barato por m² (787 €/m²): comprueba por qué",
+   "aviso": "muy barato por m² (825 €/m²): comprueba por qué",
    "primera_vez": "2026-11-01",
    "ultima_vez": "2026-11-18",
    "historial": [
@@ -2298,6 +2298,10 @@
     [
      "2026-11-01",
      100000.0
+    ],
+    [
+     "2026-11-18",
+     104900.0
     ]
    ]
   },
@@ -8215,7 +8219,7 @@
   "Agost": "ok",
   "Aspe": "ok"
  },
- "actualizado": "2026-11-18T07:15+00:00",
+ "actualizado": "2026-11-18T10:01+00:00",
  "firmas": {
   "Santa Pola|100000|94|3": "trovimap-386974-40914591",
   "Santa Pola|105000|90|3": "trovimap-382244-26263325",
@@ -8288,7 +8292,7 @@
   "Almoradí|75000|121|4": "trovimap-310922-41538947",
   "Almoradí|84000|118|4": "trovimap-310832-41592815",
   "Almoradí|100000|127|3": "trovimap-310832-40799861",
-  "Almoradí|99908|115|2": "trovimap-519334-41586763",
+  "Almoradí|99900|115|2": "trovimap-519334-41586763",
   "Almoradí|120000|140|3": "trovimap-382244-39399049",
   "Almoradí|116000|100|3": "trovimap-382244-40492194",
   "Almoradí|116219|110|3": "trovimap-489354-31278954",
