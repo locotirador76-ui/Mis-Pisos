@@ -2305,7 +2305,7 @@
    "id": "trovimap-519334-41586763",
    "fuente": "Trovimap",
    "titulo": "Piso En venta en Av Orihuela, Almoradí Almoradí Se vende piso vivienda en planta baja con ",
-   "precio": 99908.0,
+   "precio": 99900.0,
    "precio_antes": 114900.0,
    "m2": 115,
    "hab": 2,
@@ -2326,6 +2326,10 @@
     [
      "2026-11-01",
      99908.0
+    ],
+    [
+     "2026-11-18",
+     99900.0
     ]
    ]
   },
@@ -8012,7 +8016,7 @@
    "riesgo": null,
    "incompleto": false,
    "primera_vez": "2026-11-15",
-   "ultima_vez": "2026-11-17",
+   "ultima_vez": "2026-11-18",
    "historial": [
     [
      "2026-11-15",
@@ -8193,7 +8197,8 @@
      120000.0
     ]
    ],
-   "duplicado_de": "trovimap-385698-37401471"
+   "duplicado_de": "trovimap-385698-37401471",
+   "aviso": null
   }
  },
  "estado_previo": {
@@ -8210,7 +8215,7 @@
   "Agost": "ok",
   "Aspe": "ok"
  },
- "actualizado": "2026-11-18T03:56+00:00",
+ "actualizado": "2026-11-18T07:15+00:00",
  "firmas": {
   "Santa Pola|100000|94|3": "trovimap-386974-40914591",
   "Santa Pola|105000|90|3": "trovimap-382244-26263325",
@@ -8246,6 +8251,7 @@
   "Guardamar del Segura|93000|68|2": "trovimap-382244-34658220",
   "Guardamar del Segura|79500|65|2": "trovimap-382244-34366489",
   "Guardamar del Segura|95000|70|2": "trovimap-382244-33361655",
+  "San Fulgencio|60800|88|2": "trovimap-382244-41780230",
   "San Fulgencio|98000|90|3": "trovimap-476778-40653433",
   "San Fulgencio|116000|60|2": "trovimap-382244-40921390",
   "San Fulgencio|95000|75|2": "trovimap-382244-39377366",
@@ -8328,7 +8334,7 @@
   "Crevillent|120000|128|3": "trovimap-519334-41766871",
   "Crevillent|80000|70|2": "trovimap-382244-41627420",
   "Crevillent|74000|130|2": "trovimap-382244-41700748",
-  "Crevillent|65000|73|2": "trovimap-382244-41573014",
+  "Crevillent|60000|73|2": "trovimap-382244-41573014",
   "Crevillent|89000|65|3": "trovimap-382244-41573276",
   "Crevillent|65000|85|2": "trovimap-382244-39665659",
   "Crevillent|110000|90|3": "trovimap-384948-40978191",
