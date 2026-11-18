@@ -1026,7 +1026,7 @@
    "id": "trovimap-382244-41780230",
    "fuente": "Trovimap",
    "titulo": "Adosada en venta en San Fulgencio, La marina San Fulgencio AT. No se puede visitar el inte",
-   "precio": null,
+   "precio": 60800.0,
    "precio_antes": 60800.0,
    "m2": 88,
    "hab": 2,
@@ -1034,14 +1034,18 @@
    "zona": "San Fulgencio",
    "url": "https://www.trovimap.com/inmueble/382244-41780230",
    "texto": "Comprar Pisos y Casas en San Fulgencio, Alicante/Alacant | Trovimap --> --> Toggle navigation this.getMessages()\"> this.getMessages()\"> this.getMessages()\"> this.getMessages()\"> Precios Valora tu inmueble Blog Anúnciate gratis Entrar Máx 120.000 € Mín 60 m² Habitaciones (2+) Filtros Estadísticas Históricas Guardar búsqueda Mostrar límites : 6 Alicante/Alacant San Fulgencio Alicante/Alacant Murcia Valencia/València Albacete Almería Cuenca Granada Castellón/Castelló Teruel Jaén San Fulgencio Guardamar del Segura Elche/Elx Rojales Formentera del Segura Dolores Daya Vieja Santa Pola Daya Nueva Ben",
-   "riesgo": null,
+   "riesgo": "SIN POSESION",
    "incompleto": false,
-   "aviso": "muy barato por m² (227 €/m²): comprueba por qué",
+   "aviso": "muy barato por m² (690 €/m²): comprueba por qué",
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-02",
+   "ultima_vez": "2026-11-18",
    "historial": [
     [
      "2026-11-01",
+     60800.0
+    ],
+    [
+     "2026-11-18",
      60800.0
     ]
    ]
@@ -3909,7 +3913,7 @@
    "id": "trovimap-382244-41573014",
    "fuente": "Trovimap",
    "titulo": "Casa en venta en Crevillent, CREVILLENTE Crevillent AC00478. Se vende casa cueva para refo",
-   "precio": 65000.0,
+   "precio": 60000.0,
    "precio_antes": null,
    "m2": 73,
    "hab": 2,
@@ -3919,13 +3923,17 @@
    "texto": "890 €/m² 73 m² 2 1 Casa Compra - Agente Inmobiliario Casa en venta en Crevillent, CREVILLENTE Crevillent AC00478. Se vende casa cueva para reformar en Crevillent, situada en una zona tranquila y con el encanto característico de este tipo de propiedades.~L",
    "riesgo": null,
    "incompleto": false,
-   "aviso": "muy barato por m² (890 €/m²): comprueba por qué",
+   "aviso": "muy barato por m² (821 €/m²): comprueba por qué",
    "primera_vez": "2026-11-02",
    "ultima_vez": "2026-11-18",
    "historial": [
     [
      "2026-11-02",
      65000.0
+    ],
+    [
+     "2026-11-18",
+     60000.0
     ]
    ]
   },
@@ -8162,6 +8170,30 @@
    ],
    "duplicado_de": "trovimap-382244-41780530",
    "aviso": null
+  },
+  "trovimap-382244-41896531": {
+   "id": "trovimap-382244-41896531",
+   "fuente": "Trovimap",
+   "titulo": "Casa con terreno en venta en Crevillent Crevillent 4098. CASA DE CAMPO ADOSADA Y CASA DE M",
+   "precio": 120000.0,
+   "precio_antes": null,
+   "m2": 100,
+   "hab": 2,
+   "banos": 1,
+   "zona": "Crevillent",
+   "url": "https://www.trovimap.com/inmueble/382244-41896531",
+   "texto": "1.200 €/m² 100 m² 2 1 Casa Compra - Agente Inmobiliario Casa con terreno en venta en Crevillent Crevillent 4098. CASA DE CAMPO ADOSADA Y CASA DE MADERA EN VENTA EN CREVILLENTE (ALICANTE)Se vende propiedad rural en Crevillente (Alicante), situada en un entor",
+   "riesgo": null,
+   "incompleto": false,
+   "primera_vez": "2026-11-18",
+   "ultima_vez": "2026-11-18",
+   "historial": [
+    [
+     "2026-11-18",
+     120000.0
+    ]
+   ],
+   "duplicado_de": "trovimap-385698-37401471"
   }
  },
  "estado_previo": {
@@ -8178,7 +8210,7 @@
   "Agost": "ok",
   "Aspe": "ok"
  },
- "actualizado": "2026-11-18T01:11+00:00",
+ "actualizado": "2026-11-18T03:56+00:00",
  "firmas": {
   "Santa Pola|100000|94|3": "trovimap-386974-40914591",
   "Santa Pola|105000|90|3": "trovimap-382244-26263325",
