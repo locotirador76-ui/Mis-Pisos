@@ -1065,7 +1065,7 @@
    "riesgo": null,
    "incompleto": false,
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-17",
+   "ultima_vez": "2026-11-19",
    "historial": [
     [
      "2026-11-01",
@@ -8261,6 +8261,53 @@
     ]
    ],
    "duplicado_de": "trovimap-382244-41689791"
+  },
+  "trovimap-311417-41904009": {
+   "id": "trovimap-311417-41904009",
+   "fuente": "Trovimap",
+   "titulo": "Unifamiliar Pareada En venta en Comunidad Valenciana, Crevillent Catral Casa adosada de 75",
+   "precio": 24900.0,
+   "precio_antes": null,
+   "m2": 75,
+   "hab": 2,
+   "banos": 1,
+   "zona": "Catral",
+   "url": "https://www.trovimap.com/inmueble/311417-41904009",
+   "texto": "332 €/m² 75 m² 2 1 Nuevo Unifamiliar Pareada Compra - Agente Inmobiliario Unifamiliar Pareada En venta en Comunidad Valenciana, Crevillent Catral Casa adosada de 75 m2 en venta en la calle Rincón de los Pablos, 2, en Crevillent (Alicante). Distribuida en 2 plantas, con salón-comedor, cocina, 2 h",
+   "riesgo": null,
+   "incompleto": false,
+   "aviso": "muy barato por m² (332 €/m²): comprueba por qué",
+   "primera_vez": "2026-11-19",
+   "ultima_vez": "2026-11-19",
+   "historial": [
+    [
+     "2026-11-19",
+     24900.0
+    ]
+   ]
+  },
+  "trovimap-482207-41904807": {
+   "id": "trovimap-482207-41904807",
+   "fuente": "Trovimap",
+   "titulo": "AMPLIA VIVIENDA CON TRES DORMITORIOS Y BALCÓN Aspe ¡Descubre tu nuevo hogar en Aspe! Esta ",
+   "precio": 105000.0,
+   "precio_antes": null,
+   "m2": 100,
+   "hab": 3,
+   "banos": 1,
+   "zona": "Aspe",
+   "url": "https://www.trovimap.com/inmueble/482207-41904807",
+   "texto": "1.050 €/m² 100 m² 3 1 Nuevo Piso Compra - Agente Inmobiliario AMPLIA VIVIENDA CON TRES DORMITORIOS Y BALCÓN Aspe ¡Descubre tu nuevo hogar en Aspe! Esta maravillosa vivienda ubicada en la tranquila zona de La Serranica - Sagrado Corazón, te ofrece todo lo que nece",
+   "riesgo": null,
+   "incompleto": false,
+   "primera_vez": "2026-11-19",
+   "ultima_vez": "2026-11-19",
+   "historial": [
+    [
+     "2026-11-19",
+     105000.0
+    ]
+   ]
   }
  },
  "estado_previo": {
@@ -8277,7 +8324,7 @@
   "Agost": "ok",
   "Aspe": "ok"
  },
- "actualizado": "2026-11-19T07:15+00:00",
+ "actualizado": "2026-11-19T10:05+00:00",
  "firmas": {
   "Santa Pola|100000|94|3": "trovimap-386974-40914591",
   "Santa Pola|105000|90|3": "trovimap-382244-26263325",
@@ -8475,7 +8522,9 @@
   "Santa Pola|108000|60|3": "trovimap-382244-41878102",
   "Santa Pola|115000|80|3": "trovimap-382244-41878144",
   "Santa Pola|98500|75|3": "trovimap-382244-41878050",
-  "Crevillent|120000|100|2": "trovimap-385698-37401471"
+  "Crevillent|120000|100|2": "trovimap-385698-37401471",
+  "Catral|24900|75|2": "trovimap-311417-41904009",
+  "Aspe|105000|100|3": "trovimap-482207-41904807"
  },
  "zonas_base": [
   "Agost",
