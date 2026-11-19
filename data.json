@@ -7291,7 +7291,7 @@
    "id": "trovimap-382244-41861455",
    "fuente": "Trovimap",
    "titulo": "Piso en venta en Almoradi, Parque de la u Almoradí 01875. Fantástico piso en Almoradí, ubi",
-   "precio": 100000.0,
+   "precio": 104900.0,
    "precio_antes": null,
    "m2": 127,
    "hab": 3,
@@ -7301,13 +7301,17 @@
    "texto": "787 €/m² 127 m² 3 2 Piso Compra - Agente Inmobiliario Piso en venta en Almoradi, Parque de la u Almoradí 01875. Fantástico piso en Almoradí, ubicado en la zona Parque de la U, una de las áreas más demandadas por su tranquilidad y cercanía a todos los serv",
    "riesgo": null,
    "incompleto": false,
-   "aviso": "muy barato por m² (787 €/m²): comprueba por qué",
+   "aviso": "muy barato por m² (825 €/m²): comprueba por qué",
    "primera_vez": "2026-11-14",
    "ultima_vez": "2026-11-19",
    "historial": [
     [
      "2026-11-14",
      100000.0
+    ],
+    [
+     "2026-11-19",
+     104900.0
     ]
    ],
    "duplicado_de": "trovimap-310832-40799861"
@@ -8207,6 +8211,56 @@
    ],
    "duplicado_de": "trovimap-385698-37401471",
    "aviso": null
+  },
+  "trovimap-382244-41901988": {
+   "id": "trovimap-382244-41901988",
+   "fuente": "Trovimap",
+   "titulo": "Adosada en venta en San Fulgencio, La marina San Fulgencio AT. No se puede visitar el inte",
+   "precio": 60800.0,
+   "precio_antes": null,
+   "m2": 88,
+   "hab": 2,
+   "banos": 1,
+   "zona": "San Fulgencio",
+   "url": "https://www.trovimap.com/inmueble/382244-41901988",
+   "texto": "691 €/m² 88 m² 2 1 Unifamiliar Pareada Compra - Agente Inmobiliario Adosada en venta en San Fulgencio, La marina San Fulgencio AT. No se puede visitar el interior del inmueble por su situación de SIN POSESION y está en venta con esta situación. ¡¡¡OPORTUNIDAD PARA INVERSORES!!",
+   "riesgo": "SIN POSESION",
+   "incompleto": false,
+   "aviso": "muy barato por m² (690 €/m²): comprueba por qué",
+   "primera_vez": "2026-11-19",
+   "ultima_vez": "2026-11-19",
+   "historial": [
+    [
+     "2026-11-19",
+     60800.0
+    ]
+   ],
+   "duplicado_de": "trovimap-382244-41780230"
+  },
+  "trovimap-382244-41902107": {
+   "id": "trovimap-382244-41902107",
+   "fuente": "Trovimap",
+   "titulo": "Piso en venta en Catral con Ascensor 11447. La vivienda cuenta con 124 m² y ofrece una dis",
+   "precio": 109900.0,
+   "precio_antes": null,
+   "m2": 124,
+   "hab": 4,
+   "banos": 2,
+   "zona": "Catral",
+   "url": "https://www.trovimap.com/inmueble/382244-41902107",
+   "texto": "886 €/m² 124 m² 4 2 Piso Compra - Agente Inmobiliario Piso en venta en Catral con Ascensor 11447. La vivienda cuenta con 124 m² y ofrece una distribución especialmente cómoda, con cuatro dormitorios dobles de grandes dimensiones, algo cada v",
+   "riesgo": null,
+   "incompleto": false,
+   "aviso": "muy barato por m² (886 €/m²): comprueba por qué",
+   "primera_vez": "2026-11-19",
+   "ultima_vez": "2026-11-19",
+   "historial": [
+    [
+     "2026-11-19",
+     109900.0
+    ]
+   ],
+   "duplicado_de": "trovimap-382244-41689791"
   }
  },
  "estado_previo": {
@@ -8223,7 +8277,7 @@
   "Agost": "ok",
   "Aspe": "ok"
  },
- "actualizado": "2026-11-19T01:08+00:00",
+ "actualizado": "2026-11-19T03:57+00:00",
  "firmas": {
   "Santa Pola|100000|94|3": "trovimap-386974-40914591",
   "Santa Pola|105000|90|3": "trovimap-382244-26263325",
@@ -8351,7 +8405,7 @@
   "Crevillent|65000|80|3": "trovimap-382244-39665618",
   "Crevillent|74000|66|2": "trovimap-524132-41767176",
   "Crevillent|77500|90|3": "trovimap-535065-41407218",
-  "Crevillent|110000|111|3": "trovimap-510591-41377044",
+  "Crevillent|95000|111|3": "trovimap-510591-41377044",
   "Mutxamel|64480|187|3": "trovimap-382244-39665544",
   "Agost|65000|65|2": "trovimap-537083-40847371",
   "Aspe|90000|95|3": "trovimap-389083-41251730",
