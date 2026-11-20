@@ -8409,6 +8409,29 @@
     ]
    ],
    "duplicado_de": "trovimap-382244-41700748"
+  },
+  "trovimap-381187-41915602": {
+   "id": "trovimap-381187-41915602",
+   "fuente": "Trovimap",
+   "titulo": "¡Tu nuevo hogar en Almoradí! Piso con piscina comunitaria y ascensor. con Ascensor Immaiso",
+   "precio": 109999.0,
+   "precio_antes": null,
+   "m2": 66,
+   "hab": 2,
+   "banos": 1,
+   "zona": "Almoradí",
+   "url": "https://www.trovimap.com/inmueble/381187-41915602",
+   "texto": "1.667 €/m² 66 m² 2 1 Nuevo Piso Compra - Agente Inmobiliario ¡Tu nuevo hogar en Almoradí! Piso con piscina comunitaria y ascensor. con Ascensor Immaison Real Estate te presenta esta fantástica oportunidad en Almoradí, una vivienda de 66 m2 ideal tanto para vivir como para invertir.El piso disp",
+   "riesgo": null,
+   "incompleto": false,
+   "primera_vez": "2026-11-20",
+   "ultima_vez": "2026-11-20",
+   "historial": [
+    [
+     "2026-11-20",
+     109999.0
+    ]
+   ]
   }
  },
  "estado_previo": {
@@ -8425,7 +8448,7 @@
   "Agost": "ok",
   "Aspe": "ok"
  },
- "actualizado": "2026-11-20T07:16+00:00",
+ "actualizado": "2026-11-20T10:01+00:00",
  "firmas": {
   "Santa Pola|100000|94|3": "trovimap-386974-40914591",
   "Santa Pola|105000|90|3": "trovimap-382244-26263325",
@@ -8625,7 +8648,8 @@
   "Santa Pola|98500|75|3": "trovimap-382244-41878050",
   "Crevillent|120000|100|2": "trovimap-385698-37401471",
   "Catral|24900|75|2": "trovimap-311417-41904009",
-  "Aspe|105000|100|3": "trovimap-482207-41904807"
+  "Aspe|105000|100|3": "trovimap-482207-41904807",
+  "Almoradí|109999|66|2": "trovimap-381187-41915602"
  },
  "zonas_base": [
   "Agost",
