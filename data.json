@@ -8433,6 +8433,30 @@
     ]
    ],
    "aviso": null
+  },
+  "trovimap-382244-41917020": {
+   "id": "trovimap-382244-41917020",
+   "fuente": "Trovimap",
+   "titulo": "Piso en venta en Almoradi, Centro urbano 2 con Ascensor PR2199. Descubre este excepcional ",
+   "precio": 117000.0,
+   "precio_antes": null,
+   "m2": 129,
+   "hab": 3,
+   "banos": 2,
+   "zona": "Almoradí",
+   "url": "https://www.trovimap.com/inmueble/382244-41917020",
+   "texto": "907 €/m² 129 m² 3 2 Piso Compra - Agente Inmobiliario Piso en venta en Almoradi, Centro urbano 2 con Ascensor PR2199. Descubre este excepcional piso ubicado en pleno centro urbano de Almoradí, una propiedad que destaca por su exclusividad al contar con un solo",
+   "riesgo": null,
+   "incompleto": false,
+   "primera_vez": "2026-11-21",
+   "ultima_vez": "2026-11-21",
+   "historial": [
+    [
+     "2026-11-21",
+     117000.0
+    ]
+   ],
+   "duplicado_de": "trovimap-382244-39387805"
   }
  },
  "estado_previo": {
@@ -8449,7 +8473,7 @@
   "Agost": "ok",
   "Aspe": "ok"
  },
- "actualizado": "2026-11-21T01:05+00:00",
+ "actualizado": "2026-11-21T03:53+00:00",
  "firmas": {
   "Santa Pola|100000|94|3": "trovimap-386974-40914591",
   "Santa Pola|105000|90|3": "trovimap-382244-26263325",
