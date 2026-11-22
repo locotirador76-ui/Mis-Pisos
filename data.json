@@ -8532,6 +8532,29 @@
     ]
    ],
    "duplicado_de": "trovimap-310737-40870339"
+  },
+  "trovimap-484724-41934287": {
+   "id": "trovimap-484724-41934287",
+   "fuente": "Trovimap",
+   "titulo": "Venta piso en Aspe (Alicante) Aspe ¡¡ CESIÓN DE REMATE - POSIBLE OCUPACIÓN DEL INMUEBLE, N",
+   "precio": 110000.0,
+   "precio_antes": null,
+   "m2": 75,
+   "hab": 2,
+   "banos": 1,
+   "zona": "Aspe",
+   "url": "https://www.trovimap.com/inmueble/484724-41934287",
+   "texto": "1.467 €/m² 75 m² 2 1 Nuevo Piso Compra - Agente Inmobiliario Venta piso en Aspe (Alicante) Aspe ¡¡ CESIÓN DE REMATE - POSIBLE OCUPACIÓN DEL INMUEBLE, NO SE PUEDE VISITAR NI FINANCIAR !!LA FOTO NO IDENTIFICA EL INMUEBLE EXACTO, SOLO LA ZONACONDICI",
+   "riesgo": "CESIÓN DE REMATE",
+   "incompleto": false,
+   "primera_vez": "2026-11-22",
+   "ultima_vez": "2026-11-22",
+   "historial": [
+    [
+     "2026-11-22",
+     110000.0
+    ]
+   ]
   }
  },
  "estado_previo": {
@@ -8548,7 +8571,7 @@
   "Agost": "ok",
   "Aspe": "ok"
  },
- "actualizado": "2026-11-22T07:07+00:00",
+ "actualizado": "2026-11-22T09:49+00:00",
  "firmas": {
   "Santa Pola|100000|94|3": "trovimap-386974-40914591",
   "Santa Pola|105000|90|3": "trovimap-382244-26263325",
@@ -8750,7 +8773,8 @@
   "Catral|24900|75|2": "trovimap-311417-41904009",
   "Aspe|105000|100|3": "trovimap-482207-41904807",
   "Almoradí|109999|66|2": "trovimap-381187-41915602",
-  "Crevillent|24900|75|2": "trovimap-382244-41923905"
+  "Crevillent|24900|75|2": "trovimap-382244-41923905",
+  "Aspe|110000|75|2": "trovimap-484724-41934287"
  },
  "zonas_base": [
   "Agost",
