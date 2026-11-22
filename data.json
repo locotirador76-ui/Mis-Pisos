@@ -8458,6 +8458,80 @@
    ],
    "duplicado_de": "trovimap-382244-39387805",
    "aviso": null
+  },
+  "trovimap-382244-41923905": {
+   "id": "trovimap-382244-41923905",
+   "fuente": "Trovimap",
+   "titulo": "Adosada en venta en Crevillent, Comunidad valenciana Crevillent . Casa adosada de 75 m2 en",
+   "precio": 24900.0,
+   "precio_antes": null,
+   "m2": 75,
+   "hab": 2,
+   "banos": 1,
+   "zona": "Crevillent",
+   "url": "https://www.trovimap.com/inmueble/382244-41923905",
+   "texto": "332 €/m² 75 m² 2 1 Unifamiliar Pareada Compra - Agente Inmobiliario Adosada en venta en Crevillent, Comunidad valenciana Crevillent . Casa adosada de 75 m2 en venta en la calle Rincón de los Pablos, 2, en Crevillent (Alicante). Distribuida en 2 plantas, con salón-comedor, cocina, 2",
+   "riesgo": null,
+   "incompleto": false,
+   "aviso": "muy barato por m² (332 €/m²): comprueba por qué",
+   "primera_vez": "2026-11-22",
+   "ultima_vez": "2026-11-22",
+   "historial": [
+    [
+     "2026-11-22",
+     24900.0
+    ]
+   ]
+  },
+  "trovimap-382244-41924624": {
+   "id": "trovimap-382244-41924624",
+   "fuente": "Trovimap",
+   "titulo": "Piso en venta en Aspe, La Serranica - Sagrado Corazón Aspe 29770. Descubre este encantador",
+   "precio": 107260.0,
+   "precio_antes": null,
+   "m2": 145,
+   "hab": 4,
+   "banos": 2,
+   "zona": "Aspe",
+   "url": "https://www.trovimap.com/inmueble/382244-41924624",
+   "texto": "740 €/m² 145 m² 4 2 Piso Compra - Agente Inmobiliario Piso en venta en Aspe, La Serranica - Sagrado Corazón Aspe 29770. Descubre este encantador piso de tercera planta, ubicado en la tranquila y solicitada zona de La Serránica - Sagrado Corazón en Aspe. Con una s",
+   "riesgo": null,
+   "incompleto": false,
+   "aviso": "muy barato por m² (739 €/m²): comprueba por qué",
+   "primera_vez": "2026-11-22",
+   "ultima_vez": "2026-11-22",
+   "historial": [
+    [
+     "2026-11-22",
+     107260.0
+    ]
+   ],
+   "duplicado_de": "trovimap-310737-41426834"
+  },
+  "trovimap-382244-41924150": {
+   "id": "trovimap-382244-41924150",
+   "fuente": "Trovimap",
+   "titulo": "Casa en venta en Aspe, Centro Aspe 29694. Inmobiliaria San José pone a la venta una excele",
+   "precio": 51050.0,
+   "precio_antes": null,
+   "m2": 140,
+   "hab": 2,
+   "banos": 1,
+   "zona": "Aspe",
+   "url": "https://www.trovimap.com/inmueble/382244-41924150",
+   "texto": "365 €/m² 140 m² 2 1 Casa Compra - Agente Inmobiliario Casa en venta en Aspe, Centro Aspe 29694. Inmobiliaria San José pone a la venta una excelente oportunidad de inversión en Aspe. Se trata de un amplio casa solar con una superficie const",
+   "riesgo": "inversión",
+   "incompleto": false,
+   "aviso": "muy barato por m² (364 €/m²): comprueba por qué",
+   "primera_vez": "2026-11-22",
+   "ultima_vez": "2026-11-22",
+   "historial": [
+    [
+     "2026-11-22",
+     51050.0
+    ]
+   ],
+   "duplicado_de": "trovimap-310737-40870339"
   }
  },
  "estado_previo": {
@@ -8474,7 +8548,7 @@
   "Agost": "ok",
   "Aspe": "ok"
  },
- "actualizado": "2026-11-22T01:02+00:00",
+ "actualizado": "2026-11-22T03:55+00:00",
  "firmas": {
   "Santa Pola|100000|94|3": "trovimap-386974-40914591",
   "Santa Pola|105000|90|3": "trovimap-382244-26263325",
@@ -8675,7 +8749,8 @@
   "Crevillent|120000|100|2": "trovimap-385698-37401471",
   "Catral|24900|75|2": "trovimap-311417-41904009",
   "Aspe|105000|100|3": "trovimap-482207-41904807",
-  "Almoradí|109999|66|2": "trovimap-381187-41915602"
+  "Almoradí|109999|66|2": "trovimap-381187-41915602",
+  "Crevillent|24900|75|2": "trovimap-382244-41923905"
  },
  "zonas_base": [
   "Agost",
