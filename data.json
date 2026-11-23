@@ -8579,7 +8579,8 @@
      114900.0
     ]
    ],
-   "duplicado_de": "trovimap-382244-41721088"
+   "duplicado_de": "trovimap-382244-41721088",
+   "aviso": null
   },
   "trovimap-382244-41935046": {
    "id": "trovimap-382244-41935046",
@@ -8603,7 +8604,36 @@
      109000.0
     ]
    ],
-   "duplicado_de": "trovimap-382244-41721052"
+   "duplicado_de": "trovimap-382244-41721052",
+   "aviso": null
+  },
+  "trovimap-536627-40110384": {
+   "id": "trovimap-536627-40110384",
+   "fuente": "Trovimap",
+   "titulo": "Otro - Crevillente Crevillent Oportunidad Única para Inversionistas Casa para Reformar en ",
+   "precio": 65000.0,
+   "precio_antes": 80000.0,
+   "m2": 180,
+   "hab": 4,
+   "banos": 1,
+   "zona": "Crevillent",
+   "url": "https://www.trovimap.com/inmueble/536627-40110384",
+   "texto": "80.000 € 180 m² 4 1 Casa Compra - Agente Inmobiliario Otro - Crevillente Crevillent Oportunidad Única para Inversionistas Casa para Reformar en el Centro de Crevillent",
+   "riesgo": "Inversion",
+   "incompleto": false,
+   "aviso": "muy barato por m² (361 €/m²): comprueba por qué",
+   "primera_vez": "2026-11-23",
+   "ultima_vez": "2026-11-23",
+   "historial": [
+    [
+     "2026-11-23",
+     80000.0
+    ],
+    [
+     "2026-11-23",
+     65000.0
+    ]
+   ]
   }
  },
  "estado_previo": {
@@ -8620,7 +8650,7 @@
   "Agost": "ok",
   "Aspe": "ok"
  },
- "actualizado": "2026-11-23T04:05+00:00",
+ "actualizado": "2026-11-23T07:34+00:00",
  "firmas": {
   "Santa Pola|100000|94|3": "trovimap-386974-40914591",
   "Santa Pola|105000|90|3": "trovimap-382244-26263325",
@@ -8823,7 +8853,8 @@
   "Aspe|105000|100|3": "trovimap-482207-41904807",
   "Almoradí|109999|66|2": "trovimap-381187-41915602",
   "Crevillent|24900|75|2": "trovimap-382244-41923905",
-  "Aspe|110000|75|2": "trovimap-484724-41934287"
+  "Aspe|110000|75|2": "trovimap-484724-41934287",
+  "Crevillent|65000|180|4": "trovimap-536627-40110384"
  },
  "zonas_base": [
   "Agost",
