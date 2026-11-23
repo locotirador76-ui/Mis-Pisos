@@ -8634,6 +8634,34 @@
      65000.0
     ]
    ]
+  },
+  "trovimap-513055-40766008": {
+   "id": "trovimap-513055-40766008",
+   "fuente": "Trovimap",
+   "titulo": "Casa De Campo En venta en La Mangranera, Crevillent Crevillent Casa prefabricada de madera",
+   "precio": 89900.0,
+   "precio_antes": 105000.0,
+   "m2": 75,
+   "hab": 3,
+   "banos": 1,
+   "zona": "Crevillent",
+   "url": "https://www.trovimap.com/inmueble/513055-40766008",
+   "texto": "105.000 € 75 m² 3 1 Casa De Campo Compra - Agente Inmobiliario Casa De Campo En venta en La Mangranera, Crevillent Crevillent Casa prefabricada de madera con parcela cerca de CrevillenteSe vende magnífica parcela rústica de 3600 m2 situada en la tranquila zona de Partida Mang",
+   "riesgo": null,
+   "incompleto": false,
+   "primera_vez": "2026-11-23",
+   "ultima_vez": "2026-11-23",
+   "historial": [
+    [
+     "2026-11-23",
+     105000.0
+    ],
+    [
+     "2026-11-23",
+     89900.0
+    ]
+   ],
+   "duplicado_de": "trovimap-382244-41861225"
   }
  },
  "estado_previo": {
@@ -8650,7 +8678,7 @@
   "Agost": "ok",
   "Aspe": "ok"
  },
- "actualizado": "2026-11-23T07:34+00:00",
+ "actualizado": "2026-11-23T10:13+00:00",
  "firmas": {
   "Santa Pola|100000|94|3": "trovimap-386974-40914591",
   "Santa Pola|105000|90|3": "trovimap-382244-26263325",
