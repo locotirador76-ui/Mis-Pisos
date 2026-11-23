@@ -8661,7 +8661,8 @@
      89900.0
     ]
    ],
-   "duplicado_de": "trovimap-382244-41861225"
+   "duplicado_de": "trovimap-382244-41861225",
+   "aviso": null
   }
  },
  "estado_previo": {
@@ -8678,7 +8679,7 @@
   "Agost": "ok",
   "Aspe": "ok"
  },
- "actualizado": "2026-11-23T10:13+00:00",
+ "actualizado": "2026-11-23T13:17+00:00",
  "firmas": {
   "Santa Pola|100000|94|3": "trovimap-386974-40914591",
   "Santa Pola|105000|90|3": "trovimap-382244-26263325",
