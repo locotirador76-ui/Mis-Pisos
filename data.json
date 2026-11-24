@@ -8663,6 +8663,176 @@
    ],
    "duplicado_de": "trovimap-382244-41861225",
    "aviso": null
+  },
+  "trovimap-522768-40236259": {
+   "id": "trovimap-522768-40236259",
+   "fuente": "Trovimap",
+   "titulo": "Piso En venta en Santa Pola con Ascensor",
+   "precio": 60000.0,
+   "precio_antes": null,
+   "m2": 77,
+   "hab": 2,
+   "banos": 1,
+   "zona": "Santa Pola",
+   "url": "https://www.trovimap.com/inmueble/522768-40236259",
+   "texto": "779 €/m² 77 m² 2 1 Piso Compra - Agente Inmobiliario Piso En venta en Santa Pola con Ascensor",
+   "riesgo": null,
+   "incompleto": false,
+   "aviso": "muy barato por m² (779 €/m²): comprueba por qué",
+   "primera_vez": "2026-11-24",
+   "ultima_vez": "2026-11-24",
+   "historial": [
+    [
+     "2026-11-24",
+     60000.0
+    ]
+   ]
+  },
+  "trovimap-522768-38888599": {
+   "id": "trovimap-522768-38888599",
+   "fuente": "Trovimap",
+   "titulo": "Piso En venta en Mutxamel con Ascensor",
+   "precio": 99000.0,
+   "precio_antes": null,
+   "m2": 125,
+   "hab": 3,
+   "banos": 2,
+   "zona": "Mutxamel",
+   "url": "https://www.trovimap.com/inmueble/522768-38888599",
+   "texto": "792 €/m² 125 m² 3 2 Piso Compra - Agente Inmobiliario Piso En venta en Mutxamel con Ascensor",
+   "riesgo": null,
+   "incompleto": false,
+   "aviso": "muy barato por m² (792 €/m²): comprueba por qué",
+   "primera_vez": "2026-11-24",
+   "ultima_vez": "2026-11-24",
+   "historial": [
+    [
+     "2026-11-24",
+     99000.0
+    ]
+   ]
+  },
+  "trovimap-522768-38652492": {
+   "id": "trovimap-522768-38652492",
+   "fuente": "Trovimap",
+   "titulo": "Piso En venta en Mutxamel con Ascensor",
+   "precio": 109600.0,
+   "precio_antes": null,
+   "m2": 125,
+   "hab": 3,
+   "banos": 2,
+   "zona": "Mutxamel",
+   "url": "https://www.trovimap.com/inmueble/522768-38652492",
+   "texto": "877 €/m² 125 m² 3 2 Piso Compra - Agente Inmobiliario Piso En venta en Mutxamel con Ascensor",
+   "riesgo": null,
+   "incompleto": false,
+   "aviso": "muy barato por m² (876 €/m²): comprueba por qué",
+   "primera_vez": "2026-11-24",
+   "ultima_vez": "2026-11-24",
+   "historial": [
+    [
+     "2026-11-24",
+     109600.0
+    ]
+   ]
+  },
+  "trovimap-522768-39610906": {
+   "id": "trovimap-522768-39610906",
+   "fuente": "Trovimap",
+   "titulo": "Piso En venta en Mutxamel Mutxamel",
+   "precio": 43300.0,
+   "precio_antes": null,
+   "m2": 79,
+   "hab": 3,
+   "banos": 1,
+   "zona": "Mutxamel",
+   "url": "https://www.trovimap.com/inmueble/522768-39610906",
+   "texto": "548 €/m² 79 m² 3 1 Piso Compra - Agente Inmobiliario Piso En venta en Mutxamel Mutxamel",
+   "riesgo": null,
+   "incompleto": false,
+   "aviso": "muy barato por m² (548 €/m²): comprueba por qué",
+   "primera_vez": "2026-11-24",
+   "ultima_vez": "2026-11-24",
+   "historial": [
+    [
+     "2026-11-24",
+     43300.0
+    ]
+   ]
+  },
+  "trovimap-522768-38657314": {
+   "id": "trovimap-522768-38657314",
+   "fuente": "Trovimap",
+   "titulo": "Piso En venta en Agost Agost",
+   "precio": 116000.0,
+   "precio_antes": null,
+   "m2": 203,
+   "hab": 4,
+   "banos": 3,
+   "zona": "Agost",
+   "url": "https://www.trovimap.com/inmueble/522768-38657314",
+   "texto": "571 €/m² 203 m² 4 3 Piso Compra - Agente Inmobiliario Piso En venta en Agost Agost",
+   "riesgo": null,
+   "incompleto": false,
+   "aviso": "muy barato por m² (571 €/m²): comprueba por qué",
+   "primera_vez": "2026-11-24",
+   "ultima_vez": "2026-11-24",
+   "historial": [
+    [
+     "2026-11-24",
+     116000.0
+    ]
+   ]
+  },
+  "trovimap-382244-41940466": {
+   "id": "trovimap-382244-41940466",
+   "fuente": "Trovimap",
+   "titulo": "Casa en venta en Aspe, Aspe Aspe 42272. Descubre esta maravillosa casa situada en la encan",
+   "precio": 60000.0,
+   "precio_antes": null,
+   "m2": 142,
+   "hab": 4,
+   "banos": 3,
+   "zona": "Aspe",
+   "url": "https://www.trovimap.com/inmueble/382244-41940466",
+   "texto": "423 €/m² 142 m² 4 3 Casa Compra - Agente Inmobiliario Casa en venta en Aspe, Aspe Aspe 42272. Descubre esta maravillosa casa situada en la encantadora ciudad de Aspe, un lugar ideal tanto para vivir como para invertir. Con una superficie",
+   "riesgo": null,
+   "incompleto": false,
+   "aviso": "muy barato por m² (422 €/m²): comprueba por qué",
+   "primera_vez": "2026-11-24",
+   "ultima_vez": "2026-11-24",
+   "historial": [
+    [
+     "2026-11-24",
+     60000.0
+    ]
+   ],
+   "duplicado_de": "trovimap-382244-41730959"
+  },
+  "trovimap-382244-41940419": {
+   "id": "trovimap-382244-41940419",
+   "fuente": "Trovimap",
+   "titulo": "Casa en venta en Aspe, Aspe Aspe 28327. SE VENDE CASA SOLAR PARA REFORMAR O DERRIBAR EN EL",
+   "precio": 59840.0,
+   "precio_antes": null,
+   "m2": 90,
+   "hab": 3,
+   "banos": 1,
+   "zona": "Aspe",
+   "url": "https://www.trovimap.com/inmueble/382244-41940419",
+   "texto": "665 €/m² 90 m² 3 1 Casa Compra - Agente Inmobiliario Casa en venta en Aspe, Aspe Aspe 28327. SE VENDE CASA SOLAR PARA REFORMAR O DERRIBAR EN EL CENTRO DE ASPE con 90 m. de superficie construida, 53 m. superficie parcela, 3 habitaciones,",
+   "riesgo": null,
+   "incompleto": false,
+   "aviso": "muy barato por m² (664 €/m²): comprueba por qué",
+   "primera_vez": "2026-11-24",
+   "ultima_vez": "2026-11-24",
+   "historial": [
+    [
+     "2026-11-24",
+     59840.0
+    ]
+   ],
+   "duplicado_de": "trovimap-310737-35475200"
   }
  },
  "estado_previo": {
@@ -8679,7 +8849,7 @@
   "Agost": "ok",
   "Aspe": "ok"
  },
- "actualizado": "2026-11-24T01:07+00:00",
+ "actualizado": "2026-11-24T03:59+00:00",
  "firmas": {
   "Santa Pola|100000|94|3": "trovimap-386974-40914591",
   "Santa Pola|105000|90|3": "trovimap-382244-26263325",
@@ -8883,7 +9053,12 @@
   "Almoradí|109999|66|2": "trovimap-381187-41915602",
   "Crevillent|24900|75|2": "trovimap-382244-41923905",
   "Aspe|110000|75|2": "trovimap-484724-41934287",
-  "Crevillent|65000|180|4": "trovimap-536627-40110384"
+  "Crevillent|65000|180|4": "trovimap-536627-40110384",
+  "Santa Pola|60000|77|2": "trovimap-522768-40236259",
+  "Mutxamel|99000|125|3": "trovimap-522768-38888599",
+  "Mutxamel|109600|125|3": "trovimap-522768-38652492",
+  "Mutxamel|43300|79|3": "trovimap-522768-39610906",
+  "Agost|116000|203|4": "trovimap-522768-38657314"
  },
  "zonas_base": [
   "Agost",
