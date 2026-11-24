@@ -8833,6 +8833,30 @@
     ]
    ],
    "duplicado_de": "trovimap-310737-35475200"
+  },
+  "trovimap-310805-40991292": {
+   "id": "trovimap-310805-40991292",
+   "fuente": "Trovimap",
+   "titulo": "LIENZO EN BLANCO PARA CREAR San Fulgencio ¿Buscas una propiedad con espacio, ubicación y p",
+   "precio": 109900.0,
+   "precio_antes": null,
+   "m2": 342,
+   "hab": 3,
+   "banos": 1,
+   "zona": "San Fulgencio",
+   "url": "https://www.trovimap.com/inmueble/310805-40991292",
+   "texto": "321 €/m² 342 m² 3 1 Casa Compra - Agente Inmobiliario LIENZO EN BLANCO PARA CREAR San Fulgencio ¿Buscas una propiedad con espacio, ubicación y posibilidades ilimitadas? Esta vivienda para reformar es una oportunidad única para crear la casa de tu",
+   "riesgo": null,
+   "incompleto": false,
+   "aviso": "muy barato por m² (321 €/m²): comprueba por qué",
+   "primera_vez": "2026-11-24",
+   "ultima_vez": "2026-11-24",
+   "historial": [
+    [
+     "2026-11-24",
+     109900.0
+    ]
+   ]
   }
  },
  "estado_previo": {
@@ -8849,7 +8873,7 @@
   "Agost": "ok",
   "Aspe": "ok"
  },
- "actualizado": "2026-11-24T07:15+00:00",
+ "actualizado": "2026-11-24T10:10+00:00",
  "firmas": {
   "Santa Pola|100000|94|3": "trovimap-386974-40914591",
   "Santa Pola|105000|90|3": "trovimap-382244-26263325",
@@ -9058,7 +9082,8 @@
   "Mutxamel|99000|125|3": "trovimap-522768-38888599",
   "Mutxamel|109600|125|3": "trovimap-522768-38652492",
   "Mutxamel|43300|79|3": "trovimap-522768-39610906",
-  "Agost|116000|203|4": "trovimap-522768-38657314"
+  "Agost|116000|203|4": "trovimap-522768-38657314",
+  "San Fulgencio|109900|342|3": "trovimap-310805-40991292"
  },
  "zonas_base": [
   "Agost",
