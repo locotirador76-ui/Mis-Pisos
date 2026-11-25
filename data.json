@@ -8857,6 +8857,80 @@
      109900.0
     ]
    ]
+  },
+  "trovimap-382244-41946602": {
+   "id": "trovimap-382244-41946602",
+   "fuente": "Trovimap",
+   "titulo": "Piso en venta en Dolores, Comunidad valenciana Dolores 01847. Si buscas un piso donde el e",
+   "precio": 84900.0,
+   "precio_antes": null,
+   "m2": 88,
+   "hab": 2,
+   "banos": 1,
+   "zona": "Dolores",
+   "url": "https://www.trovimap.com/inmueble/382244-41946602",
+   "texto": "965 €/m² 88 m² 2 1 Piso Compra - Agente Inmobiliario Piso en venta en Dolores, Comunidad valenciana Dolores 01847. Si buscas un piso donde el espacio no sea un problema, esta vivienda en Dolores (Alicante) es para ti. Ha sido rediseñada estratégicamente para",
+   "riesgo": null,
+   "incompleto": false,
+   "primera_vez": "2026-11-25",
+   "ultima_vez": "2026-11-25",
+   "historial": [
+    [
+     "2026-11-25",
+     84900.0
+    ]
+   ],
+   "duplicado_de": "trovimap-310832-40614398"
+  },
+  "trovimap-382244-41946516": {
+   "id": "trovimap-382244-41946516",
+   "fuente": "Trovimap",
+   "titulo": "Casa en venta en Aspe, Aspe Aspe 28376. VENTA DE CASA-ALMACEN EN ASPE,ZONA PROSPERIDAD. 10",
+   "precio": 82000.0,
+   "precio_antes": null,
+   "m2": 101,
+   "hab": 3,
+   "banos": 1,
+   "zona": "Aspe",
+   "url": "https://www.trovimap.com/inmueble/382244-41946516",
+   "texto": "812 €/m² 101 m² 3 1 Casa Compra - Agente Inmobiliario Casa en venta en Aspe, Aspe Aspe 28376. VENTA DE CASA-ALMACEN EN ASPE,ZONA PROSPERIDAD. 101.00 m. de superficie, un aseo, propiedad Para reformar. Extras: agua, esquina, luz, techos",
+   "riesgo": null,
+   "incompleto": false,
+   "aviso": "muy barato por m² (811 €/m²): comprueba por qué",
+   "primera_vez": "2026-11-25",
+   "ultima_vez": "2026-11-25",
+   "historial": [
+    [
+     "2026-11-25",
+     82000.0
+    ]
+   ],
+   "duplicado_de": "trovimap-382244-41738064"
+  },
+  "trovimap-382244-41945677": {
+   "id": "trovimap-382244-41945677",
+   "fuente": "Trovimap",
+   "titulo": "Casa en venta en Aspe, Centro Aspe 10756. SE VENDE CASA PARA REFORMAR EN EL CENTRO DE ASPE",
+   "precio": 66050.0,
+   "precio_antes": null,
+   "m2": 250,
+   "hab": 3,
+   "banos": 1,
+   "zona": "Aspe",
+   "url": "https://www.trovimap.com/inmueble/382244-41945677",
+   "texto": "264 €/m² 250 m² 3 1 Casa Compra - Agente Inmobiliario Casa en venta en Aspe, Centro Aspe 10756. SE VENDE CASA PARA REFORMAR EN EL CENTRO DE ASPE con 247 m2 de superficie construida, 166 m2 superficie parcela, propiedad para reformar. Ex",
+   "riesgo": null,
+   "incompleto": false,
+   "aviso": "muy barato por m² (264 €/m²): comprueba por qué",
+   "primera_vez": "2026-11-25",
+   "ultima_vez": "2026-11-25",
+   "historial": [
+    [
+     "2026-11-25",
+     66050.0
+    ]
+   ],
+   "duplicado_de": "trovimap-310737-30171542"
   }
  },
  "estado_previo": {
@@ -8873,7 +8947,7 @@
   "Agost": "ok",
   "Aspe": "ok"
  },
- "actualizado": "2026-11-25T01:13+00:00",
+ "actualizado": "2026-11-25T04:03+00:00",
  "firmas": {
   "Santa Pola|100000|94|3": "trovimap-386974-40914591",
   "Santa Pola|105000|90|3": "trovimap-382244-26263325",
