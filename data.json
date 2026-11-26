@@ -8955,7 +8955,8 @@
      108000.0
     ]
    ],
-   "duplicado_de": "trovimap-382244-41878102"
+   "duplicado_de": "trovimap-382244-41878102",
+   "aviso": null
   },
   "trovimap-382244-41954791": {
    "id": "trovimap-382244-41954791",
@@ -9004,7 +9005,8 @@
      111200.0
     ]
    ],
-   "duplicado_de": "trovimap-382244-41744757"
+   "duplicado_de": "trovimap-382244-41744757",
+   "aviso": null
   },
   "trovimap-382244-41955196": {
    "id": "trovimap-382244-41955196",
@@ -9028,7 +9030,8 @@
      120000.0
     ]
    ],
-   "duplicado_de": "trovimap-382244-41744819"
+   "duplicado_de": "trovimap-382244-41744819",
+   "aviso": null
   },
   "trovimap-382244-41954004": {
    "id": "trovimap-382244-41954004",
@@ -9052,7 +9055,8 @@
      89900.0
     ]
    ],
-   "duplicado_de": "trovimap-382244-41861225"
+   "duplicado_de": "trovimap-382244-41861225",
+   "aviso": null
   },
   "trovimap-382244-41954747": {
    "id": "trovimap-382244-41954747",
@@ -9076,7 +9080,8 @@
      102260.0
     ]
    ],
-   "duplicado_de": "trovimap-310737-39107358"
+   "duplicado_de": "trovimap-310737-39107358",
+   "aviso": null
   },
   "trovimap-382244-41955157": {
    "id": "trovimap-382244-41955157",
@@ -9100,7 +9105,8 @@
      117260.0
     ]
    ],
-   "duplicado_de": "trovimap-310737-39107359"
+   "duplicado_de": "trovimap-310737-39107359",
+   "aviso": null
   },
   "trovimap-382244-41954892": {
    "id": "trovimap-382244-41954892",
@@ -9124,7 +9130,8 @@
      106050.0
     ]
    ],
-   "duplicado_de": "trovimap-310737-39137753"
+   "duplicado_de": "trovimap-310737-39137753",
+   "aviso": null
   },
   "trovimap-382244-41953806": {
    "id": "trovimap-382244-41953806",
@@ -9216,7 +9223,7 @@
   "Agost": "ok",
   "Aspe": "ok"
  },
- "actualizado": "2026-11-26T04:00+00:00",
+ "actualizado": "2026-11-26T07:18+00:00",
  "firmas": {
   "Santa Pola|100000|94|3": "trovimap-386974-40914591",
   "Santa Pola|105000|90|3": "trovimap-382244-26263325",
