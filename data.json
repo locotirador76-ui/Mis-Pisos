@@ -8932,6 +8932,274 @@
     ]
    ],
    "duplicado_de": "trovimap-310737-30171542"
+  },
+  "trovimap-382244-41954914": {
+   "id": "trovimap-382244-41954914",
+   "fuente": "Trovimap",
+   "titulo": "Apartamento en venta en Santa Pola, Eroski Santa Pola 72890. Se vende un acogedor piso en ",
+   "precio": 108000.0,
+   "precio_antes": null,
+   "m2": 60,
+   "hab": 3,
+   "banos": 1,
+   "zona": "Santa Pola",
+   "url": "https://www.trovimap.com/inmueble/382244-41954914",
+   "texto": "1.800 €/m² 60 m² 3 1 Piso Compra - Agente Inmobiliario Apartamento en venta en Santa Pola, Eroski Santa Pola 72890. Se vende un acogedor piso en Santa Pola (provincia de Alicante), situado a poca distancia del mar. La vivienda está reformada y lista para ent",
+   "riesgo": null,
+   "incompleto": false,
+   "primera_vez": "2026-11-26",
+   "ultima_vez": "2026-11-26",
+   "historial": [
+    [
+     "2026-11-26",
+     108000.0
+    ]
+   ],
+   "duplicado_de": "trovimap-382244-41878102"
+  },
+  "trovimap-382244-41954791": {
+   "id": "trovimap-382244-41954791",
+   "fuente": "Trovimap",
+   "titulo": "Piso en venta en Almoradi, Parque de la u con Ascensor 01875. Fantástico piso en Almoradí,",
+   "precio": 104900.0,
+   "precio_antes": null,
+   "m2": 127,
+   "hab": 3,
+   "banos": 2,
+   "zona": "Almoradí",
+   "url": "https://www.trovimap.com/inmueble/382244-41954791",
+   "texto": "826 €/m² 127 m² 3 2 Piso Compra - Agente Inmobiliario Piso en venta en Almoradi, Parque de la u con Ascensor 01875. Fantástico piso en Almoradí, ubicado en la zona Parque de la U, una de las áreas más demandadas por su tranquilidad y cercanía a todos los serv",
+   "riesgo": null,
+   "incompleto": false,
+   "aviso": "muy barato por m² (825 €/m²): comprueba por qué",
+   "primera_vez": "2026-11-26",
+   "ultima_vez": "2026-11-26",
+   "historial": [
+    [
+     "2026-11-26",
+     104900.0
+    ]
+   ],
+   "duplicado_de": "trovimap-310832-40799861"
+  },
+  "trovimap-382244-41955081": {
+   "id": "trovimap-382244-41955081",
+   "fuente": "Trovimap",
+   "titulo": "Piso en venta en Almoradi, Colegio canales y martinez con Ascensor A. (FINANCIACIÓN AL 100",
+   "precio": 111200.0,
+   "precio_antes": null,
+   "m2": 69,
+   "hab": 2,
+   "banos": 1,
+   "zona": "Almoradí",
+   "url": "https://www.trovimap.com/inmueble/382244-41955081",
+   "texto": "1.612 €/m² 69 m² 2 1 Piso Compra - Agente Inmobiliario Piso en venta en Almoradi, Colegio canales y martinez con Ascensor A. (FINANCIACIÓN AL 100% QUE PAGAS UNA LETRA MENSUAL DE 480€) Descubre este encantador piso ubicado en una urbanización cerrada de Almoradí, ideal par",
+   "riesgo": null,
+   "incompleto": false,
+   "primera_vez": "2026-11-26",
+   "ultima_vez": "2026-11-26",
+   "historial": [
+    [
+     "2026-11-26",
+     111200.0
+    ]
+   ],
+   "duplicado_de": "trovimap-382244-41744757"
+  },
+  "trovimap-382244-41955196": {
+   "id": "trovimap-382244-41955196",
+   "fuente": "Trovimap",
+   "titulo": "Apartamento en venta en Almoradi, Centro urbano 2 con Ascensor CV02105. Te presentamos un ",
+   "precio": 120000.0,
+   "precio_antes": null,
+   "m2": 108,
+   "hab": 2,
+   "banos": 2,
+   "zona": "Almoradí",
+   "url": "https://www.trovimap.com/inmueble/382244-41955196",
+   "texto": "1.111 €/m² 108 m² 2 2 Piso Compra - Agente Inmobiliario Apartamento en venta en Almoradi, Centro urbano 2 con Ascensor CV02105. Te presentamos un magnífico apartamento a estrenar en el corazón de Almoradí, ideal para quienes buscan comodidad y estilo. Con una superfici",
+   "riesgo": null,
+   "incompleto": false,
+   "primera_vez": "2026-11-26",
+   "ultima_vez": "2026-11-26",
+   "historial": [
+    [
+     "2026-11-26",
+     120000.0
+    ]
+   ],
+   "duplicado_de": "trovimap-382244-41744819"
+  },
+  "trovimap-382244-41954004": {
+   "id": "trovimap-382244-41954004",
+   "fuente": "Trovimap",
+   "titulo": "Casa con terreno en venta en Crevillent, LA MANGRANERA Crevillent 440AJ. Casa prefabricada",
+   "precio": 89900.0,
+   "precio_antes": null,
+   "m2": 75,
+   "hab": 3,
+   "banos": 1,
+   "zona": "Crevillent",
+   "url": "https://www.trovimap.com/inmueble/382244-41954004",
+   "texto": "1.199 €/m² 75 m² 3 1 Casa Compra - Agente Inmobiliario Casa con terreno en venta en Crevillent, LA MANGRANERA Crevillent 440AJ. Casa prefabricada de madera con parcela cerca de Crevillente Se vende magnífica parcela rústica de 3600 m2 situada en la tranquila zona de P",
+   "riesgo": null,
+   "incompleto": false,
+   "primera_vez": "2026-11-26",
+   "ultima_vez": "2026-11-26",
+   "historial": [
+    [
+     "2026-11-26",
+     89900.0
+    ]
+   ],
+   "duplicado_de": "trovimap-382244-41861225"
+  },
+  "trovimap-382244-41954747": {
+   "id": "trovimap-382244-41954747",
+   "fuente": "Trovimap",
+   "titulo": "Piso en venta en Aspe, Centro con Ascensor 29472. Te presentamos este encantador piso ubic",
+   "precio": 102260.0,
+   "precio_antes": null,
+   "m2": 92,
+   "hab": 2,
+   "banos": 1,
+   "zona": "Aspe",
+   "url": "https://www.trovimap.com/inmueble/382244-41954747",
+   "texto": "1.112 €/m² 92 m² 2 1 Piso Compra - Agente Inmobiliario Piso en venta en Aspe, Centro con Ascensor 29472. Te presentamos este encantador piso ubicado en pleno centro de Aspe, ideal para quienes buscan comodidad y cercanía a todos los servicios. Con",
+   "riesgo": null,
+   "incompleto": false,
+   "primera_vez": "2026-11-26",
+   "ultima_vez": "2026-11-26",
+   "historial": [
+    [
+     "2026-11-26",
+     102260.0
+    ]
+   ],
+   "duplicado_de": "trovimap-310737-39107358"
+  },
+  "trovimap-382244-41955157": {
+   "id": "trovimap-382244-41955157",
+   "fuente": "Trovimap",
+   "titulo": "Piso en venta en Aspe, Centro con Ascensor 29473. Descubre este encantador piso ubicado en",
+   "precio": 117260.0,
+   "precio_antes": null,
+   "m2": 109,
+   "hab": 3,
+   "banos": 1,
+   "zona": "Aspe",
+   "url": "https://www.trovimap.com/inmueble/382244-41955157",
+   "texto": "1.076 €/m² 109 m² 3 1 Piso Compra - Agente Inmobiliario Piso en venta en Aspe, Centro con Ascensor 29473. Descubre este encantador piso ubicado en pleno centro de Aspe, a solo unos pasos de la Plaza Mayor. Con una superficie construida de 105 m2 y ú",
+   "riesgo": null,
+   "incompleto": false,
+   "primera_vez": "2026-11-26",
+   "ultima_vez": "2026-11-26",
+   "historial": [
+    [
+     "2026-11-26",
+     117260.0
+    ]
+   ],
+   "duplicado_de": "trovimap-310737-39107359"
+  },
+  "trovimap-382244-41954892": {
+   "id": "trovimap-382244-41954892",
+   "fuente": "Trovimap",
+   "titulo": "Piso en venta en Aspe, Aspe Aspe 29482. ¡Descubre tu nuevo hogar en Aspe! Este encantador ",
+   "precio": 106050.0,
+   "precio_antes": null,
+   "m2": 100,
+   "hab": 3,
+   "banos": 1,
+   "zona": "Aspe",
+   "url": "https://www.trovimap.com/inmueble/382244-41954892",
+   "texto": "1.061 €/m² 100 m² 3 1 Piso Compra - Agente Inmobiliario Piso en venta en Aspe, Aspe Aspe 29482. ¡Descubre tu nuevo hogar en Aspe! Este encantador piso amueblado, listo para entrar a vivir, se encuentra en una excelente zona que combina tra",
+   "riesgo": null,
+   "incompleto": false,
+   "primera_vez": "2026-11-26",
+   "ultima_vez": "2026-11-26",
+   "historial": [
+    [
+     "2026-11-26",
+     106050.0
+    ]
+   ],
+   "duplicado_de": "trovimap-310737-39137753"
+  },
+  "trovimap-382244-41953806": {
+   "id": "trovimap-382244-41953806",
+   "fuente": "Trovimap",
+   "titulo": "Piso en venta en Aspe, Prosperidad Aspe 29812. SE VENDE PISO EN ASPE ZONA PROSPERIDAD CON ",
+   "precio": 61050.0,
+   "precio_antes": null,
+   "m2": 90,
+   "hab": 3,
+   "banos": 1,
+   "zona": "Aspe",
+   "url": "https://www.trovimap.com/inmueble/382244-41953806",
+   "texto": "678 €/m² 90 m² 3 1 Piso Compra - Agente Inmobiliario Piso en venta en Aspe, Prosperidad Aspe 29812. SE VENDE PISO EN ASPE ZONA PROSPERIDAD CON INQUILINO PENSIONISTA ,PAGO DEMOSTRABLE DESDE QUE ESTA ALQUILADO(CUOTA MENSUAL 461.25Euros) , con 73",
+   "riesgo": "INQUILIN",
+   "incompleto": false,
+   "aviso": "muy barato por m² (678 €/m²): comprueba por qué",
+   "primera_vez": "2026-11-26",
+   "ultima_vez": "2026-11-26",
+   "historial": [
+    [
+     "2026-11-26",
+     61050.0
+    ]
+   ],
+   "duplicado_de": "trovimap-310737-41735887"
+  },
+  "trovimap-382244-41953982": {
+   "id": "trovimap-382244-41953982",
+   "fuente": "Trovimap",
+   "titulo": "Casa en venta en Aspe, Aspe Aspe CS0021. Oportunidad de inversión o vivienda unifamiliar e",
+   "precio": 88000.0,
+   "precio_antes": null,
+   "m2": 388,
+   "hab": 4,
+   "banos": 2,
+   "zona": "Aspe",
+   "url": "https://www.trovimap.com/inmueble/382244-41953982",
+   "texto": "227 €/m² 388 m² 4 2 Casa Compra - Agente Inmobiliario Casa en venta en Aspe, Aspe Aspe CS0021. Oportunidad de inversión o vivienda unifamiliar en el centro de Aspe, con un extraordinario potencial de rehabilitación y desarrollo.~~Excepci",
+   "riesgo": "inversión",
+   "incompleto": false,
+   "aviso": "muy barato por m² (226 €/m²): comprueba por qué",
+   "primera_vez": "2026-11-26",
+   "ultima_vez": "2026-11-26",
+   "historial": [
+    [
+     "2026-11-26",
+     88000.0
+    ]
+   ],
+   "duplicado_de": "trovimap-382244-41743802"
+  },
+  "trovimap-382244-41954947": {
+   "id": "trovimap-382244-41954947",
+   "fuente": "Trovimap",
+   "titulo": "Casa en venta en Aspe, Centro Aspe 20379. VENTA DE CASA EN PLENO CENTRO EN CALLE PEATONAL ",
+   "precio": 109220.0,
+   "precio_antes": null,
+   "m2": 270,
+   "hab": 6,
+   "banos": 1,
+   "zona": "Aspe",
+   "url": "https://www.trovimap.com/inmueble/382244-41954947",
+   "texto": "405 €/m² 270 m² 6 1 Casa Compra - Agente Inmobiliario Casa en venta en Aspe, Centro Aspe 20379. VENTA DE CASA EN PLENO CENTRO EN CALLE PEATONAL EN ASPE CON 270 m2 de superficie CONSTRUIDA, 135 m2 superficie parcela, más 120 m2 de terraza,",
+   "riesgo": null,
+   "incompleto": false,
+   "aviso": "muy barato por m² (404 €/m²): comprueba por qué",
+   "primera_vez": "2026-11-26",
+   "ultima_vez": "2026-11-26",
+   "historial": [
+    [
+     "2026-11-26",
+     109220.0
+    ]
+   ],
+   "duplicado_de": "trovimap-382244-41744639"
   }
  },
  "estado_previo": {
@@ -8948,7 +9216,7 @@
   "Agost": "ok",
   "Aspe": "ok"
  },
- "actualizado": "2026-11-26T01:11+00:00",
+ "actualizado": "2026-11-26T04:00+00:00",
  "firmas": {
   "Santa Pola|100000|94|3": "trovimap-386974-40914591",
   "Santa Pola|105000|90|3": "trovimap-382244-26263325",
