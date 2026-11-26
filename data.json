@@ -1065,7 +1065,7 @@
    "riesgo": null,
    "incompleto": false,
    "primera_vez": "2026-11-01",
-   "ultima_vez": "2026-11-24",
+   "ultima_vez": "2026-11-26",
    "historial": [
     [
      "2026-11-01",
@@ -1183,7 +1183,7 @@
    "id": "trovimap-381187-41785219",
    "fuente": "Trovimap",
    "titulo": "Bajo en venta en Almoradí con Ascensor Descubre este maravilloso apartamento en Almoradí. ",
-   "precio": 114999.0,
+   "precio": 109999.0,
    "precio_antes": 114999.0,
    "m2": 80,
    "hab": 2,
@@ -1204,6 +1204,10 @@
     [
      "2026-11-02",
      114999.0
+    ],
+    [
+     "2026-11-26",
+     109999.0
     ]
    ]
   },
@@ -4590,7 +4594,7 @@
    "id": "trovimap-310737-41762675",
    "fuente": "Trovimap",
    "titulo": "Se vende encantadora casa semi reformada en el corazón de Aspe Aspe Descubre esta maravill",
-   "precio": 66050.0,
+   "precio": 62050.0,
    "precio_antes": null,
    "m2": 116,
    "hab": 3,
@@ -4600,13 +4604,17 @@
    "texto": "569 €/m² 116 m² 3 1 Nuevo Casa Compra - Agente Inmobiliario Se vende encantadora casa semi reformada en el corazón de Aspe Aspe Descubre esta maravillosa oportunidad en pleno centro histórico de Aspe. Esta acogedora casa cuenta con una superficie construida de 116 m2 y está par",
    "riesgo": null,
    "incompleto": false,
-   "aviso": "muy barato por m² (569 €/m²): comprueba por qué",
+   "aviso": "muy barato por m² (534 €/m²): comprueba por qué",
    "primera_vez": "2026-11-02",
    "ultima_vez": "2026-11-26",
    "historial": [
     [
      "2026-11-02",
      66050.0
+    ],
+    [
+     "2026-11-26",
+     62050.0
     ]
    ]
   },
@@ -8850,7 +8858,7 @@
    "incompleto": false,
    "aviso": "muy barato por m² (321 €/m²): comprueba por qué",
    "primera_vez": "2026-11-24",
-   "ultima_vez": "2026-11-25",
+   "ultima_vez": "2026-11-26",
    "historial": [
     [
      "2026-11-24",
@@ -9207,6 +9215,56 @@
     ]
    ],
    "duplicado_de": "trovimap-382244-41744639"
+  },
+  "trovimap-310832-41143385": {
+   "id": "trovimap-310832-41143385",
+   "fuente": "Trovimap",
+   "titulo": "Planta baja de esquina con luz todo el día y lista para entrar a vivir con Ascensor Oportu",
+   "precio": 119900.0,
+   "precio_antes": 124000.0,
+   "m2": 87,
+   "hab": 2,
+   "banos": 2,
+   "zona": "Almoradí",
+   "url": "https://www.trovimap.com/inmueble/310832-41143385",
+   "texto": "124.000 € 87 m² 2 2 Piso Compra - Agente Inmobiliario Planta baja de esquina con luz todo el día y lista para entrar a vivir con Ascensor Oportunidad para quienes buscan una vivienda cómoda, luminosa y preparada para disfrutar desde el primer día. Esta planta baja de esquina, situada en",
+   "riesgo": null,
+   "incompleto": false,
+   "primera_vez": "2026-11-26",
+   "ultima_vez": "2026-11-26",
+   "historial": [
+    [
+     "2026-11-26",
+     124000.0
+    ],
+    [
+     "2026-11-26",
+     119900.0
+    ]
+   ]
+  },
+  "trovimap-310737-41962564": {
+   "id": "trovimap-310737-41962564",
+   "fuente": "Trovimap",
+   "titulo": "SE VENDE PISO EN PLENO CENTRO DE ASPE Aspe Se vende piso situado en pleno centro de Aspe, ",
+   "precio": 97260.0,
+   "precio_antes": null,
+   "m2": 99,
+   "hab": 3,
+   "banos": 1,
+   "zona": "Aspe",
+   "url": "https://www.trovimap.com/inmueble/310737-41962564",
+   "texto": "982 €/m² 99 m² 3 1 Nuevo Piso Compra - Agente Inmobiliario SE VENDE PISO EN PLENO CENTRO DE ASPE Aspe Se vende piso situado en pleno centro de Aspe, una ubicación privilegiada que ofrece proximidad a todo tipo de servicios, comercios y comodidades. La",
+   "riesgo": null,
+   "incompleto": false,
+   "primera_vez": "2026-11-26",
+   "ultima_vez": "2026-11-26",
+   "historial": [
+    [
+     "2026-11-26",
+     97260.0
+    ]
+   ]
   }
  },
  "estado_previo": {
@@ -9223,7 +9281,7 @@
   "Agost": "ok",
   "Aspe": "ok"
  },
- "actualizado": "2026-11-26T07:18+00:00",
+ "actualizado": "2026-11-26T10:12+00:00",
  "firmas": {
   "Santa Pola|100000|94|3": "trovimap-386974-40914591",
   "Santa Pola|105000|90|3": "trovimap-382244-26263325",
@@ -9433,7 +9491,9 @@
   "Mutxamel|109600|125|3": "trovimap-522768-38652492",
   "Mutxamel|43300|79|3": "trovimap-522768-39610906",
   "Agost|116000|203|4": "trovimap-522768-38657314",
-  "San Fulgencio|109900|342|3": "trovimap-310805-40991292"
+  "San Fulgencio|109900|342|3": "trovimap-310805-40991292",
+  "Almoradí|119900|87|2": "trovimap-310832-41143385",
+  "Aspe|97260|99|3": "trovimap-310737-41962564"
  },
  "zonas_base": [
   "Agost",
