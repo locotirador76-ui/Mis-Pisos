@@ -7775,7 +7775,7 @@
    "id": "trovimap-382244-41860817",
    "fuente": "Trovimap",
    "titulo": "Casa en venta en Aspe, Centro Aspe 29816. Descubre esta maravillosa oportunidad en pleno c",
-   "precio": 66050.0,
+   "precio": 62050.0,
    "precio_antes": null,
    "m2": 116,
    "hab": 3,
@@ -7785,13 +7785,17 @@
    "texto": "569 €/m² 116 m² 3 1 Casa Compra - Agente Inmobiliario Casa en venta en Aspe, Centro Aspe 29816. Descubre esta maravillosa oportunidad en pleno centro histórico de Aspe. Esta acogedora casa cuenta con una superficie construida de 116 m2 y e",
    "riesgo": null,
    "incompleto": false,
-   "aviso": "muy barato por m² (569 €/m²): comprueba por qué",
+   "aviso": "muy barato por m² (534 €/m²): comprueba por qué",
    "primera_vez": "2026-11-14",
    "ultima_vez": "2026-11-27",
    "historial": [
     [
      "2026-11-14",
      66050.0
+    ],
+    [
+     "2026-11-27",
+     62050.0
     ]
    ],
    "duplicado_de": "trovimap-310737-41762675"
@@ -9267,6 +9271,227 @@
     ]
    ],
    "aviso": null
+  },
+  "trovimap-382244-41963887": {
+   "id": "trovimap-382244-41963887",
+   "fuente": "Trovimap",
+   "titulo": "Planta baja en venta en Almoradi, Comunidad valenciana Almoradí VBS483. ~~Acogedora vivien",
+   "precio": 109899.0,
+   "precio_antes": null,
+   "m2": 80,
+   "hab": 2,
+   "banos": 1,
+   "zona": "Almoradí",
+   "url": "https://www.trovimap.com/inmueble/382244-41963887",
+   "texto": "1.374 €/m² 80 m² 2 1 Piso Compra - Agente Inmobiliario Planta baja en venta en Almoradi, Comunidad valenciana Almoradí VBS483. ~~Acogedora vivienda lista para entrar a vivir situada en una tranquila zona residencial de Almoradí, ideal tanto como residencia habitual com",
+   "riesgo": null,
+   "incompleto": false,
+   "primera_vez": "2026-11-27",
+   "ultima_vez": "2026-11-27",
+   "historial": [
+    [
+     "2026-11-27",
+     109899.0
+    ]
+   ]
+  },
+  "trovimap-382244-41935093": {
+   "id": "trovimap-382244-41935093",
+   "fuente": "Trovimap",
+   "titulo": "Piso en venta en Almoradi, Colegio canales y martinez con Ascensor 01921. Oportunidad para",
+   "precio": 119900.0,
+   "precio_antes": 124000.0,
+   "m2": 87,
+   "hab": 2,
+   "banos": 2,
+   "zona": "Almoradí",
+   "url": "https://www.trovimap.com/inmueble/382244-41935093",
+   "texto": "124.000 € 87 m² 2 2 Nuevo Piso Compra - Agente Inmobiliario Piso en venta en Almoradi, Colegio canales y martinez con Ascensor 01921. Oportunidad para quienes buscan una vivienda cómoda, luminosa y preparada para disfrutar desde el primer día. Esta planta baja de esquina, si",
+   "riesgo": null,
+   "incompleto": false,
+   "primera_vez": "2026-11-27",
+   "ultima_vez": "2026-11-27",
+   "historial": [
+    [
+     "2026-11-27",
+     124000.0
+    ],
+    [
+     "2026-11-27",
+     119900.0
+    ]
+   ],
+   "duplicado_de": "trovimap-310832-41143385"
+  },
+  "trovimap-382244-41963838": {
+   "id": "trovimap-382244-41963838",
+   "fuente": "Trovimap",
+   "titulo": "Piso en venta en Catral, Comunidad valenciana Catral VBS457. ~~En VBS Inmobiliaria te pres",
+   "precio": 98000.0,
+   "precio_antes": null,
+   "m2": 100,
+   "hab": 3,
+   "banos": 1,
+   "zona": "Catral",
+   "url": "https://www.trovimap.com/inmueble/382244-41963838",
+   "texto": "980 €/m² 100 m² 3 1 Piso Compra - Agente Inmobiliario Piso en venta en Catral, Comunidad valenciana Catral VBS457. ~~En VBS Inmobiliaria te presentamos esta fantástica vivienda en primera planta, ideal para quienes buscan comodidad, espacios al aire libre y",
+   "riesgo": null,
+   "incompleto": false,
+   "primera_vez": "2026-11-27",
+   "ultima_vez": "2026-11-27",
+   "historial": [
+    [
+     "2026-11-27",
+     98000.0
+    ]
+   ],
+   "duplicado_de": "trovimap-382244-41749033"
+  },
+  "trovimap-382244-41963927": {
+   "id": "trovimap-382244-41963927",
+   "fuente": "Trovimap",
+   "titulo": "Piso en venta en Crevillent, AYUNTAMIENTO con Ascensor 9978. Se vende piso amueblado de 14",
+   "precio": 114000.0,
+   "precio_antes": null,
+   "m2": 149,
+   "hab": 3,
+   "banos": 2,
+   "zona": "Crevillent",
+   "url": "https://www.trovimap.com/inmueble/382244-41963927",
+   "texto": "765 €/m² 149 m² 3 2 Piso Compra - Agente Inmobiliario Piso en venta en Crevillent, AYUNTAMIENTO con Ascensor 9978. Se vende piso amueblado de 149 m2 en la zona del Ayuntamiento. El piso consta de ; 3 habitaciones ( posibilidad de 4) un baño, un aseo , un pati",
+   "riesgo": null,
+   "incompleto": false,
+   "aviso": "muy barato por m² (765 €/m²): comprueba por qué",
+   "primera_vez": "2026-11-27",
+   "ultima_vez": "2026-11-27",
+   "historial": [
+    [
+     "2026-11-27",
+     114000.0
+    ]
+   ],
+   "duplicado_de": "trovimap-382244-41845925"
+  },
+  "trovimap-382244-41963835": {
+   "id": "trovimap-382244-41963835",
+   "fuente": "Trovimap",
+   "titulo": "Piso en venta en Aspe, Aspe Aspe 29836. Se vende piso situado en pleno centro de Aspe, una",
+   "precio": 97260.0,
+   "precio_antes": null,
+   "m2": 99,
+   "hab": 3,
+   "banos": 1,
+   "zona": "Aspe",
+   "url": "https://www.trovimap.com/inmueble/382244-41963835",
+   "texto": "982 €/m² 99 m² 3 1 Piso Compra - Agente Inmobiliario Piso en venta en Aspe, Aspe Aspe 29836. Se vende piso situado en pleno centro de Aspe, una ubicación privilegiada que ofrece proximidad a todo tipo de servicios, comercios y comodidad",
+   "riesgo": null,
+   "incompleto": false,
+   "primera_vez": "2026-11-27",
+   "ultima_vez": "2026-11-27",
+   "historial": [
+    [
+     "2026-11-27",
+     97260.0
+    ]
+   ],
+   "duplicado_de": "trovimap-310737-41962564"
+  },
+  "trovimap-382244-41964171": {
+   "id": "trovimap-382244-41964171",
+   "fuente": "Trovimap",
+   "titulo": "Casa con terreno en venta en Aspe, Borisa Aspe 28807. INMOBILIARIA SAN JOSE VENDE CASA DE ",
+   "precio": 120000.0,
+   "precio_antes": null,
+   "m2": 282,
+   "hab": 6,
+   "banos": 5,
+   "zona": "Aspe",
+   "url": "https://www.trovimap.com/inmueble/382244-41964171",
+   "texto": "426 €/m² 282 m² 6 5 Casa Compra - Agente Inmobiliario Casa con terreno en venta en Aspe, Borisa Aspe 28807. INMOBILIARIA SAN JOSE VENDE CASA DE CAMPO PARA REFORMAR TOTALMENTE EN ASPE CON 282 m. de superficie construida, 11928 m. superficie parcela, 4",
+   "riesgo": null,
+   "incompleto": false,
+   "aviso": "muy barato por m² (425 €/m²): comprueba por qué",
+   "primera_vez": "2026-11-27",
+   "ultima_vez": "2026-11-27",
+   "historial": [
+    [
+     "2026-11-27",
+     120000.0
+    ]
+   ],
+   "duplicado_de": "trovimap-382244-41749386"
+  },
+  "trovimap-382244-41964054": {
+   "id": "trovimap-382244-41964054",
+   "fuente": "Trovimap",
+   "titulo": "Piso en venta en Aspe, La Serranica - Sagrado Corazón Aspe 00196. Ubicado en la encantador",
+   "precio": 116000.0,
+   "precio_antes": null,
+   "m2": 98,
+   "hab": 4,
+   "banos": 1,
+   "zona": "Aspe",
+   "url": "https://www.trovimap.com/inmueble/382244-41964054",
+   "texto": "1.184 €/m² 98 m² 4 1 Piso Compra - Agente Inmobiliario Piso en venta en Aspe, La Serranica - Sagrado Corazón Aspe 00196. Ubicado en la encantadora ciudad de Aspe, en la zona tranquila y residencial de La Serranica - Sagrado Corazón, se presenta este magnífico piso",
+   "riesgo": null,
+   "incompleto": false,
+   "primera_vez": "2026-11-27",
+   "ultima_vez": "2026-11-27",
+   "historial": [
+    [
+     "2026-11-27",
+     116000.0
+    ]
+   ],
+   "duplicado_de": "trovimap-521988-40323836"
+  },
+  "trovimap-382244-41964055": {
+   "id": "trovimap-382244-41964055",
+   "fuente": "Trovimap",
+   "titulo": "Piso en venta en Aspe, La Serranica - Sagrado Corazón Aspe 29617. Inmobiliaria San Jose VE",
+   "precio": 116000.0,
+   "precio_antes": null,
+   "m2": 95,
+   "hab": 4,
+   "banos": 1,
+   "zona": "Aspe",
+   "url": "https://www.trovimap.com/inmueble/382244-41964055",
+   "texto": "1.221 €/m² 95 m² 4 1 Piso Compra - Agente Inmobiliario Piso en venta en Aspe, La Serranica - Sagrado Corazón Aspe 29617. Inmobiliaria San Jose VENDE BONITO PISO EN ASPE, EN LA ZONA DE LA SERRICA Descubre este encantador piso en la codiciada zona de La Serránica,",
+   "riesgo": null,
+   "incompleto": false,
+   "primera_vez": "2026-11-27",
+   "ultima_vez": "2026-11-27",
+   "historial": [
+    [
+     "2026-11-27",
+     116000.0
+    ]
+   ],
+   "duplicado_de": "trovimap-310737-40219034"
+  },
+  "trovimap-382244-41964111": {
+   "id": "trovimap-382244-41964111",
+   "fuente": "Trovimap",
+   "titulo": "Casa en venta en Aspe, Sagrado corazón Aspe 06936. SE VENDE CASA PARA REFORMAR EN LA ZONA ",
+   "precio": 119000.0,
+   "precio_antes": null,
+   "m2": 120,
+   "hab": 3,
+   "banos": 1,
+   "zona": "Aspe",
+   "url": "https://www.trovimap.com/inmueble/382244-41964111",
+   "texto": "992 €/m² 120 m² 3 1 Casa Compra - Agente Inmobiliario Casa en venta en Aspe, Sagrado corazón Aspe 06936. SE VENDE CASA PARA REFORMAR EN LA ZONA DEL CORAZÓN DE JESÚS EN ASPE con 120 m. de superficie construida y 150 m. superficie de parcela, con 3 h",
+   "riesgo": null,
+   "incompleto": false,
+   "primera_vez": "2026-11-27",
+   "ultima_vez": "2026-11-27",
+   "historial": [
+    [
+     "2026-11-27",
+     119000.0
+    ]
+   ],
+   "duplicado_de": "trovimap-382244-41749299"
   }
  },
  "estado_previo": {
@@ -9283,7 +9508,7 @@
   "Agost": "ok",
   "Aspe": "ok"
  },
- "actualizado": "2026-11-27T01:18+00:00",
+ "actualizado": "2026-11-27T04:02+00:00",
  "firmas": {
   "Santa Pola|100000|94|3": "trovimap-386974-40914591",
   "Santa Pola|105000|90|3": "trovimap-382244-26263325",
@@ -9495,7 +9720,8 @@
   "Agost|116000|203|4": "trovimap-522768-38657314",
   "San Fulgencio|109900|342|3": "trovimap-310805-40991292",
   "Almoradí|119900|87|2": "trovimap-310832-41143385",
-  "Aspe|97260|99|3": "trovimap-310737-41962564"
+  "Aspe|97260|99|3": "trovimap-310737-41962564",
+  "Almoradí|109899|80|2": "trovimap-382244-41963887"
  },
  "zonas_base": [
   "Agost",
