@@ -9499,6 +9499,76 @@
    ],
    "duplicado_de": "trovimap-382244-41749299",
    "aviso": null
+  },
+  "trovimap-524207-41967526": {
+   "id": "trovimap-524207-41967526",
+   "fuente": "Trovimap",
+   "titulo": "🏡 Luminoso apartamento de 2 dormitorios con piscina comunitaria y balcón Almoradí. Almorad",
+   "precio": 109900.0,
+   "precio_antes": null,
+   "m2": 80,
+   "hab": 2,
+   "banos": 1,
+   "zona": "Almoradí",
+   "url": "https://www.trovimap.com/inmueble/524207-41967526",
+   "texto": "1.374 €/m² 80 m² 2 1 Nuevo Planta Baja Compra - Agente Inmobiliario 🏡 Luminoso apartamento de 2 dormitorios con piscina comunitaria y balcón Almoradí. Almoradí Acogedora vivienda lista para entrar a vivir situada en una tranquila zona residencial de Almoradí, ideal tanto como residencia habitual como para seg",
+   "riesgo": null,
+   "incompleto": false,
+   "primera_vez": "2026-11-27",
+   "ultima_vez": "2026-11-27",
+   "historial": [
+    [
+     "2026-11-27",
+     109900.0
+    ]
+   ]
+  },
+  "trovimap-464693-41968579": {
+   "id": "trovimap-464693-41968579",
+   "fuente": "Trovimap",
+   "titulo": "Adosado para reformar en zona de campo de Almoradí por 65.500 € Almoradí Se ofrece en vent",
+   "precio": 65500.0,
+   "precio_antes": null,
+   "m2": 110,
+   "hab": 3,
+   "banos": 1,
+   "zona": "Almoradí",
+   "url": "https://www.trovimap.com/inmueble/464693-41968579",
+   "texto": "595 €/m² 110 m² 3 1 Nuevo Unifamiliar Pareada Compra - Agente Inmobiliario Adosado para reformar en zona de campo de Almoradí por 65.500 € Almoradí Se ofrece en venta este adosado situado en la tranquila zona de campo de Almoradí, una excelente oportunidad para quienes buscan una vivienda con pote",
+   "riesgo": null,
+   "incompleto": false,
+   "aviso": "muy barato por m² (595 €/m²): comprueba por qué",
+   "primera_vez": "2026-11-27",
+   "ultima_vez": "2026-11-27",
+   "historial": [
+    [
+     "2026-11-27",
+     65500.0
+    ]
+   ]
+  },
+  "trovimap-310737-41968190": {
+   "id": "trovimap-310737-41968190",
+   "fuente": "Trovimap",
+   "titulo": "Se vende casa de campo para reformar cerca del pueblo de Aspe Aspe Casa de campo situada e",
+   "precio": 97260.0,
+   "precio_antes": null,
+   "m2": 75,
+   "hab": 2,
+   "banos": 1,
+   "zona": "Aspe",
+   "url": "https://www.trovimap.com/inmueble/310737-41968190",
+   "texto": "1.297 €/m² 75 m² 2 1 Nuevo Unifamiliar Compra - Agente Inmobiliario Se vende casa de campo para reformar cerca del pueblo de Aspe Aspe Casa de campo situada en la zona de La Horna, cerca del pueblo de Aspe, una excelente oportunidad para quienes buscan crear una vivienda a su gusto en",
+   "riesgo": null,
+   "incompleto": false,
+   "primera_vez": "2026-11-27",
+   "ultima_vez": "2026-11-27",
+   "historial": [
+    [
+     "2026-11-27",
+     97260.0
+    ]
+   ]
   }
  },
  "estado_previo": {
@@ -9515,7 +9585,7 @@
   "Agost": "ok",
   "Aspe": "ok"
  },
- "actualizado": "2026-11-27T07:18+00:00",
+ "actualizado": "2026-11-27T10:08+00:00",
  "firmas": {
   "Santa Pola|100000|94|3": "trovimap-386974-40914591",
   "Santa Pola|105000|90|3": "trovimap-382244-26263325",
@@ -9728,7 +9798,10 @@
   "San Fulgencio|109900|342|3": "trovimap-310805-40991292",
   "Almoradí|119900|87|2": "trovimap-310832-41143385",
   "Aspe|97260|99|3": "trovimap-310737-41962564",
-  "Almoradí|109899|80|2": "trovimap-382244-41963887"
+  "Almoradí|109899|80|2": "trovimap-382244-41963887",
+  "Almoradí|109900|80|2": "trovimap-524207-41967526",
+  "Almoradí|65500|110|3": "trovimap-464693-41968579",
+  "Aspe|97260|75|2": "trovimap-310737-41968190"
  },
  "zonas_base": [
   "Agost",
