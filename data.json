@@ -9571,6 +9571,30 @@
     ]
    ],
    "aviso": null
+  },
+  "trovimap-382244-41970426": {
+   "id": "trovimap-382244-41970426",
+   "fuente": "Trovimap",
+   "titulo": "Apartamento en venta en Guardamar del Segura, Pueblo Guardamar del Segura Emp6549JMK-107. ",
+   "precio": 119900.0,
+   "precio_antes": null,
+   "m2": 62,
+   "hab": 3,
+   "banos": 1,
+   "zona": "Guardamar del Segura",
+   "url": "https://www.trovimap.com/inmueble/382244-41970426",
+   "texto": "1.934 €/m² 62 m² 3 1 Piso Compra - Agente Inmobiliario Apartamento en venta en Guardamar del Segura, Pueblo Guardamar del Segura Emp6549JMK-107. El Moncayo Properties presenta este exclusivo apartamento ubicado en el corazón de Guardamar del Segura. La vivienda se encuentra e",
+   "riesgo": null,
+   "incompleto": false,
+   "primera_vez": "2026-11-28",
+   "ultima_vez": "2026-11-28",
+   "historial": [
+    [
+     "2026-11-28",
+     119900.0
+    ]
+   ],
+   "duplicado_de": "trovimap-510062-41376354"
   }
  },
  "estado_previo": {
@@ -9587,7 +9611,7 @@
   "Agost": "ok",
   "Aspe": "ok"
  },
- "actualizado": "2026-11-28T01:11+00:00",
+ "actualizado": "2026-11-28T03:57+00:00",
  "firmas": {
   "Santa Pola|100000|94|3": "trovimap-386974-40914591",
   "Santa Pola|105000|90|3": "trovimap-382244-26263325",
